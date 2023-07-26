@@ -1,3 +1,7 @@
 {
-  "recommendations": ["grapecity.gc-excelviewer"]
+  "recommendations": [
+    "grapecity.gc-excelviewer",
+    "ms-toolsai.jupyter",
+    "ms-python.python"
+  ]
 }
