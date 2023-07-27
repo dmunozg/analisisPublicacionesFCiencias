@@ -1,0 +1,287 @@
+,codigo,titulo,fecha_inicio,fecha_fin,investigadores,institucion,programa,fuente
+0,1220366,Developing Materials for Hydrogen as an Energy Vector,01/04/2022,01/04/2026,C. Cardenas / P. Fuentealba,Departamento de Física,FONDECYT,Regular
+1,1221135,Atoms and Molecules under extreme conditions,01/08/2021,01/08/2021,P. Fuentealba / C. Cardenas,Departamento de Física,FONDECYT,Regular
+2,1180623,Electronic structure and reactivity of atomic and molecular clusters,01/03/2018,01/03/2022,P. Fuentealba / C. Cardenas,Departamento de Física,FONDECYT,Regular
+3,1181121,How the chemical bond changes on excited state dynamics,01/03/2018,01/03/2022,C. Cardenas / P. Fuentealba,Departamento de Física,FONDECYT,Regular
+4,3170653,Assessing the role of non-covalent interactions onto the selectivity patterns in phosphine-promoted annulation reactions: Insights for rational catalysts design,01/04/2017,01/04/2020,P. Fuentealba,Departamento de Química,FONDECYT,Postdoctorado
+5,1170211,Electronic Structure and reactivity of atomic and molecular clusters,01/08/2016,01/08/2016,P. Fuentealba / C. Cardenas,Departamento de Física,FONDECYT,Regular
+6,3160047,Theoretical investigation of noble gas compounds,01/06/2015,01/06/2015,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+7,3160792,Towards the rational design of new N-heterocyclic carbene-based organocatalysts,01/06/2015,01/06/2015,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+8,3150476,Generalización del principio de economía atómica en la perspectiva del diseño de rutas sintéticas sostenibles en química verde,01/11/2014,01/11/2014,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+9,1140313,Navigating the Chemical Space: A Perturbative Approach,01/03/2014,01/03/2017,C. Cardenas / P. Fuentealba,Departamento de Física,FONDECYT,Regular
+10,3140525,Molecular Interactions in Ionic Liquids: An Ab-Initio Molecular Dynamics Approach,01/11/2013,01/11/2016,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+11,1130202,Exploring the dynamics and reactivity of atomic and molecular clusters,01/03/2013,01/03/2017,P. Fuentealba / C. Cardenas,Departamento de Física,FONDECYT,Regular
+12,1120423,Ab initio molecular dynamics applied to chemical reactivity and atomic and molecular clusters,01/03/2012,01/03/2012,P. Fuentealba,Departamento de Física,FONDECYT,Regular
+13,3120124,Adsorción disociativa de cúmulos de agua sobre superficies metálicas: Imvestigación ab-initio.,01/03/2012,01/03/2012,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+14,3110007,"Caracterización espectroscópica de cadenas carbonadas neutras, aniónicas y catiónicas relevantes en astroquímica a partir de métodos AB initio de alto nivel",01/10/2010,01/09/2013,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+15,NM-22,Centro Interdisciplinario de Líquidos Iónicos,01/03/2011,01/03/2017,"R. Contreras / C. Cardenas, P. Fuentealba",Departamento de Química,Iniciativa científica Milenio,Núcleos Milenio
+16,A-19,Anillo de investigación sobre líquidos iónicos para síntesis orgánica y electro-síntesis: experimento y teoría,01/12/2009,01/12/2009,R. Contreras / P. Fuentealba,Departamento de Química,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+17,1080184,"Chemical reactivity of molecules, cluster and extended systems from a theoretical perspective.",01/03/2008,01/03/2012,P. Fuentealba,Departamento de Física,FONDECYT,Regular
+18,3080033,Chemical reactivity of transition metal surface. A theoretical Study.,01/03/2008,01/03/2010,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+19,1050294,Conceptos químicos en teoría del funcional de la densidad y sus aplicaciones a moléculas y clusters,01/03/2005,01/03/2008,P. Fuentealba,Departamento de Física,FONDECYT,Regular
+20,3040081,Implementación de diagramas energía-coordenada de reacción para el estudio de mecanismos de reacción en química orgánica. Aplicación al estudio de reacciones de sustitución nucleofílica,01/03/2004,01/03/2006,P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+21,CSIC-06/04,Estudio teórico de especies moleculares de interés astrofísico detectables con los nuevos instrumentos Herschel y ALMA,01/01/2005,01/12/2006,J. Letelier / P. Fuentealba,Departamento de Ciencia de los Materiales,Fondo Central de Investigación,CSIC/U. DE CHILE
+22,P02-004-F,Núcleo Milenio de mecánica cuántica aplicada y química computacional,01/12/2003,01/12/2006,"J. Letelier, R. Contreras, P. Fuentealba, F. Mendizábal",Departamento de Química,Iniciativa científica Milenio,Núcleos Milenio
+23,1010649,Aplicaciones y desarrollo de la teoría del funcional de la densidad en química,01/03/2001,01/03/2005,P. Fuentealba,Departamento de Física,FONDECYT,Regular
+24,7980081,"Applications of density functional theory to atoms, molecules and clusters",01/03/1998,01/03/2001,P. Fuentealba,Departamento de Física,FONDECYT,Cooperación Internacional
+25,1981231,"Applications of density functional theory to atoms, molecules and clusters",01/03/1998,01/03/2001,P. Fuentealba,Departamento de Física,FONDECYT,Regular
+26,3970021,Atomistic simulations by means of density functional theory,01/03/1997,01/03/2000,G. Gutiérrez / P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+27,1950530,Teoría del funcional de la densidad y sus aplicaciones en átomos y moléculas,01/03/1995,01/03/1998,P. Fuentealba / O. Reyes,Departamento de Física,FONDECYT,Regular
+28,1910839,"Átomos, moléculas y sus interacciones",01/03/1991,01/03/1994,P. Fuentealba / O. Reyes,Departamento de Física,FONDECYT,Regular
+29,1221578,Maximum Entropy and Maximum Caliber Principles in Statistical Physics: from fundamentals to applications,01/10/2021,01/10/2021,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+30,1212061,Thermal and electric transport in molecular structures. A computational and theoretical approach,01/08/2020,01/08/2020,G. Gutiérrez,Universidad Nacional Andrés Bello,FONDECYT,Regular
+31,1211956,Variational Principles in Statistical Physics: from fundamentals to applications,01/08/2020,01/08/2020,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+32,3170745,Propagación del calor en sistemas magnéticos nanoscópicos: Estudio mediante dinámica de espines,01/08/2016,01/08/2016,G. Gutiérrez,Departamento de Física,FONDECYT,Postdoctorado
+33,1171127,Maximum Entropy and Maximum Caliber principles in Computational Statistical Mechanics: from fundamentals to applications ,01/04/2017,01/04/2021,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+34,1151328,"Strength, ductility and shear band formation in metallic glasses: a computer simulation study",01/03/2015,01/03/2015,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+35,ENL15-17,"Computer simulation on mechanical properties of metallic glasses nanowires
+",01/05/2015,01/05/2015,G. Gutiérrez,Departamento de Física,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+36,1120603,Mechanical properties of bulk metallic glasses: a computer simulation study,01/03/2012,01/03/2015,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+37,3120083,Estudio de propiedades magnéticas de materiales mediante la simulación multiescala.,01/03/2012,01/03/2012,G. Gutiérrez,Departamento de Física,FONDECYT,Postdoctorado
+38,1110293,"Computer simulation of materials: from structure of glasses, properties of nano-structures, to shock wave phenomena",01/03/2011,01/03/2011,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+39,3110017,Study of Melting of Solids using Atomistic Computer Simulation Techniques,01/10/2011,01/10/2013,G. Gutiérrez,Departamento de Física,FONDECYT,Postdoctorado
+40,3110149,Mechanical and cooperative properties of dimeric proteins. A computational simulation study.,01/03/2011,01/03/2013,G. Gutiérrez,Departamento de Física,FONDECYT,Postdoctorado
+41,Act-1115,"Física de Plasma, Potencia Pulsada y Biología Celular para Energía, Vida y Medio Ambiente",01/10/2012,01/10/2015,"K. Marcelain, R. Armisen, J. Tapia, G. Gutiérrez",Comisión Chilena de Energía Núclear,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+42,1100589,Spectroscopy of complex materials: from experiments to electronic structure calculations,01/03/2010,01/03/2010,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+43,1100422,"Computer simulation of materials: from structure of glasses, properties of nanostructures, to shock wave phenomena",01/03/2010,01/03/2010,G. Gutiérrez,Departamento de Física,FONDECYT,Regular
+44,FA9550-06-1-0540,Thermophysical modeling of novel machinable ceramics,01/12/2006,01/12/2009,G. Gutiérrez,Departamento de Física,Gobierno USA,The Air Force Office of Scientific Research (AFOSR)
+45,3090045,Study of biological system under the efect of shock waves.,01/03/2009,01/03/2011,G. Gutiérrez,Departamento de Física,FONDECYT,Postdoctorado
+46,3080064,Funtionalized carbon nanotubes: A computational Characterization.,01/03/2008,01/03/2008,G. Gutiérrez,Departamento de Física,FONDECYT,Postdoctorado
+47,CIEX-3,Cooperación internacional para simulación de nanobio sistemas,01/12/2007,01/12/2008,G. Gutiérrez,Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Colaboración Internacional de Excelencia
+48,1070244,"Theoretical study of structural, mechanical and magnetic properties of materials: from atomic to nanoscopic regime",01/03/2007,01/03/2010,G. Gutiérrez,U. Católica de Valparaiso,FONDECYT,Regular
+49,1070080,Study of small metallic clusters by computer simulations,01/03/2007,01/03/2009,"J. Rogan / M. Kiwi, G. Gutiérrez",Departamento de Física,FONDECYT,Regular
+50,7060212,Study of Properties of Materials by Computer Simulation: from Atomic to Nanoscopic Regime,01/03/2006,01/03/2007,G. Gutiérrez,Departamento de Física,FONDECYT,Cooperación Internacional
+51,ADI24,Simulación computacional molecular de nanomateriales y sistemas biológicos de interés experimental,01/12/2006,01/12/2009,G. Gutiérrez,Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+52,7050162,Stydy of Properties of Materials by Computer Simulation: from Atomic to Nanoscopic Regime,01/03/2005,01/03/2006,G. Gutiérrez,Departamento de Física,FONDECYT,Cooperación Internacional
+53,1050154,Study of nanostructures and high pressure materials by computer simulations ,01/06/2005,01/06/2005,"J. Rogan / G. Gutiérrez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+54,1030063,Study of Properties of Materials by Computer Simulation: from Atomic to Nanoscopic Regime,01/03/2003,01/03/2007,G. Gutiérrez,Depto. de Física,FONDECYT,Regular
+55,3970021,Atomistic simulations by means of density functional theory,01/03/1997,01/03/2000,G. Gutiérrez / P. Fuentealba,Departamento de Física,FONDECYT,Postdoctorado
+56,NC160041,Núcleo Milenio física de la materia activa,01/05/2017,01/09/2023,"R. Soto / F. Barra, M. Cordero, F. Guzmán",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+57,314-112,Interactions between warm cloud microphysics and radiation in very warm climates,01/10/2013,01/10/2013,F. Guzmán / R. Rondanelli,Departamento de Geofísica,FONDECYT,Postdoctorado
+58,1960866,Non-Noetherian Symmetries And Non-Canonical Structures In Physics,01/03/1996,01/03/1999,S. Hojman,Departamento de Física,FONDECYT,Regular
+59,1930883,Construcción de estructuras hamiltonianas para sistemas dinámicos,01/03/1993,01/03/1996,S. Hojman,Departamento de Física,FONDECYT,Regular
+60,1910857,Simetrías no-noetherianas y sus aplicaciones,01/03/1991,01/03/1993,S. Hojman,Departamento de Física,FONDECYT,Regular
+61,1910858,Modelos matemáticos de objetos celestes,01/03/1991,01/03/1993,"N. Zamorano, S. Hojman",Departamento de Física,FONDECYT,Regular
+62,IM21_11448_en,"Millennium Institute for Sustainable, Livable, and Healthy Cities",01/03/2023,01/03/2023,"J. Valdivia / M. Correa, J. Rogan, F. Torres, M. Kiwi",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+63,1211902,Computational and Theoretical Modeling of Magnetic Metal-Organic Superlattices,01/03/2021,01/03/2025,M. Kiwi,Departamento de Física,FONDECYT,Regular
+64,1211076,Two Dimensional Systems: Chirality and the Dzyaloshinsky-Moriya Interaction,01/08/2020,01/08/2020,M. Kiwi / F. Torres,Departamento de Física,FONDECYT,Regular
+65,1200645,Low Dimensional complex systems to improve computing energy efficiency,01/08/2019,01/08/2019,M. Kiwi / F. Torres,Departamento de Física,FONDECYT,Regular
+66,1190662,Metallic hollow nanospheres with grain boundaries,01/04/2019,01/04/2023,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+67,AFB180001,Centro para el Desarrollo de la Nanociencia y la Nanotecnología,01/01/2019,01/01/2022,M. Kiwi,Universidad De Santiago,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+68,1180817,Metallic hollow nanospheres,01/07/2017,01/07/2017,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+69,1170673,Metallic hollow nanoparticles,01/09/2016,01/09/2016,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+70,FA9550-16-1-0122,Exchange bias: from basic physic towards applications,01/03/2016,01/03/2019,M. Kiwi,Departamento de Física,Gobierno USA,The Air Force Office of Scientific Research (AFOSR)
+71,1160639,Two dimensional and quasi-two dimensional simple and complex systems,01/04/2016,01/04/2020,M. Kiwi / J. Rogan,Departamento de Física,FONDECYT,Regular
+72,314-075,Exchange-bias en multicapas magnéticas,01/10/2013,01/10/2013,F. Torres / M. Kiwi,Departamento de Física,FONDECYT,Postdoctorado
+73,1130272,Properties of metallic nanoclusters,01/03/2013,01/03/2017,J. Rogan / M. Kiwi,Departamento de Física,FONDECYT,Regular
+74,3130694,Propiedades Magnéticas de Interfaces en Multicapas y Exchange Bias,01/10/2012,01/10/2012,F. Torres / M. Kiwi,Departamento de Física,FONDECYT,Postdoctorado
+75,ANM-60,Instituo milenio de materia condensada,01/03/2013,01/03/2013,"M. Kiwi, J. Valdivia",USACH. Depto. de Física,Iniciativa científica Milenio,Institutos Milenios
+76,ANM-02,Social and biological networks: from complexity to dynamics,01/01/2013,01/01/2013,J. Valdivia / M. Kiwi,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+77,1120399,"Nanoscopic systems: metallic clusters, nanowires and exchange bias",01/03/2012,01/03/2016,M. Kiwi / J. Rogan,Departamento de Física,FONDECYT,Regular
+78,1110657,Challenges in nanoscience and nanotechnology,01/03/2011,01/03/2011,M. Kiwi / J. Rogan,PUC. Depto. de Física,FONDECYT,Regular
+79,1090225,Structure and properties of pure and binary metallic clusters.,01/03/2009,01/03/2013,J. Rogan / M. Kiwi,Departamento de Física,FONDECYT,Regular
+80,FB007,Centro para el Desarrollo de la Nanociencia y Nanotecnología,01/12/2008,01/12/2021,"G. González, E. Spodine, M. Kiwi, J. Rogan, C. Cardenas, V. Muñoz, F. Mendizábal, J. Valdivia",USACH. Depto. de Física,Programa Financiamiento Basal,Basal
+81,1071062,"Nanocluster, nanotubes and nanoscopic friction",01/03/2007,01/03/2011,M. Kiwi / J. Rogan,PUC. Depto. de Física,FONDECYT,Regular
+82,1070080,Study of small metallic clusters by computer simulations,01/03/2007,01/03/2009,"J. Rogan / M. Kiwi, G. Gutiérrez",Departamento de Física,FONDECYT,Regular
+83,NCML07-04,Nanostructures: properties and applications,01/03/2007,01/03/2007,"J. Valdivia / M. Kiwi, J. Rogan",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+84,1050154,Study of nanostructures and high pressure materials by computer simulations ,01/06/2005,01/06/2005,"J. Rogan / G. Gutiérrez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+85,1030957,"Propiedades fisicas de interfaces nanoestructuras, cúmulos y moléculas. Physical properties of interfaces, nanostructures, clusters and molecules",01/03/2003,01/03/2007,M. Kiwi / J. Rogan,PUC. Depto. de Física,FONDECYT,Regular
+86,1240051,Fractionality in discrete nonlinear systems: Case studies,01/07/2023,01/07/2023,M. Molina,Departamento de Física,FONDECYT,Regular
+87,1200120,Bound states in the continuum and Hermitian and non-hermitian disordered lattices,01/03/2020,01/03/2024,M. Molina,Departamento de Física,FONDECYT,Regular
+88,1160177,"Flat band lattices, PT-Symmetry, and magnetic metamaterials",01/04/2016,01/04/2020,M. Molina,Departamento de Física,FONDECYT,Regular
+89,3140608,"Light management in photonic lattices: localization, disorder and nonlinearity",01/11/2013,01/11/2016,M. Molina,Departamento de Física,FONDECYT,Postdoctorado
+90,3130655,"Beam propagation in photonic lattices: Disorder, dissipation and nonlinearity",01/10/2012,01/10/2012,M. Molina,Departamento de Física,FONDECYT,Postdoctorado
+91,1120123,Localization in discrete nonlinear optical media: Case studies,01/03/2012,01/03/2016,M. Molina,Departamento de Física,FONDECYT,Regular
+92,1080374,Nonlinear localization in photonic nanostructures,01/03/2008,01/03/2012,M. Molina,Departamento de Física,FONDECYT,Regular
+93,1070897,Dynamics of localized excitation in discrete nonlinear optical media,01/03/2007,01/03/2011,R. Vicencio / M. Molina,Departamento de Física,FONDECYT,Regular
+94,7060006,Creation and controlled steering of localized excitations in a discrete nonlinear optical medium,01/03/2006,01/03/2007,M. Molina,Departamento de Física,FONDECYT,Cooperación Internacional
+95,1050193,Creation and controlled steering of localized excitations in a discrete nonlinear optical medium,01/03/2005,01/03/2008,M. Molina,Departamento de Física,FONDECYT,Regular
+96,1020139,Power switchingin nonlinear inhomogeneus directional couplers,01/03/2002,01/03/2005,M. Molina,Departamento de Física,FONDECYT,Regular
+97,1990960,"Disorder, Nonlinearity and quantum fluctuations in low dimensional systems",01/03/1999,01/03/2002,M. Molina,Departamento de Física,FONDECYT,Regular
+98,3990040,Quantum interference in a one-atom laser,01/03/1999,01/03/2002,M. Molina,Departamento de Física,FONDECYT,Postdoctorado
+99,2980033,Localización en cadenas de Holstein con desorden,01/03/1998,01/03/2001,M. Molina,Departamento de Física,FONDECYT,Doctorado
+100,3980038,Exactly solvable phonon model for a disordered solid,01/03/1998,01/03/2001,M. Molina,Departamento de Física,FONDECYT,Postdoctorado
+101,1970460,Disorder and Nonlinearity in low Dimensional Systems,01/03/1997,01/03/1998,M. Molina,Departamento de Física,FONDECYT,Regular
+102,1950655,Transport in low-dimensional systems with strong electron-phonon coupling,01/03/1995,01/03/1997,M. Molina / J. Roessler,Departamento de Física,FONDECYT,Regular
+103,1240281,The macro and micro physics of expanding plasma systems: implications for solar and stellar winds,01/07/2023,01/07/2023,P. Moya,Departamento de Física,FONDECYT,Regular
+104,3230036,The Role of Kappa Distributions on Fundamental Plasma Physics Phenomena in the GeoSpace Environment,01/03/2023,01/03/2026,P. Moya,Departamento de Física,FONDECYT,Postdoctorado
+105,1231399,Effects of the plasma composition and Coulomb collisions on the inertial-to-kinetic transition scales in solar wind turbulence,01/08/2022,01/08/2022,P. Moya,UCO. Depto. de Fisiología,FONDECYT,Regular
+106,1230495,The macro and micro physics of expanding plasma systems: implications for solar and stellar winds,01/07/2022,01/07/2022,P. Moya,Departamento de Física,FONDECYT,Regular
+107,ENL08/23,Micro y macro física de plasmas en expansión: implicaciones en el viento solar y vientos estelares,01/06/2023,01/06/2024,P. Moya,Departamento de Física,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+108,3220611,The Role of Kappa Distributions on Fundamental Plasma Physics Phenomena in the GeoSpace Environment,01/09/2021,01/09/2021,P. Moya,Departamento de Física,FONDECYT,Postdoctorado
+109,IM21_11468_en,Millennium Institute for Space Exploration,01/03/2023,01/03/2023,"P. Moya, R. Méndez, M. Riquelme, J. Valdivia",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+110,1211144,Roles of turbulent transport and total pressure balance in dynamics of Earth's magnetosphere,01/03/2021,01/03/2025,"J. Valdivia, P. Moya, M. Díaz",Universidad De Santiago,FONDECYT,Regular
+111,1200956,Role of turbulent transport and total pressure balance in the dynamics of the magnetosphere of the Earth,01/08/2019,01/08/2019,"P. Moya, J. Valdivia, M. Díaz",Universidad De Santiago,FONDECYT,Regular
+112,1191351,"Kinetic instabilities and wave-particle interactions in non Maxwellian plasmas. Linear, quasi-linear, and non-linear analysis",01/04/2019,01/04/2023,P. Moya,Departamento de Física,FONDECYT,Regular
+113,1181298,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/07/2017,01/07/2017,"B. Toledo / P. Moya, J. Valdivia",Departamento de Física,FONDECYT,Regular
+114,U-REDES-G_2018-02,"""Caracterización de la turbulencia en plasmas espaciales y astrofísicos utilizando redes complejas. Simulaciones y análisis de datos""",01/08/2018,01/08/2018,P. Moya,Departamento de Física,Fondo Central de Investigación,Programa U-Redes: Línea 1 Incentivo a la Generación de Red
+115,1171599,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/09/2016,01/09/2016,"B. Toledo / P. Moya, J. Valdivia",Departamento de Física,FONDECYT,Regular
+116,NM2016_023,Núcleo Milenio de estudios de complejidad en geociencias y ciencias Espaciales,01/07/2016,01/07/2016,P. Moya,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+117,11150055,"The effect of non-thermal particles in the relaxation of nearly collisionless plasmas: a study using theory, simulations, and data analysis",01/11/2015,01/11/2018,P. Moya,Departamento de Física,FONDECYT,Iniciación en Investigación
+118,10677,"Procesos fundamentales en física de plasmas espaciales, combinando instrumentación, observaciones, teoría y simulaciones",01/10/2015,01/10/2018,"J. Valdivia / V. Muñoz, M. Díaz, J. Silva, M. Orchard, P. Moya",Departamento de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+119,3240387,Adaptación de los descriptores de la topología química cuántica (qct) para entender la superconductividad topológica: avanzando en nuestra comprensión de los fenómenos cuánticos exóticos,01/07/2023,01/07/2023,F. Muñoz,Departamento de Física,FONDECYT,Postdoctorado
+120,1231635,Spin-to-charge conversion in copper oxide heterostructures,01/08/2022,01/08/2022,F. Muñoz,Universidad De Santiago,FONDECYT,Regular
+121,1231487,Defects in two-dimensional materials and heterostructures,01/03/2023,01/03/2027,F. Muñoz,Departamento de Física,FONDECYT,Regular
+122,1220715,Strain effect on local electronic properties of topological insulator nanostructures,01/04/2022,01/04/2026,F. Muñoz,UTFSM. Depto. de Física,FONDECYT,Regular
+123,3220130,Interaction of single photon emitters and topologically-protected states in van der Waals heterostructures,01/09/2021,01/09/2021,F. Muñoz,Departamento de Física,FONDECYT,Postdoctorado
+124,3210218,Predicting 2D carbon-based materials by using molecules as building blocks,01/08/2020,01/08/2020,F. Muñoz,Departamento de Física,FONDECYT,Postdoctorado
+125,3201093,Reactive Molecular Dynamics under Extreme Conditions,01/12/2019,01/12/2019,F. Muñoz,Departamento de Física,FONDECYT,Postdoctorado
+126,1191353,Topological Insulator Superlattices,01/04/2019,01/04/2023,F. Muñoz,Departamento de Física,FONDECYT,Regular
+127,ACT192023,Light-Matter Interactions in Topological Nanomaterials Towards Low-Consumption Information Technology,01/11/2019,01/11/2022,F. Muñoz,PUC. Depto. de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+128,1181861,Properties of Imogolite and Imogolite-like Nanotubes: Interaction with 2D Materials,01/08/2017,01/08/2017,F. Muñoz,Departamento de Física,FONDECYT,Regular
+129,1150806,"Characterization, Design and Transport Properties of Topologically Protected Surface States",01/03/2015,01/03/2019,F. Muñoz / F. Torres,Departamento de Física,FONDECYT,Regular
+130,11110510,Nanoclusters and their Interaction with Nanostructures,01/10/2011,01/10/2014,F. Muñoz,Departamento de Física,FONDECYT,Iniciación en Investigación
+131,1231939,Metaphorization and enaction in an experimental epistemology of mathematics,01/08/2022,01/08/2022,"J. Soto / L. Cubillos, M. Yáñez, R. Araya, V. Muñoz, L. Jiménez",Departamento de Matemáticas,FONDECYT,Regular
+132,CP21-P148,Érase una vez… relatos cotidianos de física y matemática,01/11/2022,01/11/2022,V. Muñoz,Departamento de Física,Programa Ciencia Pública,Ciencia Pública para el Desarrollo de Productos de Divulgación del Conocimiento
+133,1201967,Time series and complex networks approaches for nonlinear processes in space plasmas,01/03/2020,01/03/2024,V. Muñoz,Departamento de Física,FONDECYT,Regular
+134,COVID1028,"""Estudio de complejidad para la pandemia COVID-19""",01/06/2020,01/06/2021,V. Muñoz,Departamento de Física,"Subdirección de Redes, Estrategia y Conocimiento (REC)",Concurso asignación rápida Covid-19
+135,REDES170204,Complex Networks Studies on Natural and Induced Seismicity,01/12/2017,01/12/2019,V. Muñoz / D. Pastén,Departamento de Física,Cooperación Internacional: Multilateral y vinculación,Apoyo a la Formación de Redes Internacionales_Centros
+136,3160758,Characterization of edge localized modes instabilities in magnetically confined fusion plasmas,01/06/2015,01/06/2015,V. Muñoz,Departamento de Física,FONDECYT,Postdoctorado
+137,1161711,Nonlinear phenomena in magnetized plasmas: an study on solitons and geomagnetic storms,01/04/2016,01/04/2020,V. Muñoz,Departamento de Física,FONDECYT,Regular
+138,10677,"Procesos fundamentales en física de plasmas espaciales, combinando instrumentación, observaciones, teoría y simulaciones",01/10/2015,01/10/2018,"J. Valdivia / V. Muñoz, M. Díaz, J. Silva, M. Orchard, P. Moya",Departamento de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+139,REDES140112,Development of Chile/UK Collaboration Network for Fusion Research,01/12/2014,01/06/2016,V. Muñoz,Departamento de Física,Cooperación Internacional: Multilateral y vinculación,Apoyo a la Formación de Redes Internacionales_Centros
+140,1121144,Nonlinear processes in relativistic electron-positron plasmas,01/03/2012,01/03/2016,V. Muñoz,Departamento de Física,FONDECYT,Regular
+141,ANM-25,Núcleo milenio de ciencia y educación: Enseñar y aprender ciencias en el mundo de hoy,01/01/2013,01/01/2013,"A. Galdámez / J. Orlando, M. Handford, C. Areche, C. Stange, J. Alcaíno, J. Camacho, V. Muñoz",Departamento de Estudios Pedagógicos,Iniciativa científica Milenio,Núcleos Milenio
+142,1080658,"Nonextensive statistics in complex systems: a study in plasmas, seisms and traffic/pedestrian flow",01/03/2008,01/03/2012,V. Muñoz,Departamento de Física,FONDECYT,Regular
+143,FB007,Centro para el Desarrollo de la Nanociencia y Nanotecnología,01/12/2008,01/12/2021,"G. González, E. Spodine, M. Kiwi, J. Rogan, C. Cardenas, V. Muñoz, F. Mendizábal, J. Valdivia",USACH. Depto. de Física,Programa Financiamiento Basal,Basal
+144,002,"Plasma Physics in Space and Astrophysical enviroments: Theory, Simulation, and data Analysis",01/12/2006,01/12/2006,"J. Valdivia / J. Rogan, V. Muñoz",Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+145,1060830,Waves in nonextensive relativistic plasmas,01/03/2006,01/03/2008,V. Muñoz,Departamento de Física,FONDECYT,Regular
+146,AN-CS-03,El centro de espacio físico,01/12/2004,01/12/2004,J. Valdivia / V. Muñoz,Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+147,1020558,Kinetic effects on parametric decays in relativistic,01/03/2002,01/03/2004,V. Muñoz,Departamento de Física,FONDECYT,Regular
+148,1240364,Complexity in nonlinear dissipative systems: fractals and complex networks on earthquakes,01/07/2023,01/07/2023,D. Pastén,Departamento de Química,FONDECYT,Regular
+149,1230817,Fractals and complex networks on earthquakes: a case study of complexity in nonlinear dissipative systems,01/08/2022,01/08/2022,D. Pastén,Departamento de Física,FONDECYT,Regular
+150,1220399,Complexity view on earthquakes in the north of Chile,01/08/2021,01/08/2021,D. Pastén,Departamento de Física,FONDECYT,Regular
+151,IM21_11505_en,Millennium Institute for Earthquake Risk,01/03/2023,01/03/2023,"S. Ruiz / G. Easton, J. Campos, E. Contreras, L. Massone, E. Aliste, D. Pastén, P. Vergara",Departamento de Geología,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+152,1211585,Complex networks applied to the Chilean subduction zone: a seismic hazard study,01/08/2020,01/08/2020,D. Pastén,Departamento de Física,FONDECYT,Regular
+153,1200463,A study of the seismic hazard along the Chilean subduction zone applying complex networks,01/08/2019,01/08/2019,D. Pastén,Departamento de Física,FONDECYT,Regular
+154,REDES170204,Complex Networks Studies on Natural and Induced Seismicity,01/12/2017,01/12/2019,V. Muñoz / D. Pastén,Departamento de Física,Cooperación Internacional: Multilateral y vinculación,Apoyo a la Formación de Redes Internacionales_Centros
+155,URC-015/17,Caracterización de clustering de sismicidad y su aplicación a sismicidad inducida en minería,01/08/2017,01/08/2017,D. Pastén,Departamento de Física,Fondo Central de Investigación,Programa U-Redes: Línea 2 incentivo a la Consolidación de Red; Domeyko II
+156,URC-013/16,Análisis Espacio-Temporal de la Sismicidad en Chile y América del Sur desde una Óptica de Sistemas complejos y Aplicación a Sismicidad Inducida,01/09/2016,01/09/2016,D. Pastén,Departamento de Física,Fondo Central de Investigación,Programa U-Redes: Línea 2 incentivo a la Consolidación de Red; Domeyko II
+157,11160452,Phase transition in earthquakes: a study from seismic time based networks and visibility graph in Chile,01/10/2016,01/10/2019,D. Pastén,Departamento de Física,FONDECYT,Iniciación en Investigación
+158,11150077,"An study of seismcity in the subduction zone between Nazca and South American plate, in the Nazca plate and in the South American plate from the complex network",01/07/2015,01/07/2015,D. Pastén,Departamento de Física,FONDECYT,Iniciación en Investigación
+159,3120237,Análisis fractal y de redes sobre sismicidad en Chile y el peligro sísmico asociado.,01/10/2011,01/09/2013,D. Pastén / D. Comte,Departamento de Geofísica,FONDECYT,Postdoctorado
+160,ANM-22,Proyecto núcleo milenio: Centro de investigación andina de geociencias y georecursos (Andes-G2RC),01/01/2013,01/01/2013,"B. Townley / R. Boroschek, F. Herve, F. Rojas, F. Ortega, D. Comte, M. Díaz, D. Pastén, R. Charrier",Departamento de Geología,Iniciativa científica Milenio,Núcleos Milenio
+161,1230580,Simulation of agents' counterflows: Closing the gap between different sciences,01/07/2022,01/07/2022,M. Ramírez / M. Correa,Departamento de Física,FONDECYT,Regular
+162,1230633,Enhancing the limits of thermomechanical stability of hollow nanospheres by means of tetral metallic nanoshells,01/07/2022,01/07/2022,J. Rogan / M. Ramírez,Departamento de Física,FONDECYT,Regular
+163,1220745,Simulation of agents' flows: closing the gap between different sciences,01/08/2021,01/08/2021,M. Ramírez / M. Correa,Departamento de Física,FONDECYT,Regular
+164,1211233,Pedestrian dynamics studied through complex networks,01/08/2020,01/08/2020,M. Ramírez / B. Toledo,Departamento de Física,FONDECYT,Regular
+165,1190662,Metallic hollow nanospheres with grain boundaries,01/04/2019,01/04/2023,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+166,11190717,"Design, codification and applications of a Inverse-Design method",01/04/2019,01/04/2019,M. Ramírez,Departamento de Física,FONDECYT,Iniciación en Investigación
+167,1180817,Metallic hollow nanospheres,01/07/2017,01/07/2017,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+168,1180852,"Simulations of agent flows: massive humans events, herd movement, and pedestrian contraflows",01/07/2017,01/07/2017,"M. Ramírez / J. Rogan, J. Valdivia",Departamento de Física,FONDECYT,Regular
+169,11180745,"Simulations of agent flows: massive humans events, and pedestrian contraflows",01/05/2018,01/05/2018,M. Ramírez,Departamento de Física,FONDECYT,Iniciación en Investigación
+170,1170673,Metallic hollow nanoparticles,01/09/2016,01/09/2016,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+171,11160484,"Simulations of agent flows: massive humans events, herd movement, and pedestrian contraflows",01/06/2016,01/06/2016,M. Ramírez,Departamento de Física,FONDECYT,Iniciación en Investigación
+172,11150419,A Two Dimensional Study of the Traffic in a City,01/06/2015,01/06/2015,M. Ramírez,Departamento de Física,FONDECYT,Iniciación en Investigación
+173,11140178,Computer simulations of small boron clusters via density-functional tight-binding method,01/12/2014,01/12/2014,M. Ramírez,Departamento de Física,FONDECYT,Iniciación en Investigación
+174,1950530,Teoría del funcional de la densidad y sus aplicaciones en átomos y moléculas,01/03/1995,01/03/1998,P. Fuentealba / O. Reyes,Departamento de Física,FONDECYT,Regular
+175,1910839,"Átomos, moléculas y sus interacciones",01/03/1991,01/03/1994,P. Fuentealba / O. Reyes,Departamento de Física,FONDECYT,Regular
+176,3000040,"Effect of structural parameters on magnetic properties in thin films
+",01/03/2000,01/03/2000,J. Roessler,Departamento de Física,FONDECYT,Postdoctorado
+177,1960837,Highly correlated sistem: a route fro one to two-dimensional topology,01/03/1996,01/03/1996,J. Roessler,Departamento de Física,FONDECYT,Regular
+178,1950655,Transport in low-dimensional systems with strong electron-phonon coupling,01/03/1995,01/03/1997,M. Molina / J. Roessler,Departamento de Física,FONDECYT,Regular
+179,1940341,Highly correlated systems in low dimension,01/03/1994,01/03/1996,J. Roessler,Departamento de Física,FONDECYT,Regular
+180,1910832,"Electrones, fonones y sus interacciones mutuas",01/03/1991,01/03/1993,J. Roessler,Departamento de Física,FONDECYT,Regular
+181,1910828,Nonlinear physics in chains of interacting spins,01/03/1991,01/03/1992,J. Roessler,Departamento de Física,FONDECYT,Regular
+182,1230633,Enhancing the limits of thermomechanical stability of hollow nanospheres by means of tetral metallic nanoshells,01/07/2022,01/07/2022,J. Rogan / M. Ramírez,Departamento de Física,FONDECYT,Regular
+183,3210320,Theoretical and computational study of the plasmon response of metal and non-metal hollow-eccentric nanoparticle dimers,01/08/2020,01/08/2020,J. Rogan,Departamento de Física,FONDECYT,Postdoctorado
+184,IM21_11448_en,"Millennium Institute for Sustainable, Livable, and Healthy Cities",01/03/2023,01/03/2023,"J. Valdivia / M. Correa, J. Rogan, F. Torres, M. Kiwi",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+185,1200124,Respuestas emocionales y respuestas motivadas de la comunicación en salud: una aproximación a la persuasión humana desde las neurociencias sociales,01/08/2019,01/08/2019,"M. Correa / R. Burrows, J. Valdivia, J. Rogan",Dirección,FONDECYT,Regular
+186,1190148,Respuestas emocionales y respuestas motivadas de la comunicación en salud: una aproximación a la persuasión humana desde las neurociencias sociales,01/07/2018,01/07/2018,"M. Correa / R. Burrows, J. Valdivia, J. Rogan",Dirección,FONDECYT,Regular
+187,1190662,Metallic hollow nanospheres with grain boundaries,01/04/2019,01/04/2023,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+188,U-REDES-G_2018-04,"Grupo Interdisciplinario de Investigación en Neurociencias Sociales y Comunicación (GI2NSC). ""El etiquetado de alimentos y su impacto en la respuesta emocional y la conducta motivada:Evaluación de su potencial persuasivo mediante técnicas biométricas""",01/10/2018,01/10/2020,"M. Correa / R. Burrows, C. Zúñiga, J. Valdivia, J. Rogan",Dirección,Fondo Central de Investigación,Programa U-Redes: Línea 1 Incentivo a la Generación de Red
+189,1180817,Metallic hollow nanospheres,01/07/2017,01/07/2017,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+190,1180852,"Simulations of agent flows: massive humans events, herd movement, and pedestrian contraflows",01/07/2017,01/07/2017,"M. Ramírez / J. Rogan, J. Valdivia",Departamento de Física,FONDECYT,Regular
+191,1170673,Metallic hollow nanoparticles,01/09/2016,01/09/2016,"J. Rogan / M. Ramírez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+192,1160639,Two dimensional and quasi-two dimensional simple and complex systems,01/04/2016,01/04/2020,M. Kiwi / J. Rogan,Departamento de Física,FONDECYT,Regular
+193,3140526,"Nanotubos tipo imogolita: Procesos de formación y unión. Propiedades estructurales, mecánicas y térmicas",01/11/2013,01/11/2016,J. Rogan,Departamento de Física,FONDECYT,Postdoctorado
+194,1130272,Properties of metallic nanoclusters,01/03/2013,01/03/2017,J. Rogan / M. Kiwi,Departamento de Física,FONDECYT,Regular
+195,3130636,Formas nanotubulares de la materia: modificación de imogolita y uniones de nanotubos de carbono,01/10/2012,01/10/2012,J. Rogan,Departamento de Física,FONDECYT,Postdoctorado
+196,1120399,"Nanoscopic systems: metallic clusters, nanowires and exchange bias",01/03/2012,01/03/2016,M. Kiwi / J. Rogan,Departamento de Física,FONDECYT,Regular
+197,1110657,Challenges in nanoscience and nanotechnology,01/03/2011,01/03/2011,M. Kiwi / J. Rogan,PUC. Depto. de Física,FONDECYT,Regular
+198,1090225,Structure and properties of pure and binary metallic clusters.,01/03/2009,01/03/2013,J. Rogan / M. Kiwi,Departamento de Física,FONDECYT,Regular
+199,FB007,Centro para el Desarrollo de la Nanociencia y Nanotecnología,01/12/2008,01/12/2021,"G. González, E. Spodine, M. Kiwi, J. Rogan, C. Cardenas, V. Muñoz, F. Mendizábal, J. Valdivia",USACH. Depto. de Física,Programa Financiamiento Basal,Basal
+200,1070080,Study of small metallic clusters by computer simulations,01/03/2007,01/03/2009,"J. Rogan / M. Kiwi, G. Gutiérrez",Departamento de Física,FONDECYT,Regular
+201,1071062,"Nanocluster, nanotubes and nanoscopic friction",01/03/2007,01/03/2011,M. Kiwi / J. Rogan,PUC. Depto. de Física,FONDECYT,Regular
+202,NCML07-04,Nanostructures: properties and applications,01/03/2007,01/03/2007,"J. Valdivia / M. Kiwi, J. Rogan",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+203,002,"Plasma Physics in Space and Astrophysical enviroments: Theory, Simulation, and data Analysis",01/12/2006,01/12/2006,"J. Valdivia / J. Rogan, V. Muñoz",Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+204,1050154,Study of nanostructures and high pressure materials by computer simulations ,01/06/2005,01/06/2005,"J. Rogan / G. Gutiérrez, M. Kiwi",Departamento de Física,FONDECYT,Regular
+205,1030957,"Propiedades fisicas de interfaces nanoestructuras, cúmulos y moléculas. Physical properties of interfaces, nanostructures, clusters and molecules",01/03/2003,01/03/2007,M. Kiwi / J. Rogan,PUC. Depto. de Física,FONDECYT,Regular
+206,1950679,Theory of the low temperature phase of diffusion of light species in solid solution,01/03/1995,01/03/1996,J. Rogan,Departamento de Física,FONDECYT,Regular
+207,1940224,Charge waves in antiferromagnetic electronic systems,01/03/1994,01/03/1995,J. Rogan,Departamento de Física,FONDECYT,Regular
+208,1930841,Theory of the anomalous low temperature regime of transport exhibited by light impurities in solids,01/03/1993,01/03/1994,J. Rogan,Departamento de Física,FONDECYT,Regular
+209,1910840,Transporte de impurezas hidrogénicas en metales,01/03/1991,01/03/1992,J. Rogan,Departamento de Física,FONDECYT,Regular
+210,1240484,Thermally-induced electromagnetic fluctuations in pair plasmas,01/07/2023,01/07/2023,B. Toledo,Departamento de Física,FONDECYT,Regular
+211,1230550,Electromagnetic fluctuations and kinetic regulation of turbulence in space plasmas,01/07/2022,01/07/2022,J. Valdivia / B. Toledo,Departamento de Física,FONDECYT,Regular
+212,1230847,Thermally-induced electromagnetic fluctuations in pair plasmas,01/08/2022,01/08/2022,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+213,1221208,Thermally-induced electromagnetic fluctuations in pair plasmas,01/09/2021,01/09/2021,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+214,1211233,Pedestrian dynamics studied through complex networks,01/08/2020,01/08/2020,M. Ramírez / B. Toledo,Departamento de Física,FONDECYT,Regular
+215,1211243,Thermally-induced electromagnetic fluctuations in pair plasmas,01/08/2020,01/08/2020,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+216,1200587,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/08/2019,01/08/2019,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+217,1191342,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection.,01/09/2018,01/09/2018,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+218,1190703,Universality of electromagnetic fluctuations in space plasmas,01/04/2019,01/04/2023,J. Valdivia / B. Toledo,Departamento de Física,FONDECYT,Regular
+219,1181298,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/07/2017,01/07/2017,"B. Toledo / P. Moya, J. Valdivia",Departamento de Física,FONDECYT,Regular
+220,1171599,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/09/2016,01/09/2016,"B. Toledo / P. Moya, J. Valdivia",Departamento de Física,FONDECYT,Regular
+221,1130273,"Observation and modelling of complex fluxes: ocean, ionosphere and astrophysical plasmas",01/03/2013,01/03/2017,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+222,1090253,Study of emergent phenomena in complex systems.,01/03/2009,01/03/2009,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+223,11090248,Collective behaviors related to traffic and pedestrian dynamics.,01/10/2009,01/10/2009,B. Toledo,Departamento de Física,FONDECYT,Iniciación en Investigación
+224,1211076,Two Dimensional Systems: Chirality and the Dzyaloshinsky-Moriya Interaction,01/08/2020,01/08/2020,M. Kiwi / F. Torres,Departamento de Física,FONDECYT,Regular
+225,IM21_11448_en,"Millennium Institute for Sustainable, Livable, and Healthy Cities",01/03/2023,01/03/2023,"J. Valdivia / M. Correa, J. Rogan, F. Torres, M. Kiwi",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+226,1200645,Low Dimensional complex systems to improve computing energy efficiency,01/08/2019,01/08/2019,M. Kiwi / F. Torres,Departamento de Física,FONDECYT,Regular
+227,11191142,Chiral Magnetic Superlattice-Chains,01/04/2019,01/04/2019,F. Torres,Departamento de Física,FONDECYT,Iniciación en Investigación
+228,11181151,Learning Physics through the Complexity of Biological Systems,01/06/2018,01/06/2018,F. Torres,Departamento de Física,FONDECYT,Iniciación en Investigación
+229,11171013,Neuromorphic Technology: From Nanomaterials to Complex Networks Architecture,01/06/2017,01/06/2017,F. Torres,Departamento de Física,FONDECYT,Iniciación en Investigación
+230,11160813,"Transport dynamics, critical phenomena, and optimal design of complex networks",01/06/2016,01/06/2016,F. Torres,Departamento de Física,FONDECYT,Iniciación en Investigación
+231,1150806,"Characterization, Design and Transport Properties of Topologically Protected Surface States",01/03/2015,01/03/2019,F. Muñoz / F. Torres,Departamento de Física,FONDECYT,Regular
+232,11150455,Critical Phenomena and Transport Dynamics in Complex Networks,01/06/2015,01/06/2015,F. Torres,Departamento de Física,FONDECYT,Iniciación en Investigación
+233,11140438,Quantum enhancement of nanostructured devices,01/12/2014,01/12/2014,F. Torres,Departamento de Física,FONDECYT,Iniciación en Investigación
+234,314-075,Exchange-bias en multicapas magnéticas,01/10/2013,01/10/2013,F. Torres / M. Kiwi,Departamento de Física,FONDECYT,Postdoctorado
+235,3130694,Propiedades Magnéticas de Interfaces en Multicapas y Exchange Bias,01/10/2012,01/10/2012,F. Torres / M. Kiwi,Departamento de Física,FONDECYT,Postdoctorado
+236,1230550,Electromagnetic fluctuations and kinetic regulation of turbulence in space plasmas,01/07/2022,01/07/2022,J. Valdivia / B. Toledo,Departamento de Física,FONDECYT,Regular
+237,1230847,Thermally-induced electromagnetic fluctuations in pair plasmas,01/08/2022,01/08/2022,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+238,1221208,Thermally-induced electromagnetic fluctuations in pair plasmas,01/09/2021,01/09/2021,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+239,1210029,Emotional and motivated responses of health communication: Approaching persuasion through behavioral biometrics and artificial intelligence,01/03/2021,01/03/2025,"M. Correa / R. Burrows, J. Valdivia",Dirección,FONDECYT,Regular
+240,3210760,Machine Learning methods for system science discovery of ionosphere dynamics,01/08/2020,01/08/2020,J. Valdivia,Departamento de Física,FONDECYT,Postdoctorado
+241,IM21_11468_en,Millennium Institute for Space Exploration,01/03/2023,01/03/2023,"P. Moya, R. Méndez, M. Riquelme, J. Valdivia",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+242,IM21_11448_en,"Millennium Institute for Sustainable, Livable, and Healthy Cities",01/03/2023,01/03/2023,"J. Valdivia / M. Correa, J. Rogan, F. Torres, M. Kiwi",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+243,NAM21I0002,"Health promotion messages for older people: Assessing their potential for attitude change, awareness, and behavioral change through behavioral  biometrics",01/03/2021,01/03/2021,"M. Correa / C. González, J. Valdivia, R. Burrows",Dirección,Desafío Global en Longevidad Saludable,Longevidad Saludable: Fase Internacional Catalizadora
+244,1211243,Thermally-induced electromagnetic fluctuations in pair plasmas,01/08/2020,01/08/2020,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+245,1211144,Roles of turbulent transport and total pressure balance in dynamics of Earth's magnetosphere,01/03/2021,01/03/2025,"J. Valdivia, P. Moya, M. Díaz",Universidad De Santiago,FONDECYT,Regular
+246,FA9550-20-1-0189,"Study the simultaneous variation of the Ionosphere, GNSS derived position accuracy, and magnetic fluctuations during storm and substorms",01/09/2020,01/09/2022,J. Valdivia,Departamento de Física,Gobierno USA,The Air Force Office of Scientific Research (AFOSR)
+247,COVID0077,"""Calibración y modelamiento de la estocasticidad en la propagación del COVID-19 para generación de pronósticos cuantitativos""
+",01/06/2020,01/06/2021,J. Valdivia,Departamento de Física,"Subdirección de Redes, Estrategia y Conocimiento (REC)",Concurso asignación rápida Covid-19
+248,1200587,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/08/2019,01/08/2019,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+249,3201006,Space Weather: Understanding and monitoring the Solar Wind-Magnetosphere-Ionosphere system combining Machine Learning and theory,01/01/2020,01/01/2020,J. Valdivia,Departamento de Física,FONDECYT,Postdoctorado
+250,1200956,Role of turbulent transport and total pressure balance in the dynamics of the magnetosphere of the Earth,01/08/2019,01/08/2019,"P. Moya, J. Valdivia, M. Díaz",Universidad De Santiago,FONDECYT,Regular
+251,1200124,Respuestas emocionales y respuestas motivadas de la comunicación en salud: una aproximación a la persuasión humana desde las neurociencias sociales,01/08/2019,01/08/2019,"M. Correa / R. Burrows, J. Valdivia, J. Rogan",Dirección,FONDECYT,Regular
+252,1190148,Respuestas emocionales y respuestas motivadas de la comunicación en salud: una aproximación a la persuasión humana desde las neurociencias sociales,01/07/2018,01/07/2018,"M. Correa / R. Burrows, J. Valdivia, J. Rogan",Dirección,FONDECYT,Regular
+253,1190703,Universality of electromagnetic fluctuations in space plasmas,01/04/2019,01/04/2023,J. Valdivia / B. Toledo,Departamento de Física,FONDECYT,Regular
+254,1191342,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection.,01/09/2018,01/09/2018,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+255,3180315,"Storing, Dynamics, and Perturbations in Information Transport on Complex Networks",01/03/2018,01/03/2021,J. Valdivia,Departamento de Física,FONDECYT,Postdoctorado
+256,1180852,"Simulations of agent flows: massive humans events, herd movement, and pedestrian contraflows",01/07/2017,01/07/2017,"M. Ramírez / J. Rogan, J. Valdivia",Departamento de Física,FONDECYT,Regular
+257,U-REDES-G_2018-04,"Grupo Interdisciplinario de Investigación en Neurociencias Sociales y Comunicación (GI2NSC). ""El etiquetado de alimentos y su impacto en la respuesta emocional y la conducta motivada:Evaluación de su potencial persuasivo mediante técnicas biométricas""",01/10/2018,01/10/2020,"M. Correa / R. Burrows, C. Zúñiga, J. Valdivia, J. Rogan",Dirección,Fondo Central de Investigación,Programa U-Redes: Línea 1 Incentivo a la Generación de Red
+258,1181298,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/07/2017,01/07/2017,"B. Toledo / P. Moya, J. Valdivia",Departamento de Física,FONDECYT,Regular
+259,1171599,Simulating relativistic electron-positron plasmas: from thermally induced electromagnetic fluctuations to magnetic reconnection,01/09/2016,01/09/2016,"B. Toledo / P. Moya, J. Valdivia",Departamento de Física,FONDECYT,Regular
+260,FA9550-16-1-0384,"Neuromorphic Inspired Science to Maximize Big Data Dynamic Problem Solving for Future lntelligence, Surveillance, and Reconnaissance Operations",01/05/2016,01/05/2017,J. Valdivia,PUC. Depto. de Física,Gobierno USA,The Air Force Office of Scientific Research (AFOSR)
+261,1161356,Equilibrium and non-equilibrium processes in space plasmas and the solar-wind-magnetosphere-ionosphere interactions ,01/08/2015,01/08/2015,"M. Díaz, J. Valdivia",USACH. Depto. de Física,FONDECYT,Regular
+262,1150718,City traffic dynamics,01/03/2015,01/03/2019,J. Valdivia,Departamento de Física,FONDECYT,Regular
+263,FA9550-14-1-0139,Using the American-Chilean SAMBA magnetometer network for the study of ionospheric electrodynamics and potential impact on scintillation and radiation belt fluxes,01/05/2014,01/05/2018,"J. Valdivia, M. Díaz",USACH. Depto. de Física,Gobierno USA,The Air Force Office of Scientific Research (AFOSR)
+264,10677,"Procesos fundamentales en física de plasmas espaciales, combinando instrumentación, observaciones, teoría y simulaciones",01/10/2015,01/10/2018,"J. Valdivia / V. Muñoz, M. Díaz, J. Silva, M. Orchard, P. Moya",Departamento de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+265,1130273,"Observation and modelling of complex fluxes: ocean, ionosphere and astrophysical plasmas",01/03/2013,01/03/2017,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+266,ANM-60,Instituo milenio de materia condensada,01/03/2013,01/03/2013,"M. Kiwi, J. Valdivia",USACH. Depto. de Física,Iniciativa científica Milenio,Institutos Milenios
+267,ANM-02,Social and biological networks: from complexity to dynamics,01/01/2013,01/01/2013,J. Valdivia / M. Kiwi,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+268,1110135,Complex dynamics in city traffic,01/03/2011,01/03/2015,J. Valdivia,Departamento de Física,FONDECYT,Regular
+269,1110729,Turbulence in space plasmas and its impact on the magnetospheric dynamics and space weather,01/03/2011,01/03/2015,J. Valdivia,USACH. Depto. de Física,FONDECYT,Regular
+270,3100004,Gravitational wave astrophysics and the origin of magnetic fields in compact objects,01/03/2010,01/03/2010,J. Valdivia,Departamento de Física,FONDECYT,Postdoctorado
+271,1090253,Study of emergent phenomena in complex systems.,01/03/2009,01/03/2009,B. Toledo / J. Valdivia,Departamento de Física,FONDECYT,Regular
+272,FB007,Centro para el Desarrollo de la Nanociencia y Nanotecnología,01/12/2008,01/12/2021,"G. González, E. Spodine, M. Kiwi, J. Rogan, C. Cardenas, V. Muñoz, F. Mendizábal, J. Valdivia",USACH. Depto. de Física,Programa Financiamiento Basal,Basal
+273,1070131,The relevance of turbulence in the magnetosphere of the Earth and its relationship with geomagnetic storms and substorms,01/03/2007,01/03/2011,J. Valdivia,USACH. Depto. de Física,FONDECYT,Regular
+274,7070307,"Self-organization processes in plasmas, and its relevance to the Earth's magnetospheric dynamics",01/03/2007,01/03/2008,J. Valdivia,Departamento de Física,FONDECYT,Cooperación Internacional
+275,1070854,"Self-organization processes in plasmas, and its relevance to the Earth's magnetospheric dynamics",01/03/2007,01/03/2011,J. Valdivia,Departamento de Física,FONDECYT,Regular
+276,NCML07-04,Nanostructures: properties and applications,01/03/2007,01/03/2007,"J. Valdivia / M. Kiwi, J. Rogan",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+277,002,"Plasma Physics in Space and Astrophysical enviroments: Theory, Simulation, and data Analysis",01/12/2006,01/12/2006,"J. Valdivia / J. Rogan, V. Muñoz",Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+278,1050350,Effect of finite amplitude waves on linear waves in drifting multi-ion species plasmas. Stability of a magnetoplasma with cross field currents,01/03/2005,01/03/2009,J. Valdivia,Departamento de Física,FONDECYT,Regular
+279,AN-CS-03,El centro de espacio físico,01/12/2004,01/12/2004,J. Valdivia / V. Muñoz,Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+280,1030727,"The relevance of global self-organization processes in plasmas, and the relationship with the dynamics of magnetotail",01/03/2003,01/03/2007,J. Valdivia,Departamento de Física,FONDECYT,Regular
+281,1020152,"Properties and dynamics of nonlinear electromagnetic bean-plasma waves, and the stability of a magnetoplasma with cross-field currents.",01/03/2002,01/03/2005,J. Valdivia,Departamento de Física,FONDECYT,Regular
+282,1000808,Modeling self-organized cristicaly in the turbulent plasma sheet: relation to the coherence and repeatability of the substorm phenomena,01/03/2000,01/03/2003,J. Valdivia,Departamento de Física,FONDECYT,Regular
