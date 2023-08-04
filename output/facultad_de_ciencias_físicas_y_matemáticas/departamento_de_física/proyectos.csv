@@ -1,0 +1,497 @@
+,codigo,titulo,fecha_inicio,fecha_fin,investigadores,institucion,programa,fuente
+0,1230353,From bare NN interactions to nuclear bound and scattering states,01/07/2022,01/07/2022,H. Arellano,Departamento de Física,FONDECYT,Regular
+1,1221473,Strongly interacting many-nucleon systems from bare NN interactions,01/10/2021,01/10/2021,H. Arellano,Departamento de Física,FONDECYT,Regular
+2,1211024,"Bridging bare NN interactions with nuclear matter, finite nuclei and neutron stars",01/08/2020,01/08/2020,H. Arellano,Departamento de Física,FONDECYT,Regular
+3,1200313,From the bare NN interaction to finite nuclei and neutron stars,01/08/2019,01/08/2019,H. Arellano,Departamento de Física,FONDECYT,Regular
+4,1180883,Bridging the bare NN interaction with nuclear matter and finite nuclei,01/07/2017,01/07/2017,H. Arellano,Departamento de Física,FONDECYT,Regular
+5,1170187,Bridging realistic bare NN interactions with finite nuclei and nuclear matter,01/08/2016,01/08/2016,H. Arellano,Departamento de Física,FONDECYT,Regular
+6,1160351,Bridging internucleon bare interactions with finite nuclei and neutron stars,01/06/2015,01/06/2015,H. Arellano,Departamento de Física,FONDECYT,Regular
+7,ANM-40,Núcleo milenio en física nuclear básica y aplicada,01/01/2013,01/01/2013,H. Arellano,Comisión Chilena de Energía Núclear,Iniciativa científica Milenio,Núcleos Milenio
+8,1120396,Open issues in folding models for nucleon scattering from nuclei,01/03/2012,01/03/2015,H. Arellano,Departamento de Física,FONDECYT,Regular
+9,1110961,Theoretical developments for nucleon-nucleus collisions,01/03/2011,01/03/2011,H. Arellano,Departamento de Física,FONDECYT,Regular
+10,1080471,Theoretical approach for hadron-nucleus collisions and reactions,01/03/2008,01/03/2011,H. Arellano,Departamento de Física,FONDECYT,Regular
+11,ENL07/04,Further developments toward parameter-free descriptions of hadron-nucleus scattering and reactions,01/04/2007,01/04/2008,H. Arellano,Departamento de Física,Fondo Central de Investigación,Enlace con FONDECYT
+12,1070284,"Nuclear masses, phase transitions and quantum chaos in nuclear physics",01/03/2007,01/03/2009,H. Arellano,Departamento de Física,FONDECYT,Regular
+13,008,"Nuclear masses, phase transitions and critical points and quantum chaos in nuclear physics",01/03/2006,01/03/2006,H. Arellano,Departamento de Física,FONDECYT,Postdoctorado
+14,1040938,Theoretical developments toward parameter-free descriptions of hadron-nucleus scattering and reactions,01/03/2004,01/03/2007,H. Arellano,Departamento de Física,FONDECYT,Regular
+15,1030939,"Microscopic full-folding approach for hadron-nucleons reactions
+",01/03/2003,01/03/2003,H. Arellano,Departamento de Física,FONDECYT,Regular
+16,1020136,Hadronic reactions in isospin asymmetric nuclear matter,01/06/2002,01/06/2002,H. Arellano,Departamento de Física,FONDECYT,Regular
+17,1970508,Hadronic Ractions In Nuclear Medium,01/03/1997,01/03/2000,H. Arellano,Departamento de Física,FONDECYT,Regular
+18,3940008,Teoría microscópica de potenciales ópticos núcleares,01/03/1994,01/03/1997,H. Arellano / F. Brieva,Departamento de Física,FONDECYT,Postdoctorado
+19,1240310,"Spin waves in ferromagnetic nanostructures: effects of surfaces-interfaces, theory vs. experiments",01/07/2023,01/07/2023,R. Arias,Departamento de Física,FONDECYT,Regular
+20,3240558,Propagation of magnetic excitations in 1D and 2D chiral magnonic superlattices and their potential implementation in emerging technologies,01/06/2023,01/06/2023,R. Arias,Departamento de Física,FONDECYT,Postdoctorado
+21,1200829,"Ferromagnetic oscillators, theoretical models focused on experimental results",01/03/2020,01/03/2024,R. Arias,Departamento de Física,FONDECYT,Regular
+22,1170781,Magnonics and the Green-Extinction theorems,01/04/2017,01/04/2020,R. Arias,Departamento de Física,FONDECYT,Regular
+23,1160363,Ferromagnetic spin torque oscillators and spin wave modes,01/06/2015,01/06/2015,R. Arias,Departamento de Física,FONDECYT,Regular
+24,314-029,Spin wave modes in ferromagnetic stripe waveguides,01/10/2013,01/10/2013,R. Arias,Departamento de Física,FONDECYT,Postdoctorado
+25,1130192,"Spin torque nano-oscillators, a model that goes beyond the macro-spin approximation",01/03/2013,01/03/2016,R. Arias,Departamento de Física,FONDECYT,Regular
+26,1100213,Geometry and dynamics of traveling and bound oscillations in ferromagnetic and dielectric wave-guides,01/03/2010,01/03/2013,R. Arias,Departamento de Física,FONDECYT,Regular
+27,3090047,Domain walls in ferromagnetic nano-wires and nano-tubes.,01/11/2008,01/11/2010,R. Arias,Departamento de Física,FONDECYT,Postdoctorado
+28,1085028,"Spin wave modes at the nano-scale, roles of oersted fields and geometry",01/03/2008,01/03/2010,R. Arias,Departamento de Física,FONDECYT,Regular
+29,1061106,Spin waves and microwave response of ferromagnetic nano-wires and particles,01/03/2006,01/03/2008,R. Arias,Departamento de Física,FONDECYT,Regular
+30,C06U02,Dinámica y radiación de fracturas en geometrías complejas,01/01/2007,01/01/2010,R. Arias,Departamento de Física,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+31,7050148,Influence of size and shape in the dynamical and statical response o ferromagnetic particles,01/03/2005,01/03/2006,R. Arias,Departamento de Física,FONDECYT,Cooperación Internacional
+32,1040788,Influence of size and shape in the dynamical and statical response o ferromagnetic particles,01/03/2004,01/03/2006,R. Arias,Departamento de Física,FONDECYT,Regular
+33,1020359,"Inestabilidad en fluidos, en elasticidad, en arena y en espumas: experimento y teoría",01/03/2002,01/03/2006,"F. Barra, R. Arias",Departamento de Física,FONDECYT,Regular
+34,1000869,Influencia de esfuerzos externos en la inestabilidad mecánica de un ensemble estadístico de dislocaciones,01/03/2000,01/03/2002,R. Arias,Departamento de Física,FONDECYT,Regular
+35,3950011,Física de singularidades en medios contimuos y sus aplicaciones a la fractura de solidos,01/03/1995,01/03/1997,R. Arias / F. Lund,Departamento de Física,FONDECYT,Postdoctorado
+36,3240583,Quantum thermal machines under limited controller resources,01/06/2023,01/06/2023,F. Barra,Departamento de Física,FONDECYT,Postdoctorado
+37,1231210,Quantum thermodynamics of energy extraction processes,01/03/2023,01/03/2027,F. Barra,Departamento de Física,FONDECYT,Regular
+38,3210342,Fundamentos termodinámicos de nadadores y baños activos,01/08/2020,01/08/2020,F. Barra,Departamento de Física,FONDECYT,Postdoctorado
+39,IM21_11501_en,Millenium Institute for Quantum Science and Technologies,01/03/2023,01/03/2023,"L. Foa Torres, F. Barra, Ã. Núñez",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+40,3200936,Fundamentos termodinámicos de nadadores y baños activos,01/01/2020,01/01/2020,F. Barra,Departamento de Física,FONDECYT,Postdoctorado
+41,3190551,Aplicación de la termodinámica estocástica y la teoría de información en la materia activa,01/10/2018,01/10/2018,F. Barra,Departamento de Física,FONDECYT,Postdoctorado
+42,1191441,Quantum Thermodynamics: collisional processes and engineered dissipation,01/04/2019,01/04/2023,F. Barra,Departamento de Física,FONDECYT,Regular
+43,NC160041,Núcleo Milenio física de la materia activa,01/05/2017,01/09/2023,"R. Soto / F. Barra, M. Cordero, F. Guzmán",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+44,1151390,Steady states of open quantum systems and temporal behavior of isolated spatially extended quantum systems driven by a local time dependent parameter,01/03/2015,01/03/2019,F. Barra,Departamento de Física,FONDECYT,Regular
+45,3130495,Open quantum systems and the role of environment,01/10/2012,01/10/2015,F. Barra,Departamento de Física,FONDECYT,Postdoctorado
+46,ANM-06,Núcleo milenio materia lejos del equilibrio,01/01/2013,01/01/2013,"R. Soto / F. Lund, N. Mujica, F. Barra",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+47,3120254,Noneequilibrium open quantum systems: A Model with explicit reservoirs and its applications to mesoscopic systems.,01/10/2011,01/09/2013,F. Barra,Departamento de Física,FONDECYT,Postdoctorado
+48,1110144,Wave transport in spatially extended heterogeneous systems,01/03/2011,01/03/2015,F. Barra,Departamento de Física,FONDECYT,Regular
+49,3110103,Transport problems in nonequilibrium quantum systems.,01/03/2011,01/03/2011,F. Barra,Departamento de Física,FONDECYT,Postdoctorado
+50,ANR-38,Wave propagation in complex media,01/12/2010,01/12/2013,F. Barra,Departamento de Física,Programa de Investigación Asociativa,Proyectos CONICYT-ANR Francia
+51,NM-1,Dynamics and Evolution of Emergent Phenomena (DEEP),01/12/2010,01/12/2010,"M. Clerc / R. Soto, F. Barra, N. Mujica, Ã. Núñez, C. Falcón",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+52,1100207,"Spectral, scattering and transport properties of periodic wave guides in the semiclassical limit: The role of non-diagonal contributions",01/03/2010,01/03/2010,F. Barra,Departamento de Física,FONDECYT,Regular
+53,ACT-127,Dinámica de medios heterogéneos y desordenados,01/12/2009,01/12/2012,"N. Mujica / F. Barra, F. Lund, R. Soto",Departamento de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+54,C09E07,Interacción de una fractura con ondas elásticas,01/12/2009,01/12/2012,F. Barra,Departamento de Física,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+55,1090308,Transport of waves: Quantum and others.,01/03/2009,01/03/2009,F. Barra,Departamento de Física,FONDECYT,Regular
+56,7080157,Dynamical system approach to non-equilibrium processes,01/03/2008,01/03/2009,F. Barra,Departamento de Física,FONDECYT,Cooperación Internacional
+57,7070289,Dynamical system approach to nonequilibrium processes,01/03/2007,01/03/2008,F. Barra,Departamento de Física,FONDECYT,Cooperación Internacional
+58,1060820,Dynamical system approach to nequilibrium processes,01/03/2006,01/03/2009,F. Barra,Departamento de Física,FONDECYT,Regular
+59,1030556,"Classical, semi classical and quantum dynamics of extended systems showing transport behavior",01/03/2003,01/03/2006,F. Barra,Departamento de Física,FONDECYT,Regular
+60,1020359,"Inestabilidad en fluidos, en elasticidad, en arena y en espumas: experimento y teoría",01/03/2002,01/03/2006,"F. Barra, R. Arias",Departamento de Física,FONDECYT,Regular
+61,INI-02-4,,31/12/2001,31/12/2003,F. Barra,,Fundacion Andes,Inicio F. Andes
+62,11230941,Bridging the scales in branching morphogenesis,01/03/2023,01/03/2026,I. Bordeu,Departamento de Física,FONDECYT,Iniciación en Investigación
+63,UI-015/22,Unificando las dinámicas micro y macroscópicas de tejidos biológicos ramificados por medio del modelamiento biofísico,01/12/2022,01/12/2024,I. Bordeu,Departamento de Física,Fondo Central de Investigación,U-INICIA
+64,D05I10098,Mejoramiento de operaciones de biolixiviación de minerales de cobre y electro-obtención en plantas a gran altura mediante calentamiento de soluciones por inducción magnética,01/12/2005,01/12/2008,F. Brieva,Departamento de Ingeniería Eléctrica,FONDEF,Investigación y Desarrollo (I+D)
+65,D05-10038,Evaluación del Recurso Eólico en el Norte Chico de Chile para su aprovechamiento en la Generación de Energia Eléctrica,01/12/2005,01/12/2008,R. Muñoz / F. Brieva,ULS. Centro de Estudios Avanzados en Zonas Áridas,FONDEF,Investigación y Desarrollo (I+D)
+66,TE02I-1008,Centro de capacidades para el apoyo del uso de infotecnologías dentro de la sala de clases extensibles a un escenario distribuido,01/12/2002,01/12/2002,"N. Baloian, F. Brieva",Departamento de Ciencias de la Computación,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+67,2970040,Reacciones inclusivas y la función respuesta nuclear,01/03/1997,01/03/2000,F. Brieva,Departamento de Física,FONDECYT,Doctorado
+68,9600417,,31/12/1996,31/12/1998,F. Brieva,,National Science Foundation (NSF),NSF-Americas
+69,1960690,Micoscopic theories for nuclear reactions and structure,01/03/1996,01/03/1999,F. Brieva,Departamento de Física,FONDECYT,Regular
+70,3940008,Teoría microscópica de potenciales ópticos núcleares,01/03/1994,01/03/1997,H. Arellano / F. Brieva,Departamento de Física,FONDECYT,Postdoctorado
+71,1180085,"Synthesis of (Ba,Sr)TiO3 thin films grown using the NaOH-KOH eutectic as reaction medium",01/07/2017,01/07/2017,"V. Fuenzalida / M. Colet, B. Chornik, J. Vargas",Departamento de Física,FONDECYT,Regular
+72,1170036,Surface modification of Ti-TiO2 substrates using the Naoh-Koh eutectic molten salt system as reaction medium,01/08/2016,01/08/2016,"V. Fuenzalida / M. Colet, B. Chornik, J. Vargas",Departamento de Física,FONDECYT,Regular
+73,1961130,Estudio de la difusión superficial de gases absorbidos mediante microscopía de efecto túnel,01/03/1996,01/03/1996,B. Chornik,Departamento de Física,FONDECYT,Regular
+74,1940562,Efectos de cuantización de la carga eléctrica en circuitos fabricados con un microscopio de efecto túnel,01/03/1994,01/03/1996,B. Chornik,Departamento de Física,FONDECYT,Regular
+75,1911248,Adsorción de agua en titanato de bario: estudio de la estructura atómica y electrónica de la superficie,01/03/1991,01/03/1993,B. Chornik / V. Fuenzalida,Departamento de Física,FONDECYT,Regular
+76,1231767,Anisotropic polymeric materials (APM) with selective absorption-reflection of Light for soft actuators,01/03/2023,01/03/2027,M. Clerc,Universidad de Atacama,FONDECYT,Regular
+77,1230897,Intense quantum light: engineering and characterization of non-classical radiation,01/03/2023,01/03/2027,C. Hermann / M. Clerc,Departamento de Física,FONDECYT,Regular
+78,1210353,Transition to complex spatiotemporal dynamics: theory & experiments,01/03/2021,01/03/2025,M. Clerc,Departamento de Física,FONDECYT,Regular
+79,FB210005,Center for Mathematical Modeling,01/11/2021,01/11/2026,"H. Ramírez / J. San Martín, S. Martínez, C. Conca, A. Maass, J. San Martín, J. Correa, I. Rapaport, M. Kiwi, P. Felmer, S. Martínez, A. Osses, M. Clerc, J. Fontbona, M. Matamala, J. Ortega, M. Latorre, J. Soto, D. Remenik, S. Donoso, F. Tobar, C. Muñoz, A. Daniilidis, H. Van Den Bosch, M. Stein, M. Kowalczyk",Centro de Modelamiento Matemático,Programa Financiamiento Basal,Basal
+80,1211814,Dynamics of Discrete Chaoticons,01/08/2020,01/08/2020,M. Clerc,U. Católica de Valparaiso,FONDECYT,Regular
+81,3200368,Chimera and Chimera-like states in coupled nonlinear oscillators to the nearest-neighbors: Theory and applications,01/01/2020,01/01/2020,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+82,3190446,Chimera and Chimera-like states in coupled nonlinear oscillators to the nearest-neighbors: Theory and applications,01/10/2018,01/10/2018,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+83,REDES190008,Order within spatiotemporal complexity of optical systems out of equilibrium,01/06/2022,01/06/2022,M. Clerc,Departamento de Física,Cooperación Internacional: Multilateral y vinculación,Apoyo a la Formación de Redes Internacionales_Centros
+84,EQM180009,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/11/2018,01/05/2020,"D. Dulic / F. Mena, M. Cordero, M. Clerc, R. Vicencio, C. Hermann, L. Foa Torres",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+85,1180903,Vortex dynamics in driven nematic liquid crystals: theory and experiments,01/03/2018,01/03/2021,M. Clerc,Departamento de Física,FONDECYT,Regular
+86,3180207,Chimera state in simple driven-damped coupled oscillators: Theory and applications,01/08/2017,01/08/2017,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+87,ACT172024,"Nonlinear Optics of Liquid Crystals: Synthesis, Dynamics and Applications",01/12/2017,01/12/2017,M. Clerc,Departamento de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+88,3170873,A new perspective on Driven Damped Nonlinear Oscillators: Theory and applications,01/08/2016,01/08/2016,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+89,3170509,"Diseño, propiedades y procesamiento de Polímeros Inteligentes Anisótropos para Tecnología Cristal Líquido",01/04/2017,01/04/2020,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+90,IM1701,Instituto Milenio de Investigación en óptica (MIRO),01/12/2017,01/12/2027,"M. Clerc, R. Vicencio",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+91,EQM170032,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/08/2017,01/08/2017,"D. Dulic / M. Clerc, F. Mena",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+92,URC-020/16,"Óptica NO-lineal de materiales blandos: Síntesis, Teoría y aplicación (ONOMAST)",01/09/2016,01/09/2016,M. Clerc,Departamento de Física,Fondo Central de Investigación,Programa U-Redes: Línea 2 incentivo a la Consolidación de Red; Domeyko II
+93,NM2016_018,"Núcleos Milenio óptica no-lineal de cristales líquidos: Síntesis, dinámica y aplicación (ON-CL)",01/07/2016,01/07/2016,M. Clerc,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+94,665129,ENOAF,01/01/2015,01/01/2015,M. Clerc,Departamento de Física,Unión Europea,FP7-SMSF Research Project
+95,1150507,Self-organization in photo-isomerization fronts,01/03/2015,01/03/2018,M. Clerc,Departamento de Física,FONDECYT,Regular
+96,REDES150046,Self organization of arid and semi-arid ecosystems,01/12/2015,01/06/2017,M. Clerc,Departamento de Física,Cooperación Internacional: Multilateral y vinculación,Apoyo a la Formación de Redes Internacionales_Centros
+97,3140577,Dynamics of forced vortices in liquid crystal nonlinear optics,01/11/2013,01/11/2016,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+98,645658,Designing Advanced Functionalities through controlled NanoElement integration in OXide thin films (DAFNEOX),01/07/2015,01/06/2018,"D. Dulic, M. Clerc",Instituto de Ciencia de Materiales de Barcelona (ICMAB),Horizon 2020,MSCA-RISE - Marie Sklodowska-Curie Research and Innovation Staff Exchange (RISE)
+99,EQM140055,Escritura de litografía óptica sin máscaras,01/11/2014,01/11/2015,"D. Dulic / M. Clerc, M. Kogan, M. Cordero, F. Mena",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+100,3140387,Noise induces phase singularities in optical convective patterns,01/11/2013,01/11/2016,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+101,3130382,Experimental control of optical localized states,01/10/2012,01/10/2015,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+102,1120329,Robust effects of noise in nonequilibrium systems,01/03/2012,01/03/2015,M. Clerc,Departamento de Física,FONDECYT,Regular
+103,1120764,Thermal covection phenomena in magnetic fluids,01/03/2012,01/03/2016,M. Clerc,Universidad De Tarapaca,FONDECYT,Regular
+104,ANM-16,Núcleo milenio de fenómenos robustos en óptica no lineal de cristales líquidos,01/01/2013,01/01/2013,"M. Clerc / C. Falcón, M. Kowalczyk",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+105,1120320,Defects dynamics induced by spatial forcing,01/03/2012,01/03/2015,M. Clerc,Departamento de Física,FONDECYT,Regular
+106,3110024,Spatio-temporal dynamics of parametrically driven systems,01/10/2010,01/09/2013,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+107,VID-1588,LaFer: Laboratorio de Fenómenos Robustos en óptica,01/07/2011,01/07/2012,M. Clerc / C. Falcón,Departamento de Física,Fondo Central de Investigación,U-MODERNIZA
+108,3100154,Localized Structures on systems out of equilibrium,01/03/2010,01/03/2010,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+109,NM-1,Dynamics and Evolution of Emergent Phenomena (DEEP),01/12/2010,01/12/2010,"M. Clerc / R. Soto, F. Barra, N. Mujica, Ã. Núñez, C. Falcón",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+110,ANR-39,COLORS. Control of Optical Localized and Rare Structures,01/12/2010,01/12/2013,M. Clerc,Departamento de Física,Programa de Investigación Asociativa,Proyectos CONICYT-ANR Francia
+111,ANR3,Control of Optical Localized Structures,01/12/2009,01/12/2009,M. Clerc / C. Falcón,Departamento de Física,ANR,ANR-Francia
+112,1090045,Chaoticon: The localized spatio-temporal chaos,01/03/2009,01/03/2012,M. Clerc,Departamento de Física,FONDECYT,Regular
+113,A-08,Complejidad en sistemas extremadamente fuera del equilibrio,01/12/2009,01/12/2009,M. Clerc,Departamento de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+114,IM-2,Instituto para Ciencia de los Materiales (IMAS),01/12/2009,01/12/2009,"V. Fuenzalida, R. Soto, M. Clerc",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+115,1,"Program for research in the interdisciplinay sciences of materials, PRISMA",01/12/2009,01/12/2009,"R. Soto / V. Fuenzalida, M. Clerc",Departamento de Física,FONDAP,Programa FONDAP
+116,3080041,Oscillatory localized domains in parametric driven systems,01/03/2008,01/03/2010,M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+117,3070039,Interface Dynamics Between Patterns,01/03/2007,01/03/2009,M. Clerc,Escuela de Postgrado,FONDECYT,Postdoctorado
+118,3050039,Conservative and dissipative discrete solitons in nonlinear optical waveguide arrays,01/03/2005,01/03/2007,R. Vicencio / M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+119,1051117,Noise induces propagations of localized patterns,01/03/2005,01/03/2008,M. Clerc,Departamento de Física,FONDECYT,Regular
+120,AN-CS-09,"Dinámica, Singularidades y Geometría de la materia fuera del equilibrio.",01/12/2004,01/12/2007,M. Clerc,Departamento de Física,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+121,1020782,Dynamics of a growing interface,01/03/2002,01/03/2005,M. Clerc,Departamento de Física,FONDECYT,Regular
+122,FAND-I-2,,31/12/2000,31/12/2002,M. Clerc,,Fundacion Andes,Beca de Inserción F. Andes
+123,ID21I10078,Estudio de la Anomalía Magnética del Atlántico Sur y detección de Terremotos,01/04/2021,01/04/2021,E. Cordaro,Departamento de Física,FONDEF,IDEA
+124,1191614,"Análisis de la relación entre la variación de las componentes del campo magnético de la tierra y los movimientos telúricos, para verificar la factibilidad de un modelo predictivo",01/08/2018,01/08/2018,E. Cordaro,Departamento de Física,FONDECYT,Regular
+125,114-198,Relationship between Cosmic rays with Earth¿s geomagnetic and tectonic activity,01/03/2014,01/03/2014,E. Cordaro,Departamento de Física,FONDECYT,Regular
+126,1130907,"Relation of solar and galactic cosmic ray with geomagnetic activity, solar magnetic reconnection and the South Atlantic Anomaly, from Easter Pacific Ocean of chilean coast and the Antarctic Region",01/03/2013,01/03/2013,E. Cordaro,Departamento de Física,FONDECYT,Regular
+127,1100204,"Relation between space, atmospheric and earth sciences in the region between the Putre cosmic ray station at low latitude and at 3600 meters of altitude, and Los Cerillos cosmic rays observatory placed in Santiago at middle latitude",01/03/2010,01/03/2010,E. Cordaro,Departamento de Física,FONDECYT,Regular
+128,DO8I1034,Sistema nacional de monitoreo de dosis de radiación usando monitoreo de radiación cósmica,01/12/2008,01/12/2008,E. Cordaro,Departamento de Física,FONDEF,Investigación y Desarrollo (I+D)
+129,136,Monitor de Neutrones MN-64 para el Territorio Chileno Antártico,01/12/2001,01/12/2003,E. Cordaro,Departamento de Física,INACH,Inst. Nacional Antártico de Chile
+130,1000947,"Investigación sobre física sol tierra y de radiación cósmica en Putre, primera región de Chile
+",01/03/2000,01/03/2000,E. Cordaro,Departamento de Física,FONDECYT,Regular
+131,INACHI-36-93,Monitor de neutones MN-64 para el Territorio Chileno Antártico: LARC (laboratorio antártico de radiación cósmica).,01/12/1993,01/12/1996,E. Cordaro,Departamento de Física,INACH,Inst. Nacional Antártico de Chile
+132,3240273,Control of active patterns through communication between self-propelled particles in microstructured environments,01/06/2023,01/06/2023,M. Cordero,Departamento de Física,FONDECYT,Postdoctorado
+133,1240340,Effect of cariogenic bacteria and their toxins in the defensive and immunomodulatory response of odontoblast-like cells in a tooth-on-a-chip device,01/07/2023,01/07/2023,M. Cordero,,FONDECYT,Regular
+134,3230321,"Controlling active patterns through communication between self-propelled particles in microstructured environments
+",01/03/2023,01/03/2023,M. Cordero,Departamento de Física,FONDECYT,Postdoctorado
+135,EQM210002,Microscopía de fluorescencia a alta velocidad,01/08/2021,01/08/2021,M. Cordero,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+136,1210634,Energy harvesting from active matter,01/03/2021,01/03/2025,M. Cordero,Departamento de Física,FONDECYT,Regular
+137,IM21_11459_en,Millennium Institute for the development of Micro and Nano-Device Technologies,01/03/2023,01/03/2023,D. Dulic / M. Cordero,Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+138,EQM200120,Microscopía de fluorescencia a alta velocidad,01/03/2021,01/03/2021,M. Cordero,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+139,IM19MiNaFab,Instituto Milenio para la Investigación en Dispositivos Micro- y Nano-Fabricados,01/11/2019,01/11/2019,"D. Dulic / M. Cordero, F. Mena",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+140,3190637,Study of Bradyrhizobium diazoefficiens motility in microenvironments: modeling porous soil using experimental techniques and simulations,01/03/2019,01/03/2022,M. Cordero,Departamento de Física,FONDECYT,Postdoctorado
+141,EQM190057,Multi-functional tribometer,01/09/2019,01/03/2021,"A. Rosenkranz / F. Gracia, A. Akbarifakhrabadi, M. Cordero, V. Meruane, C. Ihle, M. Flores, H. Palza, R. Espinoza","Departamento de Ingeniería Química, Biotecnología y Materiales",FONDEQUIP,Concurso de Equipamiento Científico
+142,EQM180009,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/11/2018,01/05/2020,"D. Dulic / F. Mena, M. Cordero, M. Clerc, R. Vicencio, C. Hermann, L. Foa Torres",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+143,1170411,"Determination of heterogeneous, dynamic interfacial tension using the deformation of microfluidic drops",01/04/2017,01/04/2021,M. Cordero,Departamento de Física,FONDECYT,Regular
+144,NC160041,Núcleo Milenio física de la materia activa,01/05/2017,01/09/2023,"R. Soto / F. Barra, M. Cordero, F. Guzmán",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+145,1161535,"Determination of inhomogeneous, dynamical interfacial tension using the deformation of microdluidic drops",01/06/2015,01/06/2015,M. Cordero,Departamento de Física,FONDECYT,Regular
+146,1150635,"Determination of inhomogeneous, dynamic interfacial tension using the deformation of microfluidic drops",01/03/2015,01/03/2015,M. Cordero,Departamento de Física,FONDECYT,Regular
+147,ENL15-07,"Determinación of inhomogeneous, dynamic interfacial tension of microfluidic confined drops",01/05/2015,01/05/2016,M. Cordero,Departamento de Física,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+148,EQM140055,Escritura de litografía óptica sin máscaras,01/11/2014,01/11/2015,"D. Dulic / M. Clerc, M. Kogan, M. Cordero, F. Mena",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+149,114-063,"Determination of inhomogeneous, dynamic interfacial tension using the deformation of a microfluidic drop",01/03/2014,01/03/2014,M. Cordero,Departamento de Física,FONDECYT,Regular
+150,3130525,"Design, development, implementation and use of a differential viscometer using microfluidic techniques",01/10/2012,01/10/2012,M. Cordero,Departamento de Física,FONDECYT,Postdoctorado
+151,CONRED-2012-999,BioMed-HPC: Red de biología y medicina computacional de alto rendimiento,01/12/2012,01/12/2013,"S. Hartel / M. Cordero, R. Cabrera, A. Maass, G. Rojas, M. Baez, N. Hitschfeld, O. Orellana, J. Letelier, E. Vera, H. Pino, A. Paula Lima, R. Armisen, R. Verdugo, G. Zapata",Programa de Anatomía y Biología del Desarrollo,Fondo Central de Investigación,Programa U-Redes: Línea 2 incentivo a la Consolidación de Red; Domeyko II
+152,ANM-47,Instituto milenio de  investigación en nano materiales y dispositivos (MIRNOMAD),01/01/2013,01/01/2013,"D. Dulic / C. Falcón, M. Cordero, H. Palza, Ã. Núñez, V. Fuenzalida, M. Flores",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+153,11100204,Biphasic flows inside microchannels,01/10/2010,01/09/2013,M. Cordero,Departamento de Física,FONDECYT,Iniciación en Investigación
+154,3240738,Estudio de los efectos del ambiente espacial sobre rastreadores de estrellas para el desarrollo de mejoras a su rendimiento en el espacio,01/06/2023,01/06/2023,D. Dulic,Departamento de Física,FONDECYT,Postdoctorado
+155,1231752,A platform to sustain and study extreme-life in space with CubeSats,01/08/2022,01/08/2022,M. Díaz / D. Dulic,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+156,1220984,"""Porphyrinotronics"" -Mechanotunable Porphyrin-based Single-molecular Junctions",01/04/2022,01/04/2026,D. Dulic,Departamento de Física,FONDECYT,Regular
+157,IM21_11459_en,Millennium Institute for the development of Micro and Nano-Device Technologies,01/03/2023,01/03/2023,D. Dulic / M. Cordero,Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+158,1211331,Studying the potentialities of free flying satellite swarms for space research,01/08/2020,01/08/2020,"M. Díaz / D. Dulic, M. Lienqueo",Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+159,FA9550-20-1-0303,Study of the response to the space environment conditions of graphene,01/09/2020,01/09/2021,D. Dulic,Departamento de Física,Gobierno USA,The Air Force Office of Scientific Research (AFOSR)
+160,EQM190177,Adquisición de un sistema de barrido por sonda para caracterizaciones mecánicas y eléctricas a la nanoescala,01/09/2019,01/03/2021,"I. Berlanga / F. Quero, H. Palza, M. Flores, M. Kogan, M. Soler, A. Akbarifakhrabadi, D. Dulic","Departamento de Ingeniería Química, Biotecnología y Materiales",FONDEQUIP,Concurso de Equipamiento Científico
+161,IM19MiNaFab,Instituto Milenio para la Investigación en Dispositivos Micro- y Nano-Fabricados,01/11/2019,01/11/2019,"D. Dulic / M. Cordero, F. Mena",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+162,1181080,Bio-inspired single molecule electronics,01/03/2018,01/03/2022,D. Dulic,Departamento de Física,FONDECYT,Regular
+163,3180348,Single molecule study on electronic transport in FeS proteins by mechanically controlable break junction technique. A new insight forward for understanding of electronic transport processes in proteins,01/08/2017,01/08/2017,D. Dulic,Departamento de Física,FONDECYT,Postdoctorado
+164,EQM180009,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/11/2018,01/05/2020,"D. Dulic / F. Mena, M. Cordero, M. Clerc, R. Vicencio, C. Hermann, L. Foa Torres",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+165,EQM170032,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/08/2017,01/08/2017,"D. Dulic / M. Clerc, F. Mena",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+166,3170199,Estudio del transporte electrónico unimolecular de piridínios fenolatos solvatocrómicos,01/08/2016,01/08/2016,D. Dulic,Departamento de Física,FONDECYT,Postdoctorado
+167,1171408,"Bioinspired molecular electronics: Understanding and exploiting the structure-function relationships in single molecule junctions
+",01/09/2016,01/09/2016,D. Dulic,USACH. Depto de Cs. del Ambiente,FONDECYT,Regular
+168,3170954,Estudio de evolución del transporte electrónico en proteínas Fe-S mediante alambres moleculares,01/08/2016,01/08/2016,D. Dulic,Departamento de Física,FONDECYT,Postdoctorado
+169,URC-018/16,Sala limpia para Micro/Nano fabricación,01/09/2016,01/09/2016,D. Dulic,Departamento de Física,Fondo Central de Investigación,Programa U-Redes: Línea 2 incentivo a la Consolidación de Red; Domeyko II
+170,1161775,Functional molecular materials based on curcuminoid ligands,01/04/2016,01/04/2020,M. Soler / D. Dulic,Departamento de Ciencia de los Materiales,FONDECYT,Regular
+171,NM2016_003,Núcleo Milenio de electrónica molecular funcional,01/07/2016,01/07/2016,D. Dulic,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+172,EQM160046,Grabadora de iones de plasma reactivos para microfabricación,01/06/2016,01/06/2016,D. Dulic,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+173,3160815,Estudio del transporte electrónico en moléculas de piridínios fenolatos solvatocrómicos,01/11/2015,01/11/2018,D. Dulic,Departamento de Física,FONDECYT,Postdoctorado
+174,3150674,Estudio de la conductividad eléctrica de alambres moleculares basados en metaloporfirinas sustituidas,01/11/2014,01/11/2017,D. Dulic,Departamento de Física,FONDECYT,Postdoctorado
+175,1140770,Porphyronics ¿ Porphyrin based single molecular electronics,01/03/2014,01/03/2018,D. Dulic,Departamento de Física,FONDECYT,Regular
+176,EQM140055,Escritura de litografía óptica sin máscaras,01/11/2014,01/11/2015,"D. Dulic / M. Clerc, M. Kogan, M. Cordero, F. Mena",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+177,645658,Designing Advanced Functionalities through controlled NanoElement integration in OXide thin films (DAFNEOX),01/07/2015,01/06/2018,"D. Dulic, M. Clerc",Instituto de Ciencia de Materiales de Barcelona (ICMAB),Horizon 2020,MSCA-RISE - Marie Sklodowska-Curie Research and Innovation Staff Exchange (RISE)
+178,EQM-13002,Sistema de litografía óptica para microfabricación,01/12/2013,01/12/2013,D. Dulic,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+179,ANM-47,Instituto milenio de  investigación en nano materiales y dispositivos (MIRNOMAD),01/01/2013,01/01/2013,"D. Dulic / C. Falcón, M. Cordero, H. Palza, Ã. Núñez, V. Fuenzalida, M. Flores",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+180,1241923,Slender free surface flow over the mantle of a cone,01/08/2023,01/08/2023,A. Tamburrino / C. Falcón,Departamento de Ingeniería Civil,FONDECYT,Regular
+181,3230753,Morphing 1D structures through overcurvature: how to harness in and out-of-plane motions through geometry,01/03/2023,01/03/2026,C. Falcón,Departamento de Física,FONDECYT,Postdoctorado
+182,QUIMAL220004,Analog Gravity Network Laboratory for Experimental Astrophysical Research (AGNLab),01/12/2022,01/12/2022,C. Falcón,Departamento de Física,Astronomía,Fondo Quimal
+183,1210656,Network models under stress: a quest for complex mechanical responses,01/08/2020,01/08/2020,C. Falcón,Universidad Católica de Chile,FONDECYT,Regular
+184,EQM210067,Reómetro Híbrido Modular para el desarrollo de un laboratorio avanzado distribuido de reología,01/08/2021,01/08/2021,C. Falcón,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+185,EQY200026,Satellite communication system for current and future space missions,01/11/2020,01/11/2020,"M. Díaz / S. Cespedes, C. Azurdia, C. Fuentes, R. Finger, R. Rondanelli, C. Falcón",Departamento de Ingeniería Eléctrica,FONDEQUIP,Concursos de Equipamiento Tecnológico Mayor
+186,1201999,"Mechanical networks under pressure: the effect of pre-stress on mechanical properties stemming from structure, geometry and topology",01/08/2019,01/08/2019,C. Falcón,PUC. Depto. de Física,FONDECYT,Regular
+187,3200239,"Exploración sonora de cajas de resonancia sintonizables, basadas en metamateriales mecánicos",01/03/2020,01/03/2023,C. Espinoza / C. Falcón,Departamento de Física,FONDECYT,Postdoctorado
+188,1190005,Freezing time: imprinting soft elastic solids using fluid mechanics in curing polymers,01/04/2019,01/04/2023,C. Falcón,Departamento de Física,FONDECYT,Regular
+189,1181908,Freezing time: imprinting elastic solids using fluid dynamics in curing polymers,01/07/2017,01/07/2017,C. Falcón,Departamento de Física,FONDECYT,Regular
+190,1171414,Experimental Study of Vortex Rings Collisions,01/09/2016,01/09/2016,R. Hernández / C. Falcón,Departamento de Ingeniería Mecánica,FONDECYT,Regular
+191,NM_CS_18_01,Núcleo Milenio en Metamateriales Mecánicos Suaves e Inteligentes,01/07/2018,01/07/2021,"H. Palza / F. Lund, Ã. Núñez, C. Falcón, V. Meruane, J. Zagal","Departamento de Ingeniería Química, Biotecnología y Materiales",Iniciativa científica Milenio,Núcleos Milenio
+192,QUIMAL160006,Active Liquid Crystal Vortex Coronography for Astronomical Observations (Coronoptics),01/08/2016,01/08/2016,C. Falcón,Departamento de Física,Astronomía,Fondo Quimal
+193,3160032,On the role of viscosity on the energy flux cascading on capillary wave turbulence,01/11/2015,01/11/2018,C. Falcón,Departamento de Física,FONDECYT,Postdoctorado
+194,1160579,Evaporation patterns in confined geometries,01/06/2015,01/06/2015,"C. Falcón / H. Palza, M. Flores",Departamento de Física,FONDECYT,Regular
+195,1151476,Cubesat Platform for Space and Technology Research,01/03/2015,01/03/2019,"M. Díaz / F. Mena, M. Orchard, C. Falcón, J. Zagal",Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+196,3140550,On the influence of vorticity on wave propagation and wave turbulence,01/11/2013,01/11/2016,C. Falcón,Departamento de Física,FONDECYT,Postdoctorado
+197,3140522,Numerical investigation of excited surface waves: fundamental aspects,01/11/2013,01/11/2016,C. Falcón,Departamento de Física,FONDECYT,Postdoctorado
+198,EQM-13009,Implementación de vibrometría láser para la caracterización y estudio de fluctuaciones espacio-temporales superficiales en materiales vibrados,01/03/2014,01/03/2014,C. Falcón / F. Lund,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+199,EQM-13001,Reómetro para el estudio de mezclas y fluidos complejos,01/12/2013,01/12/2013,"A. Tamburrino / C. Falcón, L. Voisin, W. Kracht, H. Palza",Departamento de Ingeniería Civil,FONDEQUIP,Concurso de Equipamiento Científico
+200,1130354,Localized and extended structures in fluidized granular layers: the nature of forcing,01/03/2013,01/03/2016,C. Falcón,Departamento de Física,FONDECYT,Regular
+201,ANM-27,Núcleo milenio para el estudio avanzado de flujos multifásicos complejos en minería,01/01/2013,01/01/2013,"C. Ihle / C. Conca, H. Palza, A. Tamburrino, W. Kracht, C. Falcón",Departamento de Ingeniería Civil,Iniciativa científica Milenio,Núcleos Milenio
+202,ANM-47,Instituto milenio de  investigación en nano materiales y dispositivos (MIRNOMAD),01/01/2013,01/01/2013,"D. Dulic / C. Falcón, M. Cordero, H. Palza, Ã. Núñez, V. Fuenzalida, M. Flores",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+203,ANM-16,Núcleo milenio de fenómenos robustos en óptica no lineal de cristales líquidos,01/01/2013,01/01/2013,"M. Clerc / C. Falcón, M. Kowalczyk",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+204,VID-1588,LaFer: Laboratorio de Fenómenos Robustos en óptica,01/07/2011,01/07/2012,M. Clerc / C. Falcón,Departamento de Física,Fondo Central de Investigación,U-MODERNIZA
+205,NM-1,Dynamics and Evolution of Emergent Phenomena (DEEP),01/12/2010,01/12/2010,"M. Clerc / R. Soto, F. Barra, N. Mujica, Ã. Núñez, C. Falcón",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+206,ANR3,Control of Optical Localized Structures,01/12/2009,01/12/2009,M. Clerc / C. Falcón,Departamento de Física,ANR,ANR-Francia
+207,11090049,"Beyond wave turbulence: injection, dissipation and symmetry effects in capillary wave turbulence",01/10/2009,01/10/2012,C. Falcón,Departamento de Física,FONDECYT,Iniciación en Investigación
+208,1231833,Study of the layered metal oxide thin films fabrication for lithium-ion batteries applications,01/08/2022,01/08/2022,M. Flores,Departamento de Física,FONDECYT,Regular
+209,EQM230077,"Sistema integrado de espectroscopia de fotoelectrones de baja, media y alta energía y de iones para el estudio de superficies, películas delgadas y nanomateriales",01/06/2023,01/06/2023,M. Flores,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+210,3230253,Development of cost-effective solid electrolyte for intermediate temperature solid oxide fuel cell,01/03/2023,01/03/2023,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+211,1231060,Novel nanostructured metal oxides thin films with enhanced photocatalytic degradation activity under solar light irradiation,01/08/2022,01/08/2022,M. Flores,Universidad de Atacama,FONDECYT,Regular
+212,3230778,Cost-Efficient and Hole Transport Layer (HTL) Free Perovskite Solar Cells with Cs2AgBiBr6 based Double Perovskite Active Layers,01/03/2023,01/03/2023,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+213,3220721,"Cost-Efficient, Novel and Lead-Free Cs2AgBiBr6 Based Double Perovskite Active Layer for HTL Free Perovskite Solar Cells",01/10/2021,01/10/2021,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+214,EQM220153,"Sistema integrado de espectroscopia de fotoelectrones de baja, media y alta energía y de iones para el estudio de superficies, películas delgadas y nanomateriales",01/06/2022,01/06/2022,M. Flores,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+215,3220466,Engineering of earth abundant and low cost Fe doped Cu2ZnSnS4 (CZTS) nanoparticles for energy applications,01/09/2021,01/09/2021,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+216,3210541,Flexible spin-photovoltaic devices based on molecular spintronics,01/08/2020,01/08/2020,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+217,NM21CS_09,Núcleo Milenio de Ciencia Aplicada de Superficies,01/05/2021,01/05/2021,M. Flores,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+218,EQM190057,Multi-functional tribometer,01/09/2019,01/03/2021,"A. Rosenkranz / F. Gracia, A. Akbarifakhrabadi, M. Cordero, V. Meruane, C. Ihle, M. Flores, H. Palza, R. Espinoza","Departamento de Ingeniería Química, Biotecnología y Materiales",FONDEQUIP,Concurso de Equipamiento Científico
+219,3190916,Metal Organic Frame Work (MOF): A Next Generation Materials for Energy Applications,01/10/2018,01/10/2018,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+220,3190647,Solution processed synthesis of nanostructured kesterite CZTS anode material for lithium - ion batteries,01/03/2019,01/03/2022,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+221,1191779,Study and development of ceramic thin films based on abundant materials for gas sensing applications,01/04/2019,01/04/2023,"R. Espinoza / M. Flores, F. Gracia","Departamento de Ingeniería Química, Biotecnología y Materiales",FONDECYT,Regular
+222,EQM190177,Adquisición de un sistema de barrido por sonda para caracterizaciones mecánicas y eléctricas a la nanoescala,01/09/2019,01/03/2021,"I. Berlanga / F. Quero, H. Palza, M. Flores, M. Kogan, M. Soler, A. Akbarifakhrabadi, D. Dulic","Departamento de Ingeniería Química, Biotecnología y Materiales",FONDEQUIP,Concurso de Equipamiento Científico
+223,1191799,Study of self assembled monolayers formation onto metal oxide surfaces for aplications in cathodes of lithium-ion batteries,01/04/2019,01/04/2023,M. Flores,Departamento de Física,FONDECYT,Regular
+224,3180136,Modificación de Moléculas Autoensambladas en Superficies metálicas mediante haces de Electrones y Rayos X: Estudio de sus Propiedades Físicas y Potencial Aplicación en Dispositivos electrónicos,01/03/2018,01/03/2021,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+225,1181771,Study of metal-SAMs-metal nanostructured triple-layered films formation: towards engineering of multifunctional materials,01/07/2017,01/07/2017,M. Flores,Departamento de Física,FONDECYT,Regular
+226,3180089,Fabrication of flexible Siloxane based Organic light Emitting Diodes,01/03/2018,01/03/2021,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+227,EQM180195,Sistema de espectroscopia de fotoelectrones inducidos por radiación ultravioleta (UPS),01/11/2018,01/06/2020,"V. Fuenzalida / M. Flores, I. Berlanga",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+228,ENL36/18,Study of metal-Sams-metal nannostructured triple-layered films formation; towards engineering of multifunctional materials,01/07/2018,01/07/2018,M. Flores,Departamento de Física,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+229,3170294,Fabrication of flexible ITO-free organic light emitting diodes (OLEDs) for low-cost flexible display applications,01/08/2016,01/08/2016,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+230,3170624,Estudio de la Formación de Membranas de Carbono a partir de Moléculas Autoensambladas en Superficie: Caracterización de sus Propiedades Físicas y Potencial Aplicación en Dispositivos,01/08/2016,01/08/2016,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+231,3160123,Development of advanced second-generation high-temperature superconducting films with nanoengineered structures,01/06/2015,01/06/2015,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+232,1160579,Evaporation patterns in confined geometries,01/06/2015,01/06/2015,"C. Falcón / H. Palza, M. Flores",Departamento de Física,FONDECYT,Regular
+233,1161176,Polymeric coatings for corrosion protection of aluminum alloys,01/04/2016,01/04/2020,M. Flores,USACH. Depto. de Química de los Materiales,FONDECYT,Regular
+234,NC160026,Núcleo Milenio de materiales multifuncionales para la ciencia aplicada de superficies,01/05/2017,01/05/2020,"M. Flores, F. Gracia",Departamento de Ciencia de los Materiales,Iniciativa científica Milenio,Núcleos Milenio
+235,ID16I10001,Resisitividad de alambres nanométricos de cobre,01/11/2016,01/11/2018,"V. Fuenzalida, M. Flores",Departamento de Física,FONDEF,IDEA Bietapa
+236,EQM160117,Equipo de microscopia de puntas de prueba para el fortalecimiento de la investigación interdisciplinaria en materiales nanoestructurados y sistemas moleculares,01/06/2016,01/06/2016,M. Flores,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+237,3150101,Chemical and morphological studies of Au and Cu nanostructures induced by ion bombardment,01/11/2014,01/11/2017,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+238,EQUIP-14/2014,Microscopía de punta de prueba para el estudio de morfología y propiedades física de superficies micro y nanoestructuradas,01/12/2014,01/12/2014,M. Flores / V. Fuenzalida,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+239,1140759,Surface nanostructures caped by molecular self-assembled monolayers,01/03/2014,01/03/2018,M. Flores,Departamento de Física,FONDECYT,Regular
+240,3140469,Nanoestructuras metálicas modificadas con moléculas pireno derivadas: Evaluación en procesos de interés ingenieril.,01/11/2013,01/11/2016,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+241,1140192,Neurotransmitter detection on self assembled monolayers proposal keywords,01/03/2014,01/03/2017,M. Flores,USACH. Depto. de Química de los Materiales,FONDECYT,Regular
+242,1130605,"High dielectric constant ceramics prepared by solid state reaction and magnetron sputtering
+",01/03/2013,01/03/2016,R. Espinoza / M. Flores,Departamento de Ciencia de los Materiales,FONDECYT,Regular
+243,EQM-13037,"Mejoramiento del Sistema de Microscopía de Fuerza Atómica mediante Espectroscopía Raman, Fluorescencia y TERS",01/12/2013,01/12/2013,"G. González / P. Jara, C. Díaz, N. Yutronic, A. Galdámez, M. Flores",Departamento de Química,FONDEQUIP,Concurso de Equipamiento Científico
+244,ANM-47,Instituto milenio de  investigación en nano materiales y dispositivos (MIRNOMAD),01/01/2013,01/01/2013,"D. Dulic / C. Falcón, M. Cordero, H. Palza, Ã. Núñez, V. Fuenzalida, M. Flores",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+245,10335,Programa Interdisciplinario de Nanomateriales y Sistemas Moleculares,01/08/2012,01/08/2015,"Ã. Núñez / M. Soler, M. Flores, R. Espinoza, V. Fuenzalida",Departamento de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+246,1110168,Electrochemical and hydrothermal growth of zirconia nanostructures on solid surfaces,01/03/2011,01/03/2015,"V. Fuenzalida / J. Vargas, R. Espinoza, M. Flores",Departamento de Física,FONDECYT,Regular
+247,11100277,Resistivity arising from electron scattering at grain boundary in thin copper polycrystalline films.,01/10/2010,01/09/2013,M. Flores,Departamento de Física,FONDECYT,Iniciación en Investigación
+248,11090362,The influence of grain boundary scattering in charge transport in thin copper films,01/10/2009,01/10/2009,M. Flores,Departamento de Física,FONDECYT,Iniciación en Investigación
+249,009,The effect of surface roughness and boundaries on the resistivity of pt and au films,01/03/2006,01/03/2006,M. Flores,Departamento de Física,FONDECYT,Postdoctorado
+250,1230747,Topological Magnon Insulatronics,01/03/2023,01/03/2027,L. Foa Torres,"UAI, Fac. de Ciencias y Tecnología",FONDECYT,Regular
+251,1230515,Magneto-electric sheep for two-dimensional dreams,01/03/2023,01/03/2027,Ã. Núñez / L. Foa Torres,Departamento de Física,FONDECYT,Regular
+252,1211038,Exploring exceptional quantum phenomena beyond equilibrium,01/03/2021,01/03/2025,L. Foa Torres / Ã. Núñez,Departamento de Física,FONDECYT,Regular
+253,IM21_11501_en,Millenium Institute for Quantum Science and Technologies,01/03/2023,01/03/2023,"L. Foa Torres, F. Barra, Ã. Núñez",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+254,3200697,Semimetales de Weyl en dos dimensiones,01/03/2020,01/03/2023,L. Foa Torres,Departamento de Física,FONDECYT,Postdoctorado
+255,3190776,Propiedades electrónicas y ópticas de materiales bidimensionales,01/10/2018,01/10/2018,L. Foa Torres,Departamento de Física,FONDECYT,Postdoctorado
+256,1190324,Magnetism visits flatland: a travel guide into the magnetic second dimension,01/04/2019,01/04/2023,Ã. Núñez / L. Foa Torres,Departamento de Física,FONDECYT,Regular
+257,EQM180009,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/11/2018,01/05/2020,"D. Dulic / F. Mena, M. Cordero, M. Clerc, R. Vicencio, C. Hermann, L. Foa Torres",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+258,ACT172091,Two-dimensional materials: From theory to devices,01/12/2017,01/12/2017,L. Foa Torres,Departamento de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+259,3170143,Propiedades eléctricas y de absorción óptica en dispositivos basados en grafeno,01/04/2017,01/04/2019,L. Foa Torres,Departamento de Física,FONDECYT,Postdoctorado
+260,3170126,Aislantes topológicos de Floquet en tres dimensiones,01/04/2017,01/04/2020,L. Foa Torres,Departamento de Física,FONDECYT,Postdoctorado
+261,1170917,Novel manifestations of topological states in condensed matter,01/04/2017,01/04/2021,L. Foa Torres / Ã. Núñez,Departamento de Física,FONDECYT,Regular
+262,1170921,Harnessing stacking order in layered Van der Waal structures,01/04/2017,01/04/2021,L. Foa Torres,UTFSM. Depto. de Física,FONDECYT,Regular
+263,1240204,Harvesting Collective Effects in Waveguide Quantum Electrodynamics: Improving Atom-Light Interactions in Optical Nanofibers,01/07/2023,01/07/2023,C. Hermann,,FONDECYT,Regular
+264,3240032,Deep Neural Networking via Four-wave Mixing with Spatially Multi-modal Light,01/06/2023,01/06/2023,C. Hermann,Departamento de Física,FONDECYT,Postdoctorado
+265,1230897,Intense quantum light: engineering and characterization of non-classical radiation,01/03/2023,01/03/2027,C. Hermann / M. Clerc,Departamento de Física,FONDECYT,Regular
+266,NM23_32251,Millennium Nucleus for Quantum Technologies,01/07/2023,01/07/2023,C. Hermann,Departamento de Física,,
+267,11190078,Quantum Optics for Metrology: from theory to practical implementations,01/10/2019,01/10/2022,C. Hermann,Departamento de Física,FONDECYT,Iniciación en Investigación
+268,3180153,Induced and laser-written photonic lattices: classical and quantum light phenomenology,01/03/2018,01/03/2021,C. Hermann / R. Vicencio,Departamento de Física,FONDECYT,Postdoctorado
+269,EQM180009,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/11/2018,01/05/2020,"D. Dulic / F. Mena, M. Cordero, M. Clerc, R. Vicencio, C. Hermann, L. Foa Torres",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+270,PAI77180003,Propagación de luz con propiedades cuánticas a través de estructuras fotónicas,01/10/2018,01/10/2021,C. Hermann / R. Vicencio,Departamento de Física,Programa de Capital Humano Avanzado,Subvención a la Instalación en la Academia
+271,UI_2018_04,Estudio de correlaciones cuánticas en cristales fotónicos,01/07/2018,01/07/2020,C. Hermann,Departamento de Física,Fondo Central de Investigación,U-INICIA
+272,1230938,In situ monitoring of plastic deformation of high entropy alloys using ultrasound,01/03/2023,01/03/2026,F. Lund / N. Mujica,Departamento de Física,FONDECYT,Regular
+273,1221117,Ultrasonic probing of dislocations in high entropy alloys,01/09/2021,01/09/2021,"F. Lund / R. Espinoza, N. Mujica",Departamento de Física,FONDECYT,Regular
+274,ENL12/22,Ultrasonido como sonda de la densidad de dislocaciones en aceros,01/07/2022,01/07/2023,F. Lund,Departamento de Física,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+275,IM19SAM,Materiales Avanzados Inteligentes,01/01/2020,01/01/2020,"F. Lund, M. Urzúa",Universidad De Santiago,Iniciativa científica Milenio,Institutos Milenios
+276,1191179,Ultrasound as a probe of plasticity in steels,01/04/2019,01/04/2022,"F. Lund / N. Mujica, R. Espinoza",Departamento de Física,FONDECYT,Regular
+277,3170848,Dinámica de vibraciones en en sólidos amorfos,01/08/2016,01/08/2016,F. Lund,Departamento de Física,FONDECYT,Postdoctorado
+278,NM_CS_18_01,Núcleo Milenio en Metamateriales Mecánicos Suaves e Inteligentes,01/07/2018,01/07/2021,"H. Palza / F. Lund, Ã. Núñez, C. Falcón, V. Meruane, J. Zagal","Departamento de Ingeniería Química, Biotecnología y Materiales",Iniciativa científica Milenio,Núcleos Milenio
+279,1160823,Ultrasound as a probe of plasticity in copper and copper alloys,01/04/2016,01/04/2019,"F. Lund / N. Mujica, R. Espinoza",Departamento de Física,FONDECYT,Regular
+280,EQM140012,Diseño y fabricación de biomateriales con porosidad y forma controlada mediante adquisición de un equipo de prototipado rápido,01/12/2014,01/12/2015,"H. Palza / J. Rodríguez, F. Lund, J. Zagal, C. Covarrubias, V. Meruane, A. Ortiz, P. Caviedes",Departamento de Ingeniería Química y Biotecnología,FONDEQUIP,Concurso de Equipamiento Científico
+281,EQM-13009,Implementación de vibrometría láser para la caracterización y estudio de fluctuaciones espacio-temporales superficiales en materiales vibrados,01/03/2014,01/03/2014,C. Falcón / F. Lund,Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+282,1130382,In situ monitoring of plastic deformation of metals and alloys using ultrasound,01/03/2013,01/03/2016,"F. Lund / R. Espinoza, N. Mujica",Departamento de Física,FONDECYT,Regular
+283,ANM-14,"Instituto milenio de investigación, desarrollo e innovación en materiales para biomedicina: MATBIOMED",01/01/2013,01/01/2013,"P. Caviedes / H. Palza, J. Arias, J. Rodríguez, F. Lund",Programa de Farmacología Molecular y Clínica,Iniciativa científica Milenio,Institutos Milenios
+284,ANM-06,Núcleo milenio materia lejos del equilibrio,01/01/2013,01/01/2013,"R. Soto / F. Lund, N. Mujica, F. Barra",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+285,1100198,Ultrasonic probing of dislocations in materials,01/03/2010,01/03/2013,"F. Lund / R. Espinoza, N. Mujica",Departamento de Física,FONDECYT,Regular
+286,NM-2,Science and Engineering Thin Films Nucleus,01/12/2010,01/12/2010,R. Espinoza,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+287,IM-4,Centro Avanzado de Investigación Interdisciplinaria en Materiales CIMAT,01/12/2009,01/12/2009,"F. Lund / J. Quijada, J. Arias, M. Kogan",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+288,ACT-127,Dinámica de medios heterogéneos y desordenados,01/12/2009,01/12/2012,"N. Mujica / F. Barra, F. Lund, R. Soto",Departamento de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+289,08PDTE-7374,"Difusión de tecnologías, aplicaciones y desafíos del Molibdeno para la industria e investigadores a nivel nacional",01/12/2008,01/12/2009,"L. Améstica / J. Quijada, F. Lund",Departamento de Ingeniería Química y Biotecnología,INNOVA,Innova Cluster Minero
+290,Basal07_01,Centro para la Investigación Interdisciplinaria Avanzada en Ciencias de Materiales (CIMAT),01/12/2007,01/12/2007,"F. Lund / J. Arias, J. Quijada",Departamento de Física,Programa Financiamiento Basal,Basal
+291,16060005,Creación de Unidad de generación de negocios para el CIMAT,01/10/2006,01/10/2010,F. Lund,Departamento de Física,FONDAP,Unidad de Generación de Negocios
+292,3010046,Localization process in rocks under confining loading as a critical phenomenon,01/03/2001,01/03/2003,F. Lund,Departamento de Física,FONDECYT,Postdoctorado
+293,1990035,Line defects in elastic solids: dynamics and statistics,01/03/1999,01/03/2001,F. Lund,Departamento de Física,FONDECYT,Regular
+294,11980002,Centro para la Investigación Inderdisciplinaria en Ciencias de Materiales (CIMAT),01/03/2000,01/03/2010,"F. Lund / E. Spodine, J. San Martín, M. Yazdani-Pedram, R. Soto, V. Fuenzalida, J. Arias, J. Quijada",Departamento de Física,FONDAP,Programa FONDAP
+295,3970013,Propiedades acústicas de un sistema de vortices en un fluido y su aplicaciones al estudio de la turbulencia,01/03/1997,01/03/2000,F. Lund,Departamento de Física,FONDECYT,Postdoctorado
+296,1960892,Física de singularidades en medios continuos,01/03/1996,01/03/1999,F. Lund,Departamento de Física,FONDECYT,Regular
+297,CP-1995/1,Dinámica de singularidades lineales,01/12/1995,01/12/1998,F. Lund,Departamento de Física,Cátedras Presidenciales,Cátedra Presidencial
+298,3950011,Física de singularidades en medios contimuos y sus aplicaciones a la fractura de solidos,01/03/1995,01/03/1997,R. Arias / F. Lund,Departamento de Física,FONDECYT,Postdoctorado
+299,2950011,Correlaciones dinámicas y localización en un sistema de vórtices bidimensional,01/03/1995,01/03/1997,F. Lund,Departamento de Física,FONDECYT,Doctorado
+300,1940429,Dinamica de Efectos en la Fisica de Medios Continuos,01/03/1994,01/03/1996,F. Lund,Departamento de Física,FONDECYT,Regular
+301,1911265,Dynamics of defects in continuum physics,01/03/1991,01/03/1994,F. Lund,Departamento de Física,FONDECYT,Regular
+302,E2854-8814,,31/12/1988,31/12/1992,F. Lund,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+303,1230938,In situ monitoring of plastic deformation of high entropy alloys using ultrasound,01/03/2023,01/03/2026,F. Lund / N. Mujica,Departamento de Física,FONDECYT,Regular
+304,1221597,Electrostatically induced granular clustering by tribocharging,01/04/2022,01/04/2026,N. Mujica / C. Espinoza,Departamento de Física,FONDECYT,Regular
+305,1221117,Ultrasonic probing of dislocations in high entropy alloys,01/09/2021,01/09/2021,"F. Lund / R. Espinoza, N. Mujica",Departamento de Física,FONDECYT,Regular
+306,1211462,Electrostatically induced granular clustering by tribocharg­ing,01/08/2020,01/08/2020,N. Mujica / C. Espinoza,Departamento de Física,FONDECYT,Regular
+307,IM21_11469_en,Millennium Institute for Planetary Sciences,01/03/2023,01/03/2023,"S. Casassus, N. Mujica",Departamento de Astronomía,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+308,1191179,Ultrasound as a probe of plasticity in steels,01/04/2019,01/04/2022,"F. Lund / N. Mujica, R. Espinoza",Departamento de Física,FONDECYT,Regular
+309,1180636,The juggling soliton: a new kind of localized structure in a Faraday system,01/03/2018,01/03/2021,N. Mujica,Departamento de Física,FONDECYT,Regular
+310,3180040,Triboelectricidad de flujos granulares,01/08/2017,01/08/2017,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+311,3160341,"Streaming in parametric instabilities: solitons, faraday waves and floaters",01/06/2015,01/06/2015,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+312,3160164,Medición in-situ de la densidad de dislocaciones en metales bajo ensayos de tracción y compresión,01/11/2015,01/11/2018,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+313,QUIMAL160001,Experimental Astrophysical Research into Terrestrial growtH (EARTH),01/11/2016,01/11/2019,N. Mujica,Departamento de Física,Astronomía,Fondo Quimal
+314,1160823,Ultrasound as a probe of plasticity in copper and copper alloys,01/04/2016,01/04/2019,"F. Lund / N. Mujica, R. Espinoza",Departamento de Física,FONDECYT,Regular
+315,3150299,"Experimental study of dissipative solitons: interactions, phase defects and boundary conditions",01/11/2014,01/11/2017,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+316,3150432,Hydrodynamic modes in confined non-cohesive granular matter,01/11/2014,01/11/2014,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+317,1150393,Dynamics of confined noncohesive granular systems,01/03/2015,01/03/2018,N. Mujica,Departamento de Física,FONDECYT,Regular
+318,3140140,Estudio del efecto de dislocaciones en las propiedades mecánicas de materiales mediante su caracterización ultrasónica,01/10/2013,01/10/2013,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+319,3130492,Estudio del efecto de las características de las fluctuaciones en bifurcaciones para dos sistemas fuera del equilibrio,01/10/2012,01/10/2014,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+320,1130382,In situ monitoring of plastic deformation of metals and alloys using ultrasound,01/03/2013,01/03/2016,"F. Lund / R. Espinoza, N. Mujica",Departamento de Física,FONDECYT,Regular
+321,3120172,Solid cluster grain-boundary characterization in a vibrated quasi-two-dimensional granular material.,01/10/2011,01/09/2013,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+322,ANM-06,Núcleo milenio materia lejos del equilibrio,01/01/2013,01/01/2013,"R. Soto / F. Lund, N. Mujica, F. Barra",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+323,1120211,On the relation between microscopic dynamics and collective behavior in granular systems,01/03/2012,01/03/2015,N. Mujica,Departamento de Física,FONDECYT,Regular
+324,NM-1,Dynamics and Evolution of Emergent Phenomena (DEEP),01/12/2010,01/12/2010,"M. Clerc / R. Soto, F. Barra, N. Mujica, Ã. Núñez, C. Falcón",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+325,1100198,Ultrasonic probing of dislocations in materials,01/03/2010,01/03/2013,"F. Lund / R. Espinoza, N. Mujica",Departamento de Física,FONDECYT,Regular
+326,1090188,On the criticality of the solid-liquid like transition in vibrated quasi-two dimensional granular media.,01/03/2009,01/03/2012,N. Mujica,Departamento de Física,FONDECYT,Regular
+327,ACT-127,Dinámica de medios heterogéneos y desordenados,01/12/2009,01/12/2012,"N. Mujica / F. Barra, F. Lund, R. Soto",Departamento de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+328,3080015,Waves in random media: instabilities and propagation.,01/03/2008,01/03/2008,N. Mujica,Departamento de Física,FONDECYT,Postdoctorado
+329,1070346,Solid-fluid phase coexistence in vibrated granular monolayers,01/03/2007,01/03/2009,N. Mujica,Departamento de Física,FONDECYT,Regular
+330,C07E07,Ondas en medios aleatorios: inestabilidades y propagación,01/12/2007,01/12/2010,N. Mujica,Departamento de Física,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+331,1050331,Expimental study of acustic intiractions in two-phase media,01/03/2005,01/03/2007,N. Mujica,Departamento de Física,FONDECYT,Regular
+332,3240112,"Estabilidad, Dinámica y Excitaciones en Materiales Multiferroicos de baja dimensionalidad",01/06/2023,01/06/2023,Ã. Núñez,Departamento de Física,FONDECYT,Postdoctorado
+333,1230515,Magneto-electric sheep for two-dimensional dreams,01/03/2023,01/03/2027,Ã. Núñez / L. Foa Torres,Departamento de Física,FONDECYT,Regular
+334,NM23_32235,Millennium Nucleus for Smart Quantum Energies,01/07/2023,01/07/2023,Ã. Núñez,Departamento de Física,,
+335,3230810,"Estabilidad, Dinámica y Excitaciones en Materiales Multiferroicos de baja dimensionalidad",01/03/2023,01/03/2023,Ã. Núñez,Departamento de Física,FONDECYT,Postdoctorado
+336,3220527,Teoría de Detección y Manipulación de Singularidades Magnéticas en Sistemas Tridimensionales,01/04/2022,01/04/2025,Ã. Núñez,Departamento de Física,FONDECYT,Postdoctorado
+337,IM21_11501_en,Millenium Institute for Quantum Science and Technologies,01/03/2023,01/03/2023,"L. Foa Torres, F. Barra, Ã. Núñez",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+338,1211038,Exploring exceptional quantum phenomena beyond equilibrium,01/03/2021,01/03/2025,L. Foa Torres / Ã. Núñez,Departamento de Física,FONDECYT,Regular
+339,3190264,Magnetoelastic coupling in magnetic nanostructures,01/03/2019,01/03/2022,Ã. Núñez,Departamento de Física,FONDECYT,Postdoctorado
+340,1190324,Magnetism visits flatland: a travel guide into the magnetic second dimension,01/04/2019,01/04/2023,Ã. Núñez / L. Foa Torres,Departamento de Física,FONDECYT,Regular
+341,3170407,Propiedades dinámicas y cuasi-estáticas en sistemas magnéticos,01/08/2016,01/08/2016,Ã. Núñez,Departamento de Física,FONDECYT,Postdoctorado
+342,1170917,Novel manifestations of topological states in condensed matter,01/04/2017,01/04/2021,L. Foa Torres / Ã. Núñez,Departamento de Física,FONDECYT,Regular
+343,NM_CS_18_01,Núcleo Milenio en Metamateriales Mecánicos Suaves e Inteligentes,01/07/2018,01/07/2021,"H. Palza / F. Lund, Ã. Núñez, C. Falcón, V. Meruane, J. Zagal","Departamento de Ingeniería Química, Biotecnología y Materiales",Iniciativa científica Milenio,Núcleos Milenio
+344,1150072,Manipulation and detection of isolated magnetic skyrmions,01/03/2015,01/03/2019,Ã. Núñez,Departamento de Física,FONDECYT,Regular
+345,3150412,Interrelación entre la interacción de Dzyaloshinskii-Moriya y la interacción dipolar,01/11/2014,01/11/2014,Ã. Núñez,Departamento de Física,FONDECYT,Postdoctorado
+346,114-239,Magnonics at the atomic scale,01/03/2014,01/03/2014,Ã. Núñez,Departamento de Física,FONDECYT,Regular
+347,22715,"El cuadrado que soñaba con rodar
+",01/03/2013,01/03/2014,Ã. Núñez,Departamento de Física,Fondos de Cultura,Fondo del Libro y la Lectura
+348,ANM-47,Instituto milenio de  investigación en nano materiales y dispositivos (MIRNOMAD),01/01/2013,01/01/2013,"D. Dulic / C. Falcón, M. Cordero, H. Palza, Ã. Núñez, V. Fuenzalida, M. Flores",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+349,10335,Programa Interdisciplinario de Nanomateriales y Sistemas Moleculares,01/08/2012,01/08/2015,"Ã. Núñez / M. Soler, M. Flores, R. Espinoza, V. Fuenzalida",Departamento de Física,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+350,1110271,Quantum effects in molecular electronics: a tale of many electrons,01/03/2011,01/03/2014,Ã. Núñez,Departamento de Física,FONDECYT,Regular
+351,NM-1,Dynamics and Evolution of Emergent Phenomena (DEEP),01/12/2010,01/12/2010,"M. Clerc / R. Soto, F. Barra, N. Mujica, Ã. Núñez, C. Falcón",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+352,CSIC10-13,Dinámica de un spin excitado con corriente,01/03/2010,01/03/2012,Ã. Núñez,Departamento de Física,Fondo Central de Investigación,CSIC/U. DE CHILE
+353,OA-29,Nanoelectronics and synthesis of carbon based systems,01/12/2009,01/12/2009,Ã. Núñez,UTFSM. Depto. de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+354,11070008,Quantum Coherence in Nanothechnological Devices: applitations to spintronics and pseudospintronics,01/03/2007,01/03/2007,Ã. Núñez,Departamento de Física,FONDECYT,Iniciación en Investigación
+355,1240196,Cosmic bridge: Euclid Satellite and Primordial Observations with Machine Learning,01/07/2023,01/07/2023,D. Sapone / G. Palma,Departamento de Física,FONDECYT,Regular
+356,3230246,Modified Symmetry Teleparallel Gravity as LCDM: with Observational and Theoretical approaches,01/03/2023,01/03/2023,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+357,3230481,Spacetime Symmetries in the Early Universe,01/03/2023,01/03/2026,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+358,3220545,Constraining Inflation using the Cosmological Boostrap,01/04/2022,01/04/2025,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+359,1210876,Charting the primordial universe through tomographic non-Gaussianity,01/03/2021,01/03/2025,G. Palma / D. Sapone,Departamento de Física,FONDECYT,Regular
+360,3190554,The quest for cosmic symmetry breaking patterns and the consistency of bottom-up contructions of inflationary spacetimes,01/03/2019,01/03/2022,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+361,1171811,Theoretical consequences of future cosmological tests on primordial fluctuations,01/04/2017,01/04/2021,G. Palma,Departamento de Física,FONDECYT,Regular
+362,1160571,Working on the gap between particle and gravitational physics,01/08/2015,01/08/2015,G. Palma,PUC. Depto. de Física,FONDECYT,Regular
+363,3160368,Quantum gravity signatures in the cosmic microwave background,01/11/2015,01/11/2018,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+364,NM2016_008,Núcleo Milenio de cosmología,01/07/2016,01/07/2016,G. Palma,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+365,3160299,The role of nonlinearity and asymptotic symmetries in structure formation and early universe dynamics,01/11/2015,01/11/2018,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+366,3150126,Inflating a quantum universe,01/11/2014,01/11/2017,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+367,3150398,Inflación Cósmica en Gravedad Delta,01/11/2014,01/11/2014,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+368,3150490,Cosmic Inflation and its current observational status,01/11/2014,01/11/2017,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+369,314-079,Cosmological Implications of Quantum Fluctuations,01/10/2013,01/10/2013,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+370,314-063,Inflación cósmica en gravedad delta,01/10/2013,01/10/2013,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+371,1130777,Cosmic inflation: Unveiling early universe physics through cosmological observations,01/03/2013,01/03/2017,G. Palma,Departamento de Física,FONDECYT,Regular
+372,ANM-41,Núcleo milenio del universo primordial,01/01/2013,01/01/2013,G. Palma,PUC. Depto. de Física,Iniciativa científica Milenio,Núcleos Milenio
+373,10137,Testeando las teorías fundamentales de la naturaleza a través de nuevas observaciones cosmológicas y astrofísicas,01/10/2012,01/10/2015,"L. Campusano / R. Muñoz, G. Palma, N. Zamorano, J. Maza, N. Hitschfeld",Departamento de Astronomía,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+374,3100120,Correcciones cuánticas a leptogénesis,01/03/2010,01/03/2010,G. Palma,Departamento de Física,FONDECYT,Postdoctorado
+375,11090279,Cosmic inflation in Supergravity and String Theory,01/10/2009,01/10/2012,G. Palma,Departamento de Física,FONDECYT,Iniciación en Investigación
+376,6,Sciences of the Cosmos,01/12/2009,01/12/2009,G. Palma,Departamento de Física,FONDAP,Programa FONDAP
+377,I 09/15-2,Inflación cósmica en supergravedad y Teoría de Cuerdas,01/03/2009,01/03/2009,G. Palma,Departamento de Física,Fondo Central de Investigación,INICIACION
+378,OA-37,Cosmology and high energy physics,01/12/2009,01/12/2009,N. Zamorano / G. Palma,Departamento de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+379,1240470,Particle acceleration in collisionless accretion disks and their radiative signatures,01/07/2023,01/07/2023,M. Riquelme,Departamento de Física,FONDECYT,Regular
+380,1231189,Particle acceleration in collisionless accretion disks and their radiative signatures,01/08/2022,01/08/2022,M. Riquelme,Departamento de Física,FONDECYT,Regular
+381,IM21_11468_en,Millennium Institute for Space Exploration,01/03/2023,01/03/2023,"P. Moya, R. Méndez, M. Riquelme, J. Valdivia",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+382,1191673,Stochastic particle acceleration by kinetic instabilities in astrophysical plasmas,01/04/2019,01/04/2023,M. Riquelme,Departamento de Física,FONDECYT,Regular
+383,1181321,Nonthermal phenomena in collisionless astrophysical plasmas: understanding the role of kinetic instabilities,01/07/2017,01/07/2017,M. Riquelme,Departamento de Física,FONDECYT,Regular
+384,1170653,Particle heating and acceleration in collisionless accretion flows,01/09/2016,01/09/2016,M. Riquelme,Departamento de Física,FONDECYT,Regular
+385,1160875,Particle heating and acceleration in low-luminosity accretion disks,01/06/2015,01/06/2015,M. Riquelme,Departamento de Física,FONDECYT,Regular
+386,3160305,Modelo de capas y complejidad en plasmas espaciales y astrofísicos,01/11/2015,01/11/2018,M. Riquelme,Departamento de Física,FONDECYT,Postdoctorado
+387,ENL005/16,Calentamiento y aceleración de partículas en discos de acreción de baja Luminosidad,01/08/2016,01/08/2017,M. Riquelme,Departamento de Física,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+388,11121145,Plasmas Astrofísicos No-colisionales,01/10/2012,01/10/2015,M. Riquelme,Departamento de Física,FONDECYT,Iniciación en Investigación
+389,1060819,"Pattern Recognition Using Firing Sequences in a Network of Integrate and Fire neural Oscillators
+",01/03/2006,01/03/2006,C. Romero,Departamento de Física,FONDECYT,Regular
+390,E2856-8812,,31/12/1988,31/12/1989,C. Romero,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+391,465-791,Diseño y construcción de un espectómetro de respuesta ultrarápida,01/01/1979,01/01/1983,C. Romero,Departamento de Física,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+392,3240630,A comprehensive study of Primordial Black holes from the early universe to present,01/06/2023,01/06/2023,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+393,1240196,Cosmic bridge: Euclid Satellite and Primordial Observations with Machine Learning,01/07/2023,01/07/2023,D. Sapone / G. Palma,Departamento de Física,FONDECYT,Regular
+394,3230512,Probing the impact of relativistic effects on cosmological observables in standard and non-standard models,01/03/2023,01/03/2026,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+395,1210876,Charting the primordial universe through tomographic non-Gaussianity,01/03/2021,01/03/2025,G. Palma / D. Sapone,Departamento de Física,FONDECYT,Regular
+396,1200171,SOAP-Cosmo: Statistics for Observed Anisotropies and Probes in Cosmology,01/03/2020,01/03/2024,D. Sapone,Departamento de Física,FONDECYT,Regular
+397,3190360,Probing the concordance model of Cosmology with current and future observations,01/10/2018,01/10/2018,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+398,3190225,"Probing the Dark Side of the Universe: Robustness, Predictability and Detectability",01/10/2018,01/10/2018,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+399,1190458,E-StatCom: statistical cosmology for future Experiments,01/08/2018,01/08/2018,D. Sapone,Departamento de Física,FONDECYT,Regular
+400,3190617,On pillars of the standard cosmological model and alternatives to the dark energy paradigm,01/10/2018,01/10/2018,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+401,3190633,Parameterizing & constraining theories beyond cosmological concordance model with big data analysis approach from next generation large scale surveys,01/10/2018,01/10/2018,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+402,1181262,Cosmological tools and galaxy distributions: cosmological constraints,01/07/2017,01/07/2017,D. Sapone,Departamento de Física,FONDECYT,Regular
+403,3170636,Constraints on anisotropic dark energy with future galaxy surveys,01/08/2016,01/08/2016,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+404,3170269,"Galaxy formation and evolution, and testing large scale isotropy from galaxy surveys",01/08/2016,01/08/2016,D. Sapone,Departamento de Física,FONDECYT,Postdoctorado
+405,1230919,Multi-scale tissue mechanics: a guide to embryo formation in annual killifish,01/03/2023,01/03/2027,"M. Concha / R. Soto, M. Cerda, S. Hartel",Instituto de Ciencias Biomédicas,FONDECYT,Regular
+406,3220230,Self-organizing bacterial mixtures,01/09/2021,01/09/2021,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+407,1220536,Quantitative coarse-grained descriptions of active matter,01/04/2022,01/04/2026,R. Soto,Departamento de Física,FONDECYT,Regular
+408,3210406,Self-organizing active mixtures,01/08/2020,01/08/2020,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+409,3210341,Fenómenos de transporte en suspensiones bacterianas,01/03/2021,01/03/2024,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+410,3200319,Motility-induced phase separation of active mixtures,01/01/2020,01/01/2020,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+411,3200459,Continuum modelling of active systems: retarded interactions and quenched disorder,01/01/2020,01/01/2020,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+412,CP200023,"Premios Nobel, conversaciones sobre Física",01/11/2022,01/11/2022,R. Soto,Departamento de Física,Programa Ciencia Pública,Ciencia Pública de Proy. Comunitarios para la Difusión de Conocimiento Local
+413,3200332,Fenómenos de transporte en suspensiones bacterianas,01/01/2020,01/01/2020,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+414,3190767,Termodinámica estocástica de micronadadores con interacciones hidrodinámicas,01/03/2019,01/03/2021,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+415,1180791,Discrete models of active matter,01/03/2018,01/03/2022,R. Soto,Departamento de Física,FONDECYT,Regular
+416,1170676,Quasi two-dimensional granular matter,01/09/2016,01/09/2016,R. Soto,Universidad Del Bio-Bio,FONDECYT,Regular
+417,LIA MSD,"Laboratoire International Associé Matière: Structure et Dynamique
+",01/01/2017,01/01/2021,R. Soto,Laboratoire de Physique,Projets Internationaux de Coopération Scientifique,CNRS-PICS
+418,C16E03,Active fluids in confined environments,01/02/2017,01/03/2017,R. Soto,Departamento de Física,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+419,NC160041,Núcleo Milenio física de la materia activa,01/05/2017,01/09/2023,"R. Soto / F. Barra, M. Cordero, F. Guzmán",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+420,3160695,AFM interferometry of active colloids,01/11/2015,01/11/2018,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+421,1161388,Quasi two-dimensional granular matter,01/08/2015,01/08/2015,R. Soto,UBIO. Depto. de Física,FONDECYT,Regular
+422,3160481,Self-assembly of functional structures in colloidal suspensions,01/11/2015,01/11/2018,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+423,3150364,Swimmer-particle interactions in active suspensions,01/11/2014,01/11/2017,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+424,3150368,Dense isotropic active matter,01/11/2014,01/11/2017,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+425,3150406,Time-dependent rheology of dense granular materials,01/11/2014,01/11/2017,R. Soto,Departamento de Física,FONDECYT,Postdoctorado
+426,1140778,Non-equilibrium phenomena in active particulate systems,01/03/2014,01/03/2018,R. Soto,Departamento de Física,FONDECYT,Regular
+427,1120775,Dynamics of confined granular fluids,01/03/2012,01/03/2016,R. Soto,Universidad Del Bio-Bio,FONDECYT,Regular
+428,ANM-06,Núcleo milenio materia lejos del equilibrio,01/01/2013,01/01/2013,"R. Soto / F. Lund, N. Mujica, F. Barra",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+429,AIC-43,Fortalecimiento de técnicas de análisis de imágenes para la física de medios desordenados y heterogéneos,01/12/2011,01/06/2013,R. Soto,Departamento de Física,Programa de Investigación Asociativa,Apoyo Infraestructura Cientifica de Centros
+430,1110278,Dynamics of granular fluids,01/03/2011,01/03/2011,R. Soto,Departamento de Física,FONDECYT,Regular
+431,C11E04,Transport in active suspensions and dense granular matter,01/06/2012,01/06/2015,R. Soto,Departamento de Física,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+432,NM-1,Dynamics and Evolution of Emergent Phenomena (DEEP),01/12/2010,01/12/2010,"M. Clerc / R. Soto, F. Barra, N. Mujica, Ã. Núñez, C. Falcón",Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+433,1100100,Fluctuations in non-perturbative out of equilibrium particulate systems,01/03/2010,01/03/2014,R. Soto,Departamento de Física,FONDECYT,Regular
+434,ACT-127,Dinámica de medios heterogéneos y desordenados,01/12/2009,01/12/2012,"N. Mujica / F. Barra, F. Lund, R. Soto",Departamento de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+435,IM-2,Instituto para Ciencia de los Materiales (IMAS),01/12/2009,01/12/2009,"V. Fuenzalida, R. Soto, M. Clerc",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+436,1,"Program for research in the interdisciplinay sciences of materials, PRISMA",01/12/2009,01/12/2009,"R. Soto / V. Fuenzalida, M. Clerc",Departamento de Física,FONDAP,Programa FONDAP
+437,VI-2008-171,Centro FONDAP para la investigación interdisciplinaria en Ciencias de los Materiales CIMAT,01/12/2008,01/12/2009,R. Soto,Departamento de Física,Cooperación Internacional: Multilateral y vinculación,Vinculación internacional Centros y grupos asociativos nacionales
+438,7070301,Fluctuations and transport properties in non-equilibrium granular and suspensions,01/03/2007,01/03/2008,R. Soto,Departamento de Física,FONDECYT,Cooperación Internacional
+439,C07E08,Hidrodynamics of passive and active suspensions in a confined geometry,01/12/2007,01/12/2010,R. Soto,Departamento de Física,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+440,1070958,Collective description of granular fluids,01/03/2007,01/03/2011,R. Soto,Departamento de Física,FONDECYT,Regular
+441,3070037,Casimir forces in classical fluctuating hydrodynamics,01/03/2007,01/03/2009,R. Soto,Escuela de Postgrado,FONDECYT,Postdoctorado
+442,1061112,Fluctuations and transport properties in non-equilibrium granular media and suspensions,01/03/2006,01/03/2010,R. Soto,Departamento de Física,FONDECYT,Regular
+443,1050505,"Stellar dynamical issues of galaxy formations: dynamical frictions in rotating stellar system, tidal disruptions of satellite galaxies and heating of galaxy disks by infalling satellites 
+",01/06/2005,01/06/2005,R. Soto,Departamento de Física,FONDECYT,Regular
+444,1030993,Continuum description of fluids under extreme non-equilibrium conditions,01/03/2003,01/03/2007,R. Soto,Departamento de Física,FONDECYT,Regular
+445,C03E05,Propiedades reológicas de fluidos granulares secos y mojados,01/12/2003,01/12/2006,R. Soto,Departamento de Física,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+446,1010416,Statistical mechanics of granular fluids,01/03/2001,01/03/2003,R. Soto,Departamento de Física,FONDECYT,Regular
+447,FAND-I-1,,31/12/2000,31/12/2002,R. Soto,,Fundacion Andes,Beca de Inserción F. Andes
+448,11980002,Centro para la Investigación Inderdisciplinaria en Ciencias de Materiales (CIMAT),01/03/2000,01/03/2010,"F. Lund / E. Spodine, J. San Martín, M. Yazdani-Pedram, R. Soto, V. Fuenzalida, J. Arias, J. Quijada",Departamento de Física,FONDAP,Programa FONDAP
+449,2950055,Estudio microscopico de las propiedades estadisticas y dinamicas de la transicion de fases gas liquido,01/03/1995,01/03/1998,R. Soto,Departamento de Física,FONDECYT,Doctorado
+450,1231313,"Merging flat bands, topology, and inter-orbital coupling in photonic lattices made in Chile",01/03/2023,01/03/2027,R. Vicencio,Departamento de Física,FONDECYT,Regular
+451,3230139,Estudio experimental del transporte y localización en redes fotónicas considerando desorden y no linealidad,01/03/2023,01/03/2026,R. Vicencio,Departamento de Física,FONDECYT,Postdoctorado
+452,3190601,Escritura de arreglos de guías de ondas por medio de un láser de femtosegundos,01/03/2019,01/03/2022,R. Vicencio,Departamento de Física,FONDECYT,Postdoctorado
+453,1191205,Fundamental properties and applications of written and induced photonic lattices,01/04/2019,01/04/2023,R. Vicencio,Departamento de Física,FONDECYT,Regular
+454,EQM180009,Desarrollo de un centro nacional para micro y nano fabricación de dispositivos: Adquisición de un evaporador de metales por haz de electrones,01/11/2018,01/05/2020,"D. Dulic / F. Mena, M. Cordero, M. Clerc, R. Vicencio, C. Hermann, L. Foa Torres",Departamento de Física,FONDEQUIP,Concurso de Equipamiento Científico
+455,PAI77180003,Propagación de luz con propiedades cuánticas a través de estructuras fotónicas,01/10/2018,01/10/2021,C. Hermann / R. Vicencio,Departamento de Física,Programa de Capital Humano Avanzado,Subvención a la Instalación en la Academia
+456,3180153,Induced and laser-written photonic lattices: classical and quantum light phenomenology,01/03/2018,01/03/2021,C. Hermann / R. Vicencio,Departamento de Física,FONDECYT,Postdoctorado
+457,IM1701,Instituto Milenio de Investigación en óptica (MIRO),01/12/2017,01/12/2027,"M. Clerc, R. Vicencio",Departamento de Física,Iniciativa científica Milenio,Institutos Milenios
+458,FIC201706,ILOS: Iluminación de origen solar,01/07/2022,01/07/2022,R. Vicencio,Departamento de Física,Fondos de Innovación para la Competitividad,GORE Metropolitano de Santiago
+459,1151444,Light propagation in flat-band photonic lattices,01/03/2015,01/03/2019,R. Vicencio,Departamento de Física,FONDECYT,Regular
+460,CA13I10244,"Llave Óptica
+",01/10/2013,01/08/2015,R. Vicencio,Departamento de Física,FONDEF,IDEA
+461,1110142,Fundamental properties and applications of nonlinear optical waveguide arrays,01/03/2011,01/03/2014,R. Vicencio,Departamento de Física,FONDECYT,Regular
+462,NMOPT_01,Núcleo Milenio Óptica Avanzada,01/12/2011,01/12/2017,R. Vicencio,Departamento de Física,Iniciativa científica Milenio,Núcleos Milenio
+463,7080001,Dynamics of localized excitations in discrete nonlinear optical media,01/03/2008,01/03/2009,R. Vicencio,Departamento de Física,FONDECYT,Cooperación Internacional
+464,ED13/081,El viaje de la luz,01/12/2008,01/12/2009,R. Vicencio,Escuela de Postgrado,Explora,Divulgación y Valoración de CTI
+465,1070897,Dynamics of localized excitation in discrete nonlinear optical media,01/03/2007,01/03/2011,R. Vicencio / M. Molina,Departamento de Física,FONDECYT,Regular
+466,3050039,Conservative and dissipative discrete solitons in nonlinear optical waveguide arrays,01/03/2005,01/03/2007,R. Vicencio / M. Clerc,Departamento de Física,FONDECYT,Postdoctorado
+467,15PAEI-40172,"Desarrollo de workshop para la promoción del espíritu emprendedor y la innovación basada en las áreas de ciencia, tecnología, matemática e ingeniería STEM orientado a profesores y estudiantes de colegios de enseñanza media de chile",01/07/2015,01/05/2016,N. Zamorano,Departamento de Física,INNOVA,Innova
+468,10137,Testeando las teorías fundamentales de la naturaleza a través de nuevas observaciones cosmológicas y astrofísicas,01/10/2012,01/10/2015,"L. Campusano / R. Muñoz, G. Palma, N. Zamorano, J. Maza, N. Hitschfeld",Departamento de Astronomía,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+469,OA-37,Cosmology and high energy physics,01/12/2009,01/12/2009,N. Zamorano / G. Palma,Departamento de Física,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+470,I 05/05-2,Evolución orbital de galaxias satélites: Destrucción por efectos de marea y propiedades cinemáticas de los remanentes estelares,01/07/2005,01/07/2007,N. Zamorano,Departamento de Física,Fondo Central de Investigación,INICIACION
+471,1040814,"Aprendizaje y conciencia de las ciencias en el e-learning
+",01/03/2004,01/03/2004,N. Zamorano,Departamento de Física,FONDECYT,Regular
+472,12,"Stellar Dynamical Issues of Galaxy formation: Tidal disruption of satellite galaxies and heating of galaxy disks by minor mergers 
+",01/03/2004,01/03/2004,N. Zamorano,Particular,FONDECYT,Regular
+473,D02I1049,Tutorías Interactivas en matemáticas usando estrategias didácticas emergidas de hallazgos recientes en neurociencia cognitiva del aprendizaje matemático,01/12/2002,01/12/2005,"P. Dartnell / N. Zamorano, R. Araya, J. San Martín, R. Jofré",Departamento de Ingeniería Matemática,FONDEF,Investigación y Desarrollo (I+D)
+474,D021-1090,Estándares para la formación en ciencias de profesores de enseñanza media,01/12/2002,01/12/2005,"R. Correa / N. Zamorano, R. Devés, A. Labra, P. Felmer, M. Kukulján, V. Sabaj, S. Martínez",Departamento de Ingeniería Matemática,FONDEF Investigación y Desarrollo,Fondef X-ID
+475,1000961,Generalized kerr-schild metrics,01/03/2000,01/03/2001,N. Zamorano,Departamento de Física,FONDECYT,Regular
+476,ED5/00/053 ,Física vía experimentos ,01/12/2000,01/12/2001,N. Zamorano,Departamento de Física,Explora,Divulgación y Valoración de CTI
+477,EXP98/036 ,Laboratorio de electrónica para estudiantes de enseñanza media,01/12/1998,01/12/1999,N. Zamorano,Departamento de Física,Explora,Divulgación y Valoración de CTI
+478,2970014,Cuerdas cósmicas y agujeros negros: topología interna,01/03/1997,01/03/1999,N. Zamorano,Departamento de Física,FONDECYT,Doctorado
+479,001-1996,Vientos estelares impulsados por radiación: Influencia de campos magneticos y rotaciíon en el efecto energy run-away,01/03/1996,01/03/1996,N. Zamorano,Departamento de Física,FONDECYT,Postdoctorado
+480,1960982,Cosmic strings and quasinormal modes,01/03/1996,01/03/1996,N. Zamorano,Departamento de Física,FONDECYT,Regular
+481,2950005,Estudio numérico de sistemas gravitacionales,01/03/1995,01/03/1998,N. Zamorano,Departamento de Física,FONDECYT,Doctorado
+482,1950271,"Gravitación: Singularidades, soluciones y simulación numérica",01/03/1995,01/03/1997,N. Zamorano,Departamento de Física,FONDECYT,Regular
+483,1910858,Modelos matemáticos de objetos celestes,01/03/1991,01/03/1993,"N. Zamorano, S. Hojman",Departamento de Física,FONDECYT,Regular

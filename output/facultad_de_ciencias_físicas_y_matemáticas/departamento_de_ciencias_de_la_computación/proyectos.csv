@@ -1,0 +1,395 @@
+,codigo,titulo,fecha_inicio,fecha_fin,investigadores,institucion,programa,fuente
+0,11240305,Mitigating Feedback Loop Bias in Recommendation Systems: A Framework Based on Structural Complexity and Fair Ranking Algorithms,01/05/2023,01/05/2023,A. Abeliuk,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+1,11221284,Identifying and Quantifying Polarized Topics in news using unsupervised word embeddings,01/05/2021,01/05/2021,A. Abeliuk,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+2,EQM210098,Sistema de inteligencia artificial basado en un clúster de GPUs,01/08/2021,01/08/2021,A. Abeliuk,Departamento de Ciencias de la Computación,FONDEQUIP,Concurso de Equipamiento Científico
+3,UI- 004/21,Identificación y cuantificación no-supervisada de temas polarizados en las noticias mediante word embeddings,01/11/2021,01/11/2023,A. Abeliuk,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-INICIA
+4,PAI77200126,Optimizando la Inteligencia Colectiva en Sistemas Socio-técnicos,01/11/2020,01/11/2020,A. Abeliuk / M. Munizaga,Departamento de Ingeniería Civil,Programa de Capital Humano Avanzado,Subvención a la Instalación en la Academia
+5,1200032,Understanding The Gender Divide Using Mobile Traces,01/08/2019,01/08/2019,R. Baeza,Facultad de Ciencias de la Salud,FONDECYT,Regular
+6,1190640,Understanding The Gender Divide Using Mobile Traces,01/08/2018,01/08/2018,R. Baeza,Facultad de Economía y Negocios,FONDECYT,Regular
+7,8-2004,"Difusión, desarrollo y masificación de soluciones basadas en Software libre Orientadas a la modernización del país basada en las TI en base a la neutralidad tecnológica y disminución de la brecha digital",01/12/2004,01/12/2004,R. Baeza / J. Piquer,Departamento de Ciencias de la Computación,Programa Bicentario de Ciencia y Tecnología,Consorcios Tecnológicos Empresariales
+8,1020803,Buscadores y Minería de datos en la web,01/03/2002,01/03/2004,R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Regular
+9,P01-059F,Centro de Investigación de la web (CIW),01/01/2002,01/12/2007,"G. Navarro / J. Ruiz del Solar, C. Gutiérrez, R. Baeza, J. Piquer",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+10,G02P1001,Genómica Funcional en Nectarines: Plataforma para Potenciar la Competitividad de Chile en Exportación de Frutas,01/03/2002,01/03/2005,"R. Baeza, L. Cambiazo, H. Silva, M. González, L. Meisel, R. Campos",Departamento de Biología,FONDEF,Genómica de recursos naturales
+11,3000058,"World unification: complexity, applications and implementation
+",01/03/2000,01/03/2000,C. Gutiérrez / R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+12,1000929,Búsqueda de objetos similares,01/03/2000,01/03/2002,G. Navarro / R. Baeza,Centro de Computación (eliminado),FONDECYT,Regular
+13,1990627,Diseño y análisis de algoritmos secuenciales y paralelos y sus aplicaciones,01/03/1999,01/03/2002,R. Baeza / G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+14,1970342,Herramientas computacionales para el trabajo colaborativo,01/03/1997,01/03/2000,J. Pino / R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Regular
+15,1960881,"Búsqueda exacta y de similaridad: algoritmos, métodos de análisis y visualización",01/03/1996,01/03/1998,"P. Poblete / R. Baeza, G. Navarro",Departamento de Ciencias de la Computación,FONDECYT,Regular
+16,1950622,"Estructuras de datos: diseño, análisis y aplicaciones",01/03/1995,01/03/1998,R. Baeza / P. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Regular
+17,1940269,Sistemas colaborativos: interfaces humano-computador,01/03/1994,01/03/1997,J. Pino / R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Regular
+18,MI-010,Centro de Investigación en Tecnología de Software,01/12/1991,01/12/1995,R. Baeza / M. Rivara,Departamento de Ciencias de la Computación,FONDEF Investigación y Desarrollo,Fondef I-ID
+19,1910868,Visualización de programas y animación de algoritmos,01/03/1991,01/03/1993,R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Regular
+20,1241580,Feedback strategies based on learning analytics to promote self-regulated learning in first-year university students,01/08/2023,01/08/2023,N. Baloian,,FONDECYT,Regular
+21,1231319,Feedback strategies based on learning analytics to promote self-regulated learning in first-year university students,01/08/2022,01/08/2022,N. Baloian,Universidad Austral De Chile,FONDECYT,Regular
+22,1221309,Feedback strategies based on learning analytics to promote self-regulated learning in first-year university students,01/10/2021,01/10/2021,N. Baloian,Universidad Austral De Chile,FONDECYT,Regular
+23,1211003,Learning analytics strategies to promote self-regulated learning in first-year university students,01/08/2020,01/08/2020,N. Baloian,Universidad Austral De Chile,FONDECYT,Regular
+24,1191047,Information Technology Enhanced Museums: studying their contribution to heritage appreciation,01/08/2018,01/08/2018,"N. Baloian / J. Pino, D. Opazo",Departamento de Ciencias de la Computación,FONDECYT,Regular
+25,BMBF180003,Monitoreo confiable de la salud y comunicación de riesgos - Servicios de diseño y recomendación para el modelado de incertidumbre; Evaluación de la calidad del resultado,01/10/2018,01/10/2018,"N. Baloian / J. Pino, S. Ochoa",Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/BMBF-Alemania
+26,1161200,"Pedagogical practices to acquire ""21st century ICT skills"" using microblogging and geocollaboration supported by mobile applications",01/04/2016,01/04/2019,G. Zurita / N. Baloian,* Departamento de Control de Gestión y Sistemas de Información,FONDECYT,Regular
+27,1150537,"Simultaneous development of ""21st Century ICT Skills"" and curriculum content using microblogging and geocollaboration with mobile devices",01/03/2015,01/03/2015,G. Zurita / N. Baloian,Gabinete Departamento de Sistemas de Información y Auditoría,FONDECYT,Regular
+28,ID15I10513,Uso de Ontologías legales para facilitar el acceso de los ciudadanos a la justicia,01/06/2015,01/06/2015,N. Baloian,Departamento de Ciencias de la Computación,FONDEF,IDEA Bietapa
+29,ID15I10209,Ontologías legales para el empoderamiento de los ciudadanos en el acceso de los servicios de justicia,01/06/2015,01/06/2015,N. Baloian,Departamento de Ciencias de la Computación,FONDEF,IDEA Bietapa
+30,114-142,"Simultaneous development of ""21st Century ICT Skills"" and curriculum content through mobile devices, using microblogging and geocollaboration",01/03/2014,01/03/2014,G. Zurita / N. Baloian,Gabinete Departamento de Sistemas de Información y Auditoría,FONDECYT,Regular
+31,ID14I10400,"Nelson Baloian, eduardo estrada",01/06/2014,01/06/2014,N. Baloian,Departamento de Ciencias de la Computación,FONDEF,IDEA Bietapa
+32,1131078,"Developing of ""21st century ICT skills"" and curriculum content through mobile devices, and microblogging and geocollaboration services",01/03/2013,01/03/2013,G. Zurita / N. Baloian,* Gabinete Escuela de Sistemas de Información y Auditoría,FONDECYT,Regular
+33,1090140,Towards an integrated approach to computer supported learning.,01/03/2009,01/03/2009,N. Baloian / J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+34,1060797,"Mundos virtuales para la inclusión social, MUVIS",01/03/2006,01/03/2009,J. Sánchez / N. Baloian,Departamento de Ciencias de la Computación,FONDECYT,Regular
+35,D05/10243,Tecnologias TIC para el aprendizaje de Idiomas y eduitainment en Internet,01/12/2005,01/12/2007,"N. Becerra / R. Vivanco, N. Baloian",Departamento de Ingeniería Eléctrica,FONDEF,Investigación y Desarrollo (I+D)
+36,SOC-22/04,"Modelos de integración curricular de TICs, mICT",01/03/2004,01/03/2004,J. Sánchez / N. Baloian,Departamento de Ciencias de la Computación,Fondo Central de Investigación,"CS. SOCIALES, HUMANIDADES Y EDUCACION"
+37,1030158,"Entornos Interactivos basados en Sonido para Aprender, TISA",01/03/2003,01/03/2006,J. Sánchez / N. Baloian,Departamento de Ciencias de la Computación,FONDECYT,Regular
+38,TE02I-,Educación contíinua a distancia para ingenieros,01/12/2002,01/12/2002,J. Piquer / N. Baloian,Departamento de Ciencias de la Computación,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+39,TE02I-1008,Centro de capacidades para el apoyo del uso de infotecnologías dentro de la sala de clases extensibles a un escenario distribuido,01/12/2002,01/12/2002,"N. Baloian, F. Brieva",Departamento de Ciencias de la Computación,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+40,IST-2001-32327,Collaborative Learning and Distributed Experimentation,01/12/2002,01/12/2005,N. Baloian,Particular,International Cooperation with Developing Countries,INCO-DC
+41,D00I1048,Desarrollo de Comunicaciones Multimediales sobre redes inalambricas,01/12/2000,01/12/2003,"E. Vera / N. Baloian, N. Becerra, J. Piquer",Departamento de Ciencias de la Computación,FONDEF Investigación y Desarrollo,Fondef VIII-ID
+42,1201863,Adaptive Dynamic Programming and Parameterized Conditional Lower Bounds,01/08/2019,01/08/2019,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+43,1191822,Adaptive Dynamic Programming and Parameterized Conditional Lower Bounds,01/07/2018,01/07/2018,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+44,1170366,Multivariate Analysis of Algorithms and Data Structures in Computational Geometry,01/04/2017,01/04/2019,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+45,1161594,Adaptive geometric algorithms,01/06/2015,01/06/2015,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+46,ENL15-29,"Adaptive Geometric Algorithms
+",01/05/2015,01/05/2015,J. Barbay,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+47,1150742,Adaptive Geometric Algorithms,01/03/2015,01/03/2015,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+48,1120054,"Compressed data structures for permutations, texts and binary relations",01/03/2012,01/03/2015,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+49,1110211,From time to space : adaptative analysis of algorithms and compressed succinict data structures,01/03/2011,01/03/2011,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+50,1110066,Compact data Structures for information retrieval,01/03/2011,01/03/2014,G. Navarro / J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+51,1100105,Adaptive analysis of algorithms and data structures,01/03/2010,01/03/2010,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+52,1090177,"Adaptive analysis of algorithms and data structures: Algorithms, lower bounds and reductions.",01/03/2009,01/03/2009,J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+53,2-2009,"ACGO: Algoritmos, Combinatoria, Juegos y Optimización",01/12/2009,01/12/2009,"J. Barbay, M. Matamala, D. Espinoza, M. Kiwi, J. Correa",Departamento de Ingeniería Industrial,FONDAP,Programa FONDAP
+54,IM-3,"Instituto para Algoritmos, Combinatoria, Juegos y Optimización (ACJO)",01/12/2009,01/12/2009,"M. Kiwi, J. Correa, F. Ordóñez, D. Espinoza, M. Matamala, G. Navarro, J. Barbay",Departamento de Ingeniería Industrial,Iniciativa científica Milenio,Institutos Milenios
+55,09CN14-5695,"IPV6 para Chile, desarrollo de Roadmap para la implementación de protocolo de internet versión 6 para Chile e instalación del primer punto de intercambio de tráfico (PIT) y laboratorio de experimentación IPV6",01/12/2009,01/12/2012,B. Barros,Departamento de Ciencias de la Computación,INNOVA,Innova. Concurso Nacional
+56,IT19I0015,Oferta de Profesionales de Computación e Informática en Chile,01/11/2019,01/11/2019,M. Bastarrica,Departamento de Ciencias de la Computación,FONDEF,IDEA
+57,114-223,A Megamodel as a Means for Practical Industrial Software Process Tailoring,01/03/2014,01/03/2014,M. Bastarrica,Departamento de Ciencias de la Computación,FONDECYT,Regular
+58,IT13I20010,"GEMS: Gestión Experimental de la Mejora de Software 
+",01/07/2014,01/07/2016,M. Bastarrica,Departamento de Ciencias de la Computación,FONDEF,IDEA
+59,1110152,Meshing tools applied to facial animation,01/03/2011,01/03/2011,N. Hitschfeld / M. Bastarrica,Departamento de Ciencias de la Computación,FONDECYT,Regular
+60,1100157,Meshing tools applied to facial animation,01/03/2010,01/03/2010,N. Hitschfeld / M. Bastarrica,Departamento de Ciencias de la Computación,FONDECYT,Regular
+61,D09I1171,ADAPTE: Adaptable Domain and Process Technology Engineering,01/12/2009,01/12/2012,"S. Ochoa, M. Bastarrica",UTFSM,FONDEF,Investigación y Desarrollo (I+D)
+62,1090255,Constrained moving boundary meshing tools applied to facial animation.,01/03/2009,01/03/2009,N. Hitschfeld / M. Bastarrica,Departamento de Ciencias de la Computación,FONDECYT,Regular
+63,1080479,Architecture driven development based on MDE techniques,01/03/2008,01/03/2008,M. Bastarrica / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+64,054-2008,Towards A Systematic Development Of Model Transformations,01/12/2008,01/12/2009,M. Bastarrica,Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/INRIA-Francia
+65,1061235,"Specification and Analysis of Service-Oriented Architectures
+",01/03/2006,01/03/2006,M. Bastarrica / S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+66,1050642,Procesamiento y análisis semántico de servicios web,01/03/2005,01/03/2008,"C. Gutiérrez, M. Bastarrica",Departamento de Ciencias de la Computación,FONDECYT,Regular
+67,2486-8612,,31/12/1986,31/12/1988,J. Benguria,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+68,3230513,Semantic relatedness in Natural Language Processing,01/03/2023,01/03/2023,F. Bravo,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+69,ID23I10269,DashAI: Una plataforma interactiva de experimentación en Inteligencia Artificial,01/12/2022,01/12/2022,F. Bravo,Departamento de Ciencias de la Computación,FONDEF,IDEA
+70,11200290,Tracking social public opinion: a stream-mining based approach,01/10/2020,01/10/2023,F. Bravo,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+71,UI-004/20,Inducción Incremental de Léxicos Afectivos desde Twitter,01/10/2020,01/10/2022,F. Bravo,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-INICIA
+72,11190672,Tracking social public opinion: a stream-mining based approach,01/04/2019,01/04/2019,F. Bravo,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+73,1230448,Algorithms for Multi-labelling and Retrieval of Cultural Heritage 3D Models,01/03/2023,01/03/2026,B. Bustos / I. Sipirán,Departamento de Ciencias de la Computación,FONDECYT,Regular
+74,1201003,An Effective and Efficient Algorithm for Finding Cosmic Voids,01/08/2019,01/08/2019,B. Bustos / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+75,1190997,Matching Video to Text,01/08/2018,01/08/2018,B. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+76,1180611,Cross-modal 3D Shape Matching,01/07/2017,01/07/2017,B. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+77,IM1705,Instituto Milenio de Investigación sobre los Fundamentos de los Datos,01/12/2017,01/12/2027,"B. Bustos, A. Hogan, G. Navarro, E. Tanter, B. Poblete",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Institutos Milenios
+78,18-STIC-09,Transforming multimedia data for indexing and retrieval purposes,01/02/2018,01/06/2018,B. Bustos,Departamento de Ciencias de la Computación,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+79,1170208,Algorithms for Matching Objects in Large 3D Point Clouds,01/08/2016,01/08/2016,B. Bustos / B. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Regular
+80,3160182,Efficient GPU computing in complex particle-based domains,01/11/2015,01/11/2018,B. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+81,1140783,Efficient 3D Shape Matching Using Local Descriptors,01/03/2014,01/03/2017,B. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+82,MAXIMUM2013,Unsupervised Multimedia Content Mining,01/12/2013,01/06/2014,B. Bustos,Departamento de Ciencias de la Computación,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+83,10282,Desarrollando los Fundamentos Lógicos y Algorítmicos de la Web de Datos,01/10/2012,01/10/2015,"G. Navarro / C. Gutiérrez, B. Poblete, B. Bustos",Departamento de Ciencias de la Computación,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+84,1110111,Interest points detection algorithms for 3D shape matching,01/03/2011,01/03/2014,B. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+85,1100109,Sketch-based image retrieval and video copy detection in large multimedia repositories,01/03/2010,01/03/2010,B. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+86,D09I1190,Desarrollo de un sistema de expresión optimizado para la producción de anticuerpos terapéuticos,01/12/2010,01/12/2016,"J. Aguillón / B. Bustos, D. Catalán, M. Molina",Programa de Inmunología,FONDEF,Investigación y Desarrollo (I+D)
+87,D09I1185,Observatorios escalables de la web en tiempo real,01/12/2009,01/12/2012,B. Bustos,Departamento de Ciencias de la Computación,FONDEF,Investigación y Desarrollo (I+D)
+88,A-11,Research Center for a National Information Accesibility Infrastructure,01/12/2009,01/12/2009,C. Gutiérrez / B. Bustos,Departamento de Ciencias de la Computación,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+89,11070037,Effective and efficient retrieval in multimedia databases,01/03/2007,01/03/2009,B. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+90,I07/05-1,Recuperación eficiente en bases de satos multimedia,01/03/2007,01/03/2007,B. Bustos,Departamento de Ingeniería Mecánica,Fondo Central de Investigación,INICIACION
+91,1200030,Internet Resilience,01/08/2019,01/08/2019,J. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+92,1201893,IoT goes to space: Wireless networking protocols and architectures for IoT networks served by LEO satellite constellations,01/03/2020,01/05/2023,"S. Cespedes / C. Azurdia, J. Bustos",Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+93,1190496,Internet Resilience,01/08/2018,01/08/2018,J. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+94,ID19I10363,Sistema abierto experto para apoyar la gestión de recursos hídricos mediante monitoreo de bajo costo en tiempo real de aguas superficiales y subterráneas,01/08/2019,01/08/2021,"S. Cespedes / D. Sáez, D. Daniele, J. Bustos",Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+95,ID18I10269,Monitoreo en tiempo real y procesamiento automatizado de parámetros de cantidad y calidad de aguas superficiales y subterráneas con tecnologías de bajo costo,01/04/2018,01/04/2018,"S. Cespedes / D. Daniele, J. Bustos, D. Sáez",Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+96,1180095,Internet Resilience,01/07/2017,01/07/2017,J. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+97,1170212,Internet Resilience,01/08/2016,01/08/2016,J. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+98,16-STIC-11,VNET: Towards end-to-end network cloudification,01/03/2016,01/09/2016,J. Bustos,Departamento de Ciencias de la Computación,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+99,ID15I10549,Observatorio Urbano Inteligente,01/06/2015,01/06/2015,J. Bustos,Departamento de Ciencias de la Computación,FONDEF,IDEA Bietapa
+100,1150236,Mobile Internet: metrics and measurements,01/03/2015,01/03/2015,J. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+101,ID14I10402,Criptografía aplicada en ciudades inteligentes,01/06/2014,01/06/2014,J. Bustos,Departamento de Ciencias de la Computación,FONDEF,IDEA Bietapa
+102,114-154,A System for Monitoring User's Quality of Service in Mobile Internet,01/03/2014,01/03/2014,J. Bustos,Departamento de Ciencias de la Computación,FONDECYT,Regular
+103,UE_7080031,Development and application of scaling index methods for the automated quantification of colocalization in fluorescence microscopy,01/09/2004,01/10/2008,"J. Piquer, J. Bustos",Institute National de Recherche en Informatique et Automatique,Unión Europea,FP6-Red de Excelencia
+104,13220096,Simulating the Urban Futures of Chile with Digital Twins,01/09/2022,01/09/2022,E. Graells,Departamento de Ciencias de la Computación,Fondecyt_Anid,Proyectos de Exploración
+105,1180886,Democratic Citizens and Information Technology: An Ameliorative Epistemological Project,01/03/2018,01/03/2022,C. Gutiérrez,Depto. de Filosofía y Humanidades,FONDECYT,Regular
+106,1161122,Formal models for massive interaction machines,01/06/2015,01/06/2015,C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+107,114-088,Conceptualization and Formal Models for Social Machines,01/03/2014,01/03/2014,C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+108,612551,Semantic Data Management (SemData),01/10/2013,01/09/2017,C. Gutiérrez,Universidad Politécnica de Madrid,Unión Europea,FP7-PEOPLE-IRSES
+109,NC120004,Núcleo milenio de investigación en la Web semántica,01/10/2013,01/10/2018,C. Gutiérrez,Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+110,10282,Desarrollando los Fundamentos Lógicos y Algorítmicos de la Web de Datos,01/10/2012,01/10/2015,"G. Navarro / C. Gutiérrez, B. Poblete, B. Bustos",Departamento de Ciencias de la Computación,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+111,1110129,Complexity analysis of longest edge based algorithms for triangulation refinement,01/03/2011,01/03/2011,M. Rivara / C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+112,323939,NICE,01/01/2011,01/01/2011,C. Gutiérrez,Departamento de Ciencias de la Computación,Unión Europea,FP7-SICA Collaborative
+113,1110287,Web Data for Linked Data,01/03/2011,01/03/2014,C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+114,1100177,Complexity analisis of longest edge based algorithms for triangular mesh refinement,01/03/2010,01/03/2010,M. Rivara / C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+115,247601,"A Network for Enabling Networked Knowledge (NET2)
+
+",01/07/2010,01/06/2013,C. Gutiérrez,INDEFINIDO,Unión Europea,FP7-PEOPLE-IRSES
+116,A-11,Research Center for a National Information Accesibility Infrastructure,01/12/2009,01/12/2009,C. Gutiérrez / B. Bustos,Departamento de Ciencias de la Computación,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+117,1090565,"SPARQL for RDF data with RDFS vocabulary and blank nodes: Semantics, complexity and implementation",01/03/2009,01/03/2012,C. Gutiérrez,PUC. Depto. Cs. de la Computación,FONDECYT,Regular
+118,1070348,RDF Databases,01/03/2007,01/03/2010,C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+119,ENL06/13,RDF and Graph Database,01/04/2006,01/04/2007,C. Gutiérrez,Departamento de Ciencias de la Computación,Fondo Central de Investigación,Enlace con FONDECYT
+120,1060802,"RDF and Graph Database
+",01/03/2006,01/03/2006,C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+121,1050642,Procesamiento y análisis semántico de servicios web,01/03/2005,01/03/2008,"C. Gutiérrez, M. Bastarrica",Departamento de Ciencias de la Computación,FONDECYT,Regular
+122,10,Desarrollo TIC orientado a la Industria Textil,01/12/2004,01/12/2004,G. Navarro / C. Gutiérrez,Departamento de Ciencias de la Computación,Programa Bicentario de Ciencia y Tecnología,Consorcios Tecnológicos Empresariales
+123,1030810,Metadatos para describir y consultar la web oculta,01/03/2003,01/03/2006,C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+124,P01-059F,Centro de Investigación de la web (CIW),01/01/2002,01/12/2007,"G. Navarro / J. Ruiz del Solar, C. Gutiérrez, R. Baeza, J. Piquer",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+125,3000058,"World unification: complexity, applications and implementation
+",01/03/2000,01/03/2000,C. Gutiérrez / R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+126,UI- 012/19,Adaptive mechanisms for improving player experience in videogames ontrolled by biofeedback and gaze interaction,01/08/2021,01/08/2021,F. Gutiérrez,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-INICIA
+127,11190248,A Reference Framework of Software Development Practices Calibrated for Very Novice Programmers,01/10/2019,01/10/2022,F. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+128,1191516,A Comprehensive Framework for Designing Computer-Mediated Interaction Mechanisms to Support Informal Elderly Caregiving,01/04/2019,01/04/2022,S. Ochoa / F. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+129,1181339,A Comprehensive Framework for Designing Computer-Mediated Interaction Mechanisms to Support Informal Elderly Caregiving,01/07/2017,01/07/2017,S. Ochoa / F. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+130,85220061,Adopción gradual de privacidad en el software y los datos,01/11/2022,01/11/2022,M. Toro / A. Hevia,Departamento de Ciencias de la Computación,Programa de Capital Humano Avanzado,Subvención a la Instalación en la Academia
+131,60NANB18D215,"Beyond Transparency in a Random World: Applications of Publicly Verifiable Randomness to Private, Stateful, and Distributed Processes",01/09/2018,01/08/2020,A. Hevia,Departamento de Ciencias de la Computación,Gobierno USA,National Institute of Standards and Technology (NIST)
+132,1171882,"Towards auditable algorithms in practice: Verifiable randomness, and randomness-verifiable algorithms with applications to privacy preserving systems",01/09/2016,01/09/2016,A. Hevia,Departamento de Ciencias de la Computación,FONDECYT,Regular
+133,60NANB16D304,CLERT Random Beacon and its Application to Randomness-Verifiable Systems,01/09/2016,01/08/2018,A. Hevia,Departamento de Ciencias de la Computación,Gobierno USA,National Institute of Standards and Technology (NIST)
+134,ID15I10604,Criptografía aplicada en ciudades inteligentes,01/06/2015,01/06/2015,A. Hevia,Departamento de Ciencias de la Computación,FONDEF,IDEA Bietapa
+135,1151513,New Security Concerns in Privacy-Preserving Distributed Protocols: Auditability and Deniability of Anonymous Channels and Electronic Voting Systems,01/03/2015,01/03/2015,A. Hevia,Departamento de Ciencias de la Computación,FONDECYT,Regular
+136,ENL15-20,"New Security Concerns in Privacy-Preserving Distributed Protocols: Auditability and Deniability of Anonymous Channels and Electronic Voting Systems
+",01/05/2015,01/05/2015,A. Hevia,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+137,IT14I10113,Sistemas de monitoreo de redes basado en Darknet y Honeynet,01/06/2014,01/06/2014,A. Hevia,Departamento de Ciencias de la Computación,FONDEF,IDEA
+138,3130640,Contra-medidas para Side-Channel Analysis en Criptosistemas basados en curvas elípticas y pairings,01/10/2012,01/10/2012,A. Hevia,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+139,09STIC-05,FMCrypto: Métodos formales para la computación distribuida criptográficamente segura,01/12/2008,01/12/2010,A. Hevia,"INRIA, France",Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+140,1070332,"A practice-oriented cryptographic approach to model, design, analyze, and implement anonymous channels, electronic voting, and archival-recovery systems",01/03/2007,01/03/2010,A. Hevia,Departamento de Ciencias de la Computación,FONDECYT,Regular
+141,1241596,Polyhedral mesh generation,01/08/2023,01/08/2023,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+142,1231211,"Paleogeographic evolution of Tierra del Fuego, southernmost South America: Tectonic, climate and biota interactions",01/03/2023,01/03/2027,F. Poblete / N. Hitschfeld,Departamento de Geología,FONDECYT,Regular
+143,1221357,Combining Tensor cores with Ray-Tracing cores for GPU-based Simulations,01/04/2022,01/04/2026,N. Hitschfeld,Universidad Austral De Chile,FONDECYT,Regular
+144,1221696,Weakly supervised semantic segmentation through global constraints to minimize training examples in biomedical imaging,01/04/2022,01/04/2025,"M. Cerda / S. Hartel, M. Concha, N. Hitschfeld",Instituto de Ciencias Biomédicas,FONDECYT,Regular
+145,1221325,Development and assessment of a combined nodal integration and virtual element method for small and large deformation solid mechanics simulations,01/04/2022,01/04/2025,A. Ortiz / N. Hitschfeld,Departamento de Ingeniería Mecánica,FONDECYT,Regular
+146,1211484,Polygon and polyhedron meshing algorithms,01/03/2021,01/03/2024,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+147,1211891,Semantic processing of biomedical imaging,01/08/2020,01/08/2020,"M. Cerda / S. Hartel, N. Hitschfeld",Instituto de Ciencias Biomédicas,FONDECYT,Regular
+148,EQM210020,Sistema Integrado de Servicios Informáticos para Investigación e Innovación en Biomedicina y Datos Clínicos,01/10/2021,01/10/2025,"M. Cerda / N. Hitschfeld, S. Hartel, A. Colombo",Instituto de Ciencias Biomédicas,FONDEQUIP,Concurso de Equipamiento Científico
+149,ECOS210021,SOMA-DNS: SOft MAtter dynamics with Delaunay-based Neighbours Search,01/06/2022,01/06/2022,N. Hitschfeld,Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+150,ECOS200059,SOMA-DNS: SOft MAtter dynamics with Delaunay-based Neighbours Search,01/06/2022,01/06/2022,N. Hitschfeld,Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+151,1201003,An Effective and Efficient Algorithm for Finding Cosmic Voids,01/08/2019,01/08/2019,B. Bustos / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+152,IT19I0119,Cuantificación de Incertidumbre en Evaluación de Recursos Geológicos y Variables Medioambientales usando Simulaciones Espacio-Temporales,01/11/2019,01/11/2019,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDEF,IDEA
+153,IM19MI-AIE,Instituto Milenio de Ingeniería de Inteligencia Artificial,01/11/2019,01/11/2019,"E. López / V. Meruane, N. Hitschfeld, A. Ortiz, R. Bustamante",Departamento de Ingeniería Mecánica,Iniciativa científica Milenio,Institutos Milenios
+154,3180485,A Reference Framework to Support Collaboration in Software Development Processes Among Tweens,01/08/2017,01/08/2017,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+155,1181506,Improving algorithms for the generation of polygonal and polyhedral meshes,01/03/2018,01/03/2021,N. Hitschfeld / A. Ortiz,Departamento de Ciencias de la Computación,FONDECYT,Regular
+156,1170278,Enhanced robustness for meshfree galerkin methods in solid mechanics simulations using the virtual element decomposition,01/09/2016,01/09/2016,A. Ortiz / N. Hitschfeld,Departamento de Ingeniería Mecánica,FONDECYT,Regular
+157,1170974,Improving algorithms for the generation of polygonal and polyhedral meshes,01/09/2016,01/09/2016,N. Hitschfeld / A. Ortiz,Departamento de Ciencias de la Computación,FONDECYT,Regular
+158,ID16I10186,Evaluación de recursos geológicos en geometrias complejas,01/11/2016,01/11/2018,N. Hitschfeld / J. Ortiz,Departamento de Ciencias de la Computación,FONDEF,IDEA Bietapa
+159,1161182,Improving meshing algorithms for scientific and engineering applications,01/06/2015,01/06/2015,N. Hitschfeld / A. Ortiz,Departamento de Ciencias de la Computación,FONDECYT,Regular
+160,1150867,Delaunay meshes and applications,01/03/2015,01/03/2015,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+161,1151029,Image Processing and Physical Models for the Interpretation of Cell Migration with 4-Lens Light Sheet Fluorescence Microscopy,01/03/2015,01/03/2018,"S. Hartel / N. Hitschfeld, M. Concha",Programa de Anatomía y Biología del Desarrollo,FONDECYT,Regular
+162,ENL15-09,"Delaunay meshes and applications
+",01/05/2015,01/05/2016,N. Hitschfeld,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+163,MCC2014,Multimodal Communication Corpus,01/01/2015,01/06/2015,N. Hitschfeld,Departamento de Ciencias de la Computación,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+164,DSC_RE2013,Dynamic Selection of Classifiers with Application in Real Environments,01/12/2013,01/12/2014,N. Hitschfeld,Departamento de Ciencias de la Computación,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+165,CONRED-2012-999,BioMed-HPC: Red de biología y medicina computacional de alto rendimiento,01/12/2012,01/12/2013,"S. Hartel / M. Cordero, R. Cabrera, A. Maass, G. Rojas, M. Baez, N. Hitschfeld, O. Orellana, J. Letelier, E. Vera, H. Pino, A. Paula Lima, R. Armisen, R. Verdugo, G. Zapata",Programa de Anatomía y Biología del Desarrollo,Fondo Central de Investigación,Programa U-Redes: Línea 2 incentivo a la Consolidación de Red; Domeyko II
+166,1120495,Improving the functionality and performance of meshing tools ,01/03/2012,01/03/2015,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+167,1120579,Fast computational schemes for the analysis of morpho-topological data from high throughput microscopy,01/03/2012,01/03/2015,"S. Hartel / N. Hitschfeld, M. Concha",Programa de Anatomía y Biología del Desarrollo,FONDECYT,Regular
+168,1110152,Meshing tools applied to facial animation,01/03/2011,01/03/2011,N. Hitschfeld / M. Bastarrica,Departamento de Ciencias de la Computación,FONDECYT,Regular
+169,10137,Testeando las teorías fundamentales de la naturaleza a través de nuevas observaciones cosmológicas y astrofísicas,01/10/2012,01/10/2015,"L. Campusano / R. Muñoz, G. Palma, N. Zamorano, J. Maza, N. Hitschfeld",Departamento de Astronomía,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+170,3100141,Generation and adaptation of finite element meshes and applications.,01/03/2010,01/03/2010,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+171,1100157,Meshing tools applied to facial animation,01/03/2010,01/03/2010,N. Hitschfeld / M. Bastarrica,Departamento de Ciencias de la Computación,FONDECYT,Regular
+172,1090255,Constrained moving boundary meshing tools applied to facial animation.,01/03/2009,01/03/2009,N. Hitschfeld / M. Bastarrica,Departamento de Ciencias de la Computación,FONDECYT,Regular
+173,1090246,"Partial differential equations for 3D photon denoising, optical flow and adjacent active surface models for high throughput in vivo spinning disk microscopy.",01/03/2009,01/03/2012,"S. Hartel / M. Concha, N. Hitschfeld",Instituto de Ciencias Biomédicas,FONDECYT,Regular
+174,09STIC-06,BAVI: Integración de Información Audio-Visual Bio-inspirada,01/12/2008,01/12/2010,N. Hitschfeld,Departamento de Matemática,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+175,1080479,Architecture driven development based on MDE techniques,01/03/2008,01/03/2008,M. Bastarrica / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+176,TICAMSUD0706,PLOMO: Mutual software platform for the elaboration of soft tissues physical models,01/12/2007,01/12/2009,N. Hitschfeld,Centre Nationale de la Recherche Scientific,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+177,C06E04,Neurocirugía asistida por computador: modelamiento biomecánico de los tejidos blandos cerebrales,01/01/2007,01/01/2010,N. Hitschfeld,Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+178,1061227,Mixed-element mesh generation for moving boundary applications,01/03/2006,01/03/2009,N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+179,1040713,Lepp algorithms for parallel mesh refinement,01/03/2004,01/03/2007,M. Rivara / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+180,1030672,Mesh generation Algorithms for complex applications,01/03/2003,01/03/2006,N. Hitschfeld / M. Rivara,Departamento de Ciencias de la Computación,FONDECYT,Regular
+181,1020618,A study on longest-edge algorithms for 3-dimensional mesh generation,01/06/2002,01/06/2002,M. Rivara / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+182,1981033,Longest-edge algorithms for the derefinement of unstructured triangulations.,01/03/1998,01/03/2001,M. Rivara / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+183,1960735,Mesh Generation For Complex Geometries Using A Set Of Well-Shaped,01/03/1996,01/03/1999,N. Hitschfeld / M. Rivara,Departamento de Ciencias de la Computación,FONDECYT,Regular
+184,1940323,Generación y Modificación de mallas de tetraedros de objetos poliédricos,01/03/1994,01/03/1997,"M. Rivara / N. Hitschfeld, P. Inostroza",Departamento de Ciencias de la Computación,FONDECYT,Regular
+185,1221926,Enhancing Neural Question Answering Systems for Knowledge Graphs,01/04/2022,01/04/2025,A. Hogan,Departamento de Ciencias de la Computación,FONDECYT,Regular
+186,VIU18P0025,Sistema Distribuido y Colaborativo para Uso de Poder Computacional Ocioso,01/07/2018,01/07/2018,A. Hogan,Departamento de Ciencias de la Computación,FONDEF,VIU-etapa 1
+187,1181896,Managing Dynamic Behaviour in SPARQL Query Services,01/03/2018,01/03/2022,A. Hogan,Departamento de Ciencias de la Computación,FONDECYT,Regular
+188,3170980,Languages and user Interfaces for querying and transforming linked data,01/08/2016,01/08/2016,A. Hogan,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+189,IM1705,Instituto Milenio de Investigación sobre los Fundamentos de los Datos,01/12/2017,01/12/2027,"B. Bustos, A. Hogan, G. Navarro, E. Tanter, B. Poblete",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Institutos Milenios
+190,11140900,Adoption-centric specification of Semantic Web language profiles,01/12/2014,01/12/2017,A. Hogan,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+191,TE08I1016,Rompiendo la brecha digital para un uso significativo de las TIC en establecimientos educacionales: plataforma de entornos pedagógicos especializados PEPE,01/12/2008,01/07/2011,"P. Inostroza, F. Santibáñez, M. Varnero",Universidad De los Lagos,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+192,08CM01-30,Prospección para la estandarización de objetos mineros,01/12/2008,01/12/2011,P. Inostroza,Departamento de Ciencias de la Computación,INNOVA,Innova Cluster Minero
+193,TE06I1001,"KIMEN: Integración de las comunidades educativas a través de herramientas TIC's para potenciar el mercado de desarrolladores de contenido, favorecer la calidad y equidad de la educación",01/12/2006,01/12/2008,F. Santibáñez / P. Inostroza,Departamento de Ingeniería y Suelos,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+194,1050491,"Videoclone: Videoconferencia apoyada por animación de rostros sintéticos tridimensionales  
+",01/06/2005,01/06/2005,P. Inostroza / J. Piquer,Departamento de Ciencias de la Computación,FONDECYT,Regular
+195,TE04I1002,Sistema de integración de objetos de aprendizaje como instrumento para dinamizar el desarrollo de aplicaciones de TIC en una estructura de educación continua,01/12/2004,01/12/2005,F. Santibáñez / P. Inostroza,Departamento de Ingeniería y Suelos,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+196,1030859,"Acceso a servicios distribuidos en redes ad-hoc 
+",01/03/2003,01/03/2003,P. Inostroza,Cs. de la Computación-Dominio CL,FONDECYT,Regular
+197,1940323,Generación y Modificación de mallas de tetraedros de objetos poliédricos,01/03/1994,01/03/1997,"M. Rivara / N. Hitschfeld, P. Inostroza",Departamento de Ciencias de la Computación,FONDECYT,Regular
+198,1950599,Lenguaje de extensión para servidores inteligentes,01/03/1995,01/03/1997,J. Piquer / L. Mateu,Departamento de Ciencias de la Computación,FONDECYT,Regular
+199,1230755,Compact Data Structures for Gaph Databases,01/03/2023,01/03/2026,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+200,1200038,Practical Indexes for Very Large Repetitive Text Collections,01/03/2020,01/03/2023,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+201,3201041,Measures of Compressibility of Repetitive Text Collections: Their Relations and Applications,01/03/2020,01/03/2022,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+202,3190550,Evaluating Database Queries Through Points and Boxes,01/03/2019,01/03/2021,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+203,1170048,Compressed data structures for highly repetitive data sets,01/04/2017,01/04/2020,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+204,3170534,Efficient Compressed Indexes Construction for Multicore Architectures,01/04/2017,01/04/2020,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+205,IM1705,Instituto Milenio de Investigación sobre los Fundamentos de los Datos,01/12/2017,01/12/2027,"B. Bustos, A. Hogan, G. Navarro, E. Tanter, B. Poblete",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Institutos Milenios
+206,690941,Bioinformatics and Information Retrieval Data Structures Analysis and Design (BIRDS),01/01/2016,01/12/2019,G. Navarro,Particular,Horizon 2020,MSCA-RISE - Marie Sklodowska-Curie Research and Innovation Staff Exchange (RISE)
+207,1140796,Fundamental Data Structures for Managing Large Datasets,01/03/2014,01/03/2017,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+208,645663,BIRDSCENE,01/01/2014,01/01/2014,G. Navarro,Departamento de Ciencias de la Computación,Unión Europea,FP7-SMSF Research Project
+209,FB0001,Centro de Biotecnología y Bioingeniería,01/09/2014,01/09/2023,"J. Asenjo de Leuze / B. Andrews, M. Lienqueo, Ã. Olivera, G. Navarro, C. Conca",Departamento de Ingeniería Química y Biotecnología,Programa Financiamiento Basal,Basal
+210,ANM-09,Núcleo milenio centro de Software sustentable,01/01/2013,01/01/2013,E. Tanter / G. Navarro,Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+211,10282,Desarrollando los Fundamentos Lógicos y Algorítmicos de la Web de Datos,01/10/2012,01/10/2015,"G. Navarro / C. Gutiérrez, B. Poblete, B. Bustos",Departamento de Ciencias de la Computación,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+212,1110066,Compact data Structures for information retrieval,01/03/2011,01/03/2014,G. Navarro / J. Barbay,Departamento de Ciencias de la Computación,FONDECYT,Regular
+213,NM-3,Núcleo Milenio Información y Coordinación en Redes,01/04/2011,01/04/2017,"J. Correa / M. Kiwi, D. Espinoza, G. Navarro, M. Matamala, F. Ordóñez",Departamento de Ingeniería Industrial,Iniciativa científica Milenio,Núcleos Milenio
+214,IM-3,"Instituto para Algoritmos, Combinatoria, Juegos y Optimización (ACJO)",01/12/2009,01/12/2009,"M. Kiwi, J. Correa, F. Ordóñez, D. Espinoza, M. Matamala, G. Navarro, J. Barbay",Departamento de Ingeniería Industrial,Iniciativa científica Milenio,Institutos Milenios
+215,1090037,"The monoaminergic receptophore. Similarities among the active sites of monoaminergic target proteins, based on their crystal structures: Implications for the development of selective and non-selective ligands.",01/03/2009,01/03/2013,G. Navarro,USACH. Escuela de Medicina,FONDECYT,Regular
+216,1080019,Memory-hierarchy-aware data structure,01/03/2008,01/03/2011,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+217,1050493,Bases de datos textuales comprimidas,01/03/2005,01/03/2008,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+218,10,Desarrollo TIC orientado a la Industria Textil,01/12/2004,01/12/2004,G. Navarro / C. Gutiérrez,Departamento de Ciencias de la Computación,Programa Bicentario de Ciencia y Tecnología,Consorcios Tecnológicos Empresariales
+219,1020831,"Búsqueda rápida, flexible y económica en texto",01/03/2002,01/03/2005,G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+220,P01-059F,Centro de Investigación de la web (CIW),01/01/2002,01/12/2007,"G. Navarro / J. Ruiz del Solar, C. Gutiérrez, R. Baeza, J. Piquer",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+221,1000929,Búsqueda de objetos similares,01/03/2000,01/03/2002,G. Navarro / R. Baeza,Centro de Computación (eliminado),FONDECYT,Regular
+222,1990627,Diseño y análisis de algoritmos secuenciales y paralelos y sus aplicaciones,01/03/1999,01/03/2002,R. Baeza / G. Navarro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+223,1960881,"Búsqueda exacta y de similaridad: algoritmos, métodos de análisis y visualización",01/03/1996,01/03/1998,"P. Poblete / R. Baeza, G. Navarro",Departamento de Ciencias de la Computación,FONDECYT,Regular
+224,1191516,A Comprehensive Framework for Designing Computer-Mediated Interaction Mechanisms to Support Informal Elderly Caregiving,01/04/2019,01/04/2022,S. Ochoa / F. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+225,1181339,A Comprehensive Framework for Designing Computer-Mediated Interaction Mechanisms to Support Informal Elderly Caregiving,01/07/2017,01/07/2017,S. Ochoa / F. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+226,BMBF180003,Monitoreo confiable de la salud y comunicación de riesgos - Servicios de diseño y recomendación para el modelado de incertidumbre; Evaluación de la calidad del resultado,01/10/2018,01/10/2018,"N. Baloian / J. Pino, S. Ochoa",Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/BMBF-Alemania
+227,ENL02/18,A comprehensive framework for designing computer-mediated interaction mechanisms to support informal elderly caregiving,01/07/2018,01/07/2019,S. Ochoa,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+228,ID16AM0033,4EverYoung: promoviendo el empoderamiento y la actividad social de los adultos mayores,01/07/2016,01/07/2016,S. Ochoa,Departamento de Ciencias de la Computación,FONDEF,Idea Bietapa temático
+229,1150252,Reducing Social Isolation of Elderly People Using Social Media and Ambient Intelligence,01/03/2015,01/03/2018,S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+230,316337,Exchange of Excellence in Ubiquitous Computing Technologies to Address Healthcare Challenges (UBIHEALTH),01/09/2012,01/08/2016,S. Ochoa,Particular,Unión Europea,FP7-PEOPLE-IRSES
+231,1120207,Understanding the impact of computing solutions on the mobile workers productivity,01/03/2012,01/03/2015,S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+232,1110241,Improving personal productivity through mobile computing and low cost supporting services,01/03/2011,01/03/2011,S. Ochoa / J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+233,1110238,Assessing awareness provided by collaborative systems,01/03/2011,01/03/2011,J. Pino / S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+234,294904,PER-HEALTH,01/01/2011,01/01/2011,S. Ochoa,Departamento de Ciencias de la Computación,Unión Europea,FP7-PEOPLE-IRSES
+235,1100193,Understanding the key issues behind the computer-supported mobile work,01/03/2010,01/03/2010,S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+236,D09I1171,ADAPTE: Adaptable Domain and Process Technology Engineering,01/12/2009,01/12/2012,"S. Ochoa, M. Bastarrica",UTFSM,FONDEF,Investigación y Desarrollo (I+D)
+237,11060467,Understanding the Design and Use of Ad-hoc collaborative mobile workspaces for the Chilean construction industry,01/03/2006,01/03/2009,S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+238,1061235,"Specification and Analysis of Service-Oriented Architectures
+",01/03/2006,01/03/2006,M. Bastarrica / S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+239,1060809,"Mobile Collaboration using Unstable Communication Services
+",01/03/2006,01/03/2006,S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+240,1050497,"Desarrollo de Courseware en base a componentes reutilizables 
+",01/06/2005,01/06/2005,S. Ochoa / J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+241,1030959,Tópicos especializados en Sistemas Colaborativos,01/03/2003,01/03/2006,S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+242,STIC2020002,Quantum aspects of programming languages,01/04/2021,01/04/2023,F. Olmedo,Departamento de Ciencias de la Computación,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+243,3200583,Gradual Reasoning About Differential Privacy,01/03/2020,01/03/2023,M. Toro / F. Olmedo,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+244,11181208,Probabilistic Programs: Methods and Tools for their Formal Analysis,01/11/2018,01/11/2021,F. Olmedo,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+245,1191047,Information Technology Enhanced Museums: studying their contribution to heritage appreciation,01/08/2018,01/08/2018,"N. Baloian / J. Pino, D. Opazo",Departamento de Ciencias de la Computación,FONDECYT,Regular
+246,BMBF180003,Monitoreo confiable de la salud y comunicación de riesgos - Servicios de diseño y recomendación para el modelado de incertidumbre; Evaluación de la calidad del resultado,01/10/2018,01/10/2018,"N. Baloian / J. Pino, S. Ochoa",Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/BMBF-Alemania
+247,1110241,Improving personal productivity through mobile computing and low cost supporting services,01/03/2011,01/03/2011,S. Ochoa / J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+248,1110238,Assessing awareness provided by collaborative systems,01/03/2011,01/03/2011,J. Pino / S. Ochoa,Departamento de Ciencias de la Computación,FONDECYT,Regular
+249,1090140,Towards an integrated approach to computer supported learning.,01/03/2009,01/03/2009,N. Baloian / J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+250,1080352,Evaluating mobile shared workspaces,01/03/2008,01/03/2011,J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+251,1050497,"Desarrollo de Courseware en base a componentes reutilizables 
+",01/06/2005,01/06/2005,S. Ochoa / J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+252,1040952,Apoyo computacional a reuniones de decisión,01/03/2004,01/03/2007,J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+253,1020830,Tópicos especializados de sistemas de apoyo al aprendizaje colaborativo,01/06/2002,01/06/2002,J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+254,1000870,Tópicos especializados de sistemas colaborativos,01/03/2000,01/03/2003,J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+255,I015-99/2,Mecanismos de percepción en sistemas colaborativos,01/03/2002,01/03/2004,J. Pino,Departamento de Ciencias de la Computación,Fondo Central de Investigación,INICIACION
+256,1970342,Herramientas computacionales para el trabajo colaborativo,01/03/1997,01/03/2000,J. Pino / R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Regular
+257,1940269,Sistemas colaborativos: interfaces humano-computador,01/03/1994,01/03/1997,J. Pino / R. Baeza,Departamento de Ciencias de la Computación,FONDECYT,Regular
+258,1911252,Análisis de algoritmos para estructuras de datos,01/03/1991,01/03/1993,P. Poblete / J. Pino,Departamento de Ciencias de la Computación,FONDECYT,Regular
+259,I2474-8612,,31/12/1986,31/12/1987,J. Álvarez,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+260,I1687-831,,31/12/1983,31/12/1986,J. Pino,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+261,FIC201922,"Técnicas estadísticas de medición de ancho de banda representativas y válidas, para atacar la brecha digital en la Región Metropolitana",01/07/2022,01/07/2022,J. Piquer,Departamento de Ciencias de la Computación,Fondos de Innovación para la Competitividad,GORE Metropolitano de Santiago
+262,15BPE-47225,Estudio y recomendaciones sobre la resiliencia de la infraestructura del Internet chileno,01/11/2015,01/11/2017,J. Piquer,Departamento de Ciencias de la Computación,INNOVA,Bienes públicos para la competitividad
+263,12IDL1-16017,Diseño e implementación de una plataforma de medición automática de la experiencia de usuario en el uso de Internet móvil,01/03/2012,01/03/2014,J. Piquer,Departamento de Ciencias de la Computación,INNOVA,Perfil de I+D Aplicada
+264,09STIC-07,SCAN - Self Conscious ambient networks,01/12/2008,01/12/2010,J. Piquer,Centre Nationale de la Recherche Scientific,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+265,34442,GRID Programming with Components: an advanced component plataform for an effective invisible grid (GRIDCOMP),01/06/2006,01/02/2009,J. Piquer,Particular,Unión Europea,FP6-Proyecto específico
+266,INRIA0503,"Oscar: Objetos Y Semántica , Concurrencia, Aspectos Y Reflexión",01/12/2005,01/12/2006,J. Piquer,Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/INRIA-Francia
+267,1050491,"Videoclone: Videoconferencia apoyada por animación de rostros sintéticos tridimensionales  
+",01/06/2005,01/06/2005,P. Inostroza / J. Piquer,Departamento de Ciencias de la Computación,FONDECYT,Regular
+268,UE_7080031,Development and application of scaling index methods for the automated quantification of colocalization in fluorescence microscopy,01/09/2004,01/10/2008,"J. Piquer, J. Bustos",Institute National de Recherche en Informatique et Automatique,Unión Europea,FP6-Red de Excelencia
+269,8-2004,"Difusión, desarrollo y masificación de soluciones basadas en Software libre Orientadas a la modernización del país basada en las TI en base a la neutralidad tecnológica y disminución de la brecha digital",01/12/2004,01/12/2004,R. Baeza / J. Piquer,Departamento de Ciencias de la Computación,Programa Bicentario de Ciencia y Tecnología,Consorcios Tecnológicos Empresariales
+270,4265,"European research network on foundations, software infrastructures and applications for large scale distributed, grid and peer-to-peer technologies (CoreGRID)",01/09/2004,01/08/2008,J. Piquer,"INRIA, France",Unión Europea,FP6-Red de Excelencia
+271,TE02I-,Educación contíinua a distancia para ingenieros,01/12/2002,01/12/2002,J. Piquer / N. Baloian,Departamento de Ciencias de la Computación,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+272,QLRI-CT-2001-01363,The core European bioinformatics Research infrastructure in the life sciences (EMBCORE),01/12/2001,01/12/2004,J. Piquer,Particular,International Cooperation with Developing Countries,INCO-DC
+273,P01-059F,Centro de Investigación de la web (CIW),01/01/2002,01/12/2007,"G. Navarro / J. Ruiz del Solar, C. Gutiérrez, R. Baeza, J. Piquer",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+274,D00I1048,Desarrollo de Comunicaciones Multimediales sobre redes inalambricas,01/12/2000,01/12/2003,"E. Vera / N. Baloian, N. Becerra, J. Piquer",Departamento de Ciencias de la Computación,FONDEF Investigación y Desarrollo,Fondef VIII-ID
+275,1990631,Homeostasis del sueño rem y desarrollos metodológicos para su análisis al interior del ciclo sueño-vigilia,01/03/1999,01/03/2001,"E. Vivaldi / P. Maldonado, J. Piquer",Programa de Fisiología y Biofísica,FONDECYT,Regular
+276,1961227,Homeostasis del sueno REM y su interacción con la organización circadiana del ciclo sueno vigilia,01/03/1996,01/03/1999,E. Vivaldi / J. Piquer,Programa de Fisiología y Biofísica,FONDECYT,Regular
+277,1950599,Lenguaje de extensión para servidores inteligentes,01/03/1995,01/03/1997,J. Piquer / L. Mateu,Departamento de Ciencias de la Computación,FONDECYT,Regular
+278,IM21_11483_en,Millennium Institute of Artificial Intelligence and Society,01/03/2023,01/03/2023,"B. Poblete / F. Tobar, J. Silva",Departamento de Ciencias de la Computación,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+279,AIIM19,Instituto Milenio de Inteligencia Artificial y Sociedad,01/12/2019,01/12/2019,"B. Poblete / P. Estévez, F. Tobar, J. Silva",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Institutos Milenios
+280,1191604,Mining real-world crisis events from social media data using domain-independent and multilingual approaches,01/04/2019,01/04/2022,B. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Regular
+281,1180353,Gaining actionable knowledge about real-world events from online social networks,01/07/2017,01/07/2017,B. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Regular
+282,1170208,Algorithms for Matching Objects in Large 3D Point Clouds,01/08/2016,01/08/2016,B. Bustos / B. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Regular
+283,1170136,Gaining knowledge of real-world events from on-line social networks,01/08/2016,01/08/2016,B. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Regular
+284,IM1705,Instituto Milenio de Investigación sobre los Fundamentos de los Datos,01/12/2017,01/12/2027,"B. Bustos, A. Hogan, G. Navarro, E. Tanter, B. Poblete",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Institutos Milenios
+285,ENL011/16,Gaining knowledge of real-world events from on-line social networks,01/08/2016,01/08/2017,B. Poblete,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+286,ID16I10222,"Observatorio digital de delincuencia en Chile: un sistema inteligente de apoyo a la industria automotriz chilena, en el robo de vehículos y accesorios",01/11/2016,01/11/2018,"R. Weber / B. Poblete, A. Jiménez",Departamento de Ingeniería Industrial,FONDEF,IDEA Bietapa
+287,1160903,Gaining knowledge of real-world events from on-line social networks,01/06/2015,01/06/2015,B. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Regular
+288,11121511,Automatic Knowledge Extraction from Social Media Data and User-Generated Contents for Improving the Web,01/10/2012,01/10/2015,B. Poblete,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+289,UINICIA-2012-80,Extracción automática de conocimientos a partir de datos de medios sociales y contenidos generados por usuarios para mejorar la Web,01/08/2012,01/08/2014,B. Poblete,Departamento de Ciencias de la Computación,Fondo Central de Investigación,U-INICIA
+290,10282,Desarrollando los Fundamentos Lógicos y Algorítmicos de la Web de Datos,01/10/2012,01/10/2015,"G. Navarro / C. Gutiérrez, B. Poblete, B. Bustos",Departamento de Ciencias de la Computación,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+291,1110129,Complexity analysis of longest edge based algorithms for triangulation refinement,01/03/2011,01/03/2011,M. Rivara / C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+292,1100177,Complexity analisis of longest edge based algorithms for triangular mesh refinement,01/03/2010,01/03/2010,M. Rivara / C. Gutiérrez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+293,1090175,Triangular terrain surface and tetrahedral mesh generation for environmental problems.,01/03/2009,01/03/2009,M. Rivara,Departamento de Ciencias de la Computación,FONDECYT,Regular
+294,FB0809,Centro de Tecnología para la minería (AMTC),01/12/2008,01/12/2021,"J. Ruiz del Solar / J. Rutllant, R. Charrier, Y. Niño, K. Deckart, M. Orchard, M. Farías, J. Silva, L. Pinto, R. Castro, J. Ortiz, J. Mc Phee, R. Garreaud, R. Boroschek, C. Pérez, P. Estévez, D. Comte, M. Pardo, B. Townley, M. Rivara",Departamento de Ingeniería Eléctrica,Programa Financiamiento Basal,Basal
+295,1080435,"Delaunay and non-Delaunay longest edge based algorithms for triangulations: Theoretical results, improved methods and multiresolution techniques.",01/03/2008,01/03/2008,M. Rivara,Departamento de Ciencias de la Computación,FONDECYT,Regular
+296,DO8I1135,Desarrollo de herramientas para la gestión del conocimiento y mejoramiento de procesos en la exploración minera a cielo abierto,01/12/2008,01/12/2008,M. Rivara,Departamento de Ingeniería de Minas,FONDEF,Investigación y Desarrollo (I+D)
+297,D04I1237,Neurocirugía asistida por computador: modelamiento biomecánico de tejidos blandos cerebrales y desarrollo de software pre-operativo de neuronavegación,01/12/2004,01/12/2007,R. Gouet / M. Rivara,Departamento de Ingeniería Matemática,FONDEF,Investigación y Desarrollo (I+D)
+298,1040713,Lepp algorithms for parallel mesh refinement,01/03/2004,01/03/2007,M. Rivara / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+299,AN-CS-04,"Modelamiento matemático en fluido-dinámica, su algorítmica computacional y aplicaciones industriales",01/12/2004,01/12/2004,"C. Conca / M. Rivara, R. Frederick, R. Gormaz, J. San Martín",Departamento de Ingeniería Matemática,Programa Bicentario de Ciencia y Tecnología,Anillos en Ciencias y Tecnologia
+300,1030672,Mesh generation Algorithms for complex applications,01/03/2003,01/03/2006,N. Hitschfeld / M. Rivara,Departamento de Ciencias de la Computación,FONDECYT,Regular
+301,1020618,A study on longest-edge algorithms for 3-dimensional mesh generation,01/06/2002,01/06/2002,M. Rivara / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+302,1981033,Longest-edge algorithms for the derefinement of unstructured triangulations.,01/03/1998,01/03/2001,M. Rivara / N. Hitschfeld,Departamento de Ciencias de la Computación,FONDECYT,Regular
+303,1960735,Mesh Generation For Complex Geometries Using A Set Of Well-Shaped,01/03/1996,01/03/1999,N. Hitschfeld / M. Rivara,Departamento de Ciencias de la Computación,FONDECYT,Regular
+304,FONDAP-97/1,FONDAP en Matemáticas Aplicadas (FMA),01/12/1997,01/12/2002,"R. Manasevich, M. Rivara, S. Martínez, C. Conca, R. Gouet, R. Gormaz, R. Jofré, P. Felmer, P. Dartnell, Ã. Valencia, M. Kiwi, Y. Niño, A. Maass",Departamento de Ingeniería Matemática,FONDAP,Programa FONDAP
+305,1940323,Generación y Modificación de mallas de tetraedros de objetos poliédricos,01/03/1994,01/03/1997,"M. Rivara / N. Hitschfeld, P. Inostroza",Departamento de Ciencias de la Computación,FONDECYT,Regular
+306,MI-010,Centro de Investigación en Tecnología de Software,01/12/1991,01/12/1995,R. Baeza / M. Rivara,Departamento de Ciencias de la Computación,FONDEF Investigación y Desarrollo,Fondef I-ID
+307,MI-02,Programa de tecnologías avanzadas de manufactura,01/12/1991,01/12/1991,"H. Thiemer, M. Rivara, M. Bosch",Departamento de Ingeniería Industrial,FONDEF Investigación y Desarrollo,Fondef I-ID
+308,1911220,Sistema gráfico de elementos finitos basado en la generación interactiva/adaptativa de la dicretización,01/03/1991,01/03/1994,M. Rivara,Departamento de Ciencias de la Computación,FONDECYT,Regular
+309,2266-8513,Desarrollo de software gráfico para el uso interactivo y/o adaptable del método de elementos finitos,01/12/1985,01/12/1988,M. Rivara,Departamento de Ciencias de la Computación,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+310,ID23I10186,Estrategias Pedagógicas para el Desarrollo de Habilidades Computacionales y Digitales en el Aula Escolar,01/12/2022,01/12/2022,P. Felmer / J. Simmonds,Departamento de Ingeniería Matemática,FONDEF,IDEA
+311,ID23I10335,Modelo de Integración del Pensamiento Computacional y la Programación en la Formación Inicial Docente,01/05/2023,01/05/2025,J. Simmonds,Departamento de Ciencias de la Computación,FONDEF,IDEA
+312,1220774,A Megamodel for Model-driven Engineering-based Software Product Line Evolution,01/08/2021,01/08/2021,J. Simmonds,Departamento de Ciencias de la Computación,FONDECYT,Regular
+313,ID22I10257,Modelo de Integracion del Pensamiento Computacional y la Programacion en la Formacion Inicial Docente,01/04/2022,01/04/2022,J. Simmonds,Departamento de Ciencias de la Computación,FONDEF,IDEA
+314,11190790,A Megamodel for Software Product Line Evolution,01/04/2019,01/04/2019,J. Simmonds,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+315,3180290,Conceptual framework for bridging the gap between Software engineering theory and practice,01/08/2017,01/08/2017,J. Simmonds,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+316,IT18I0094,Evaluación de la Implementación y Seguimiento del Plan Nacional de Lenguajes Digitales,01/10/2018,01/10/2018,J. Simmonds,Departamento de Ciencias de la Computación,FONDEF,IDEA
+317,3170891,Conceptual Framework for Curriculum Evaluation in Computer Science,01/08/2016,01/08/2016,J. Simmonds,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+318,16PAEI57711,Generación de un ecosistema de innovación sustentable en Colegios y Liceos y la Universidad a través de aprendizaje y servicio,01/05/2016,01/05/2017,J. Simmonds,Departamento de Ciencias de la Computación,INNOVA,Innova
+319,11160552,A megamodel for model-driven engineering-based software product line evolution,01/06/2016,01/06/2016,J. Simmonds,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+320,11150240,Mobile Application Analysis,01/06/2015,01/06/2015,J. Simmonds,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+321,1230448,Algorithms for Multi-labelling and Retrieval of Cultural Heritage 3D Models,01/03/2023,01/03/2026,B. Bustos / I. Sipirán,Departamento de Ciencias de la Computación,FONDECYT,Regular
+322,11220211,Symmetry-aware learning for completion of 3D shapes,01/03/2022,01/03/2025,I. Sipirán,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+323,1221601,Learning Methods for Detection and Classification using Event-based Cameras,01/10/2021,01/10/2021,"I. Sipirán, J. Ruiz del Solar",Otras Instituciones,FONDECYT,Regular
+324,1180671,Trayectorias identitarias de aprendizaje para la construcción de nuevos escenarios educativos en la formación inicial docente,01/08/2017,01/08/2017,J. Sánchez,Universidad Nacional Andrés Bello,FONDECYT,Regular
+325,1150898,"Conocer con Interfaces Multimodales en Aprendices Ciegos, CIMAC",01/03/2015,01/03/2018,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+326,3140508,"Análisis, diseño y desarrollo de dispositivos de conciencia de grupo para entornos colaborativos de aprendizaje en contextos universitarios",01/11/2013,01/11/2013,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+327,FB0003,Centro de Investigación Avanzada en Educación,01/04/2014,01/04/2024,"J. Valenzuela / M. Pardo, J. Sánchez, A. Mizala, C. Bellei, P. Felmer, R. Araya, C. Sotomayor, B. Ávalos, J. Soto, R. Correa, C. Coloma, A. Slachevsky, P. Dartnell, S. Martínez",Programa de Investigación en Educación,Programa Financiamiento Basal,Basal
+328,KIGB2013,Knowing and Interacting while Gaming for the Blind,01/12/2013,01/12/2014,J. Sánchez,Departamento de Ciencias de la Computación,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+329,CA12I10025,Videojuegos para la Rehabilitación de Personas con Discapacidad Motora,01/06/2012,01/06/2012,J. Sánchez,Programa de Investigación en Educación,FONDEF,IDEA
+330,1120330,Mapas mentales para la navegación a través de videojuegos,01/03/2012,01/03/2015,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+331,TE12I1002,Videojuegos diseñados con mapas conceptuales para aprender a pensar,01/10/2012,01/10/2014,J. Sánchez,Departamento de Ciencias de la Computación,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+332,1100191,Multi-player games for supporting learning environments,01/03/2010,01/03/2010,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+333,SOC 10/10-2,Análisis comparativo de la integración de TICs en Educación en Chile y los paises de la OECD,01/03/2010,01/03/2010,J. Sánchez,Departamento de Ciencias de la Computación,Fondo Central de Investigación,"CS. SOCIALES, HUMANIDADES Y EDUCACION"
+334,11STIC-05,LWM: Learning while moving,01/01/2011,01/12/2012,J. Sánchez,Centre Nationale de la Recherche Scientific,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+335,1090247,Multi-player games for supporting collaborative learning environments.,01/03/2009,01/03/2009,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+336,1090352,"Juegos basados en audio y háptica para la movilidad y orientación, JAHMO.",01/03/2009,01/03/2012,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+337,F310837,Factores que inciden en el desarrollo y sustentabilidad de prácticas innovadoras de integración curricular de tecnologías de la información (TICs) en la sala de clases en profesores de Enseñanza Media,01/02/2009,01/12/2009,J. Sánchez,Departamento de Ciencias de la Computación,FONIDE,FONIDE
+338,TE08I1004,"Videojuegos para el desarrollo de habilidades en ciencia a través de celulares, vidhac2",01/12/2008,01/12/2010,J. Sánchez,Departamento de Ciencias de la Computación,FONDEF,"Tecnología de Información y Comunicación para la educación, TIC-EDU"
+339,ED12/001,"Comunidad Virtual de Aprendizaje de proyectos de Ciencias, COVAC",01/12/2007,01/12/2007,J. Sánchez,Departamento de Ciencias de la Computación,Explora,Divulgación y Valoración de CTI
+340,CED-1,Centro de estudios avanzados en Educación (CIAE),01/12/2007,01/12/2014,"R. Correa / A. Mizala, J. Soto, J. Sánchez",Programa de Investigación en Educación,Programa Bicentario de Ciencia y Tecnología,Centros de Investigación en Educación
+341,SOC06/05,"Integración curricular de dispositivos móviles: Formulación de un modelo para el Sistema Educativo Chileno
+",01/07/2006,01/07/2008,J. Sánchez,Departamento de Educación,Fondo Central de Investigación,"CS. SOCIALES, HUMANIDADES Y EDUCACION"
+342,1060797,"Mundos virtuales para la inclusión social, MUVIS",01/03/2006,01/03/2009,J. Sánchez / N. Baloian,Departamento de Ciencias de la Computación,FONDECYT,Regular
+343,SOC-22/04,"Modelos de integración curricular de TICs, mICT",01/03/2004,01/03/2004,J. Sánchez / N. Baloian,Departamento de Ciencias de la Computación,Fondo Central de Investigación,"CS. SOCIALES, HUMANIDADES Y EDUCACION"
+344,1030158,"Entornos Interactivos basados en Sonido para Aprender, TISA",01/03/2003,01/03/2006,J. Sánchez / N. Baloian,Departamento de Ciencias de la Computación,FONDECYT,Regular
+345,1020820,"Entornos interactivos basados en sonido para aprender, TISA",01/06/2002,01/06/2002,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+346,1000945,"Ambientes virtuales interactivos a través de sonido 3D para niños no videntes
+",01/03/2000,01/03/2000,J. Sánchez,Centro de Computación (eliminado),FONDECYT,Regular
+347,1950584,Construcción de un modelo de historias hipermediales para aprender y pensar,01/03/1995,01/03/1998,J. Sánchez,Departamento de Ciencias de la Computación,FONDECYT,Regular
+348,1230398,Gradual Type Theories for Certified Programming,01/07/2022,01/07/2022,E. Tanter / M. Toro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+349,1190058,"Gradual Reasoning About Programs: Typing, Analysis, and Verification",01/04/2019,01/04/2023,E. Tanter / M. Toro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+350,IM1705,Instituto Milenio de Investigación sobre los Fundamentos de los Datos,01/12/2017,01/12/2027,"B. Bustos, A. Hogan, G. Navarro, E. Tanter, B. Poblete",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Institutos Milenios
+351,3170982,Large-scale certified gradual verification,01/08/2016,01/08/2016,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+352,1150017,Gradual Software Verification: Foundations and Applications,01/03/2015,01/03/2019,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Regular
+353,601151,Robusto,01/01/2012,01/01/2012,E. Tanter,Departamento de Ciencias de la Computación,Unión Europea,FP7-SICA Collaborative
+354,ANM-09,Núcleo milenio centro de Software sustentable,01/01/2013,01/01/2013,E. Tanter / G. Navarro,Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+355,1110051,Modular and Adaptable Software without Losing Control,01/03/2011,01/03/2015,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Regular
+356,3110090,"Gradual Typing in Practice: Implementation, Tool Supports and Evaluation.",01/03/2011,01/03/2011,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+357,3100027,Reflection on Context.,01/03/2010,01/03/2010,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+358,ANR1,De la neurophysiologie de la vision naturelle a la robotique incarnée en action,01/12/2009,01/12/2009,"E. Tanter, J. Ruiz del Solar",UVAL. Depto. de Fisiología,ANR,ANR-Francia
+359,1090083,Engineering and composition of domain-specific aspect languages,01/03/2009,01/03/2013,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Regular
+360,3080020,Biological models for ubiquitous computing,01/10/2008,01/10/2008,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+361,1080423,Engineering and Composition of doamin-Specific Aspect languages,01/03/2008,01/03/2008,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Regular
+362,057-2008,"Cordial: Concurrency, Distribution And Interactions In Aspect Languages",01/12/2008,01/12/2009,E. Tanter,Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/INRIA-Francia
+363,INRIA0702,"Cordial: Concurrency, Distribution And Interactions In Aspect Languages",01/12/2007,01/12/2008,E. Tanter,Departamento de Ciencias de la Computación,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/INRIA-Francia
+364,7070296,Modularization and Adaptation of complex and dynamic software systems,01/03/2007,01/03/2008,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Cooperación Internacional
+365,11060493,Modularization and adaptation of complex and dynamic Software Systems,01/03/2006,01/03/2009,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+366,1060793,"Modularization and Adaptation of Complex and Dynamic Software System
+",01/03/2006,01/03/2006,E. Tanter,Departamento de Ciencias de la Computación,FONDECYT,Regular
+367,11240449,Gradual Differential Privacy: Theory and Applications,01/05/2023,01/05/2023,M. Toro,Departamento de Ciencias de la Computación,FONDECYT,Iniciación en Investigación
+368,1230398,Gradual Type Theories for Certified Programming,01/07/2022,01/07/2022,E. Tanter / M. Toro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+369,85220061,Adopción gradual de privacidad en el software y los datos,01/11/2022,01/11/2022,M. Toro / A. Hevia,Departamento de Ciencias de la Computación,Programa de Capital Humano Avanzado,Subvención a la Instalación en la Academia
+370,3200583,Gradual Reasoning About Differential Privacy,01/03/2020,01/03/2023,M. Toro / F. Olmedo,Departamento de Ciencias de la Computación,FONDECYT,Postdoctorado
+371,1190058,"Gradual Reasoning About Programs: Typing, Analysis, and Verification",01/04/2019,01/04/2023,E. Tanter / M. Toro,Departamento de Ciencias de la Computación,FONDECYT,Regular
+372,16CTTS-66390,Centro Nacional en sistemas de información en Salud Nacional (CENS),01/10/2016,01/10/2021,"S. Hartel / S. de la Fuente, H. Pino, M. Cerda, P. Ruiz, R. Assar, H. Martínez",Instituto de Ciencias Biomédicas,INNOVA,Fondo de Desarrollo e Innovación FDI
+373,I2474-8612,,31/12/1986,31/12/1987,J. Álvarez,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI

@@ -1,0 +1,58 @@
+,codigo,titulo,fecha_inicio,fecha_fin,investigadores,institucion,programa,fuente
+0,ID23I10200,Disminución de Riesgo a las Personas mediante la Automatización de la Maquinaria utilizada en la Construcción de Muros de Tranques de Relaves,01/12/2022,01/12/2022,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+1,1221601,Learning Methods for Detection and Classification using Event-based Cameras,01/10/2021,01/10/2021,"I. Sipirán, J. Ruiz del Solar",Otras Instituciones,FONDECYT,Regular
+2,AFB220002,Centro Avanzado de Tecnología para la Minería (AMTC),01/10/2022,01/10/2023,"J. Ruiz del Solar / Y. Niño, D. Comte, M. Adams, R. Castro, C. Ihle, X. Emery, J. Vallejos, C. Pérez",Departamento de Ingeniería Eléctrica,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+3,1201913,Combined Event-based and Frame-based Data for Object Detection and Action Recognition in Robot Vision,01/08/2019,01/08/2019,J. Ruiz del Solar,Otras Instituciones,FONDECYT,Regular
+4,1201170,Deep Learning of Complex Behaviors in Robotics,01/03/2020,01/03/2024,J. Ruiz del Solar,Centro Avanzado de Tecnología para la Minería,FONDECYT,Regular
+5,ID19I10142,Operación Autónoma de Martillos Pica-Roca basada en Técnicas de Aprendizaje Reforzado,01/08/2019,01/08/2021,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+6,1191442,"Event-based object detection, pose estimation and action recognition using event-based cameras",01/08/2018,01/08/2018,J. Ruiz del Solar,Otras Instituciones,FONDECYT,Regular
+7,AFB180004,"Advanced Mining Technology Center (Centro Avanzado de Tecnología para la Minería), AMTC",01/01/2019,01/01/2022,"J. Ruiz del Solar / J. Vallejos, C. Pérez, D. Comte, Y. Niño, R. Castro, W. Kracht, X. Emery, M. Adams, C. Ihle",Centro Avanzado de Tecnología para la Minería,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+8,1180488,"Detection, recognition and motion analysis in dynamic outdoor environments using event-based cameras",01/07/2017,01/07/2017,J. Ruiz del Solar,Otras Instituciones,FONDECYT,Regular
+9,EQM170041,Sistema de Cómputo para Deep Learning basado en Cluster NVIDIA DGX-1,01/09/2017,01/03/2019,"J. Ruiz del Solar / P. Mendoza, J. Mc Phee, M. Adams",*Centro Avanzado de Tecnología para la Minería,FONDEQUIP,Concurso de Equipamiento Científico
+10,1161500,Fast object recognition for challenging robotics applications,01/04/2016,01/04/2020,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+11,IT16M100017,Automatización del proceso de carguío de LHDs,01/11/2016,01/05/2018,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDEF,IT-Minería
+12,3160019,"Efectos de la morfología y del mecanismo de cabeceo sobre la locomoción bípeda terópoda: Análisis mediante anatomía comparada, registros cinemáticos, simulación computacional y modelos robóticos bio-inspirados
+",01/11/2015,01/11/2018,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Postdoctorado
+13,IT16I10026,Sistema de carguío autónomo para cargadores frontales de bajo perfil,01/03/2017,01/09/2018,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+14,ED1900X6,Minería 3D: Vive la Minería,01/03/2015,01/03/2015,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Explora,Divulgación y Valoración de CTI
+15,REDES140071,Robot Vision for Service Robotics,01/12/2014,01/06/2016,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Cooperación Internacional: Multilateral y vinculación,Apoyo a la Formación de Redes Internacionales_Centros
+16,CA13I10264,Sistema de Carguio autónomo para cargadores frontales de bajo perfil,01/06/2013,01/06/2013,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+17,1130153,Semantic Perception and Mapping for Mobile Robots in Unconstrained Environments,01/03/2013,01/03/2016,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+18,3130338,Sistema de seguridad activa para la detección de peatones en ambientes urbanos diurnos mediante visión estéreo e inteligencia computacional,01/10/2012,01/10/2012,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Postdoctorado
+19,EQM-13004,Scanner Laser terrestre para mediciones glaciológicas y geomorfológicas,01/03/2014,01/03/2014,"J. Mc Phee / Y. Niño, J. Ruiz del Solar",Departamento de Ingeniería Civil,FONDEQUIP,Concurso de Equipamiento Científico
+20,3130708,Haptic interface for the tele-operation of equipments in mining environments,01/10/2012,01/10/2012,J. Ruiz del Solar,Dirección de Investigación,FONDECYT,Postdoctorado
+21,RIE_2012,Advanced Mining Technology Center: Energy and Management Course,01/10/2012,01/02/2014,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Cooperación Internacional: Proyectos bilaterales,Redes de Investigación en Energía
+22,321489,"RESPONSIBILITY Global Model and Observatory for International Responsible Research and Innovation Coordination
+",01/02/2013,01/01/2016,J. Ruiz del Solar,Fraunhofer Institut IPK Berlin,Unión Europea,FP7-Coordination Actions
+23,600893,ROBOMINE,01/01/2012,01/01/2012,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Unión Europea,FP7-SICA Collaborative
+24,3120218,Boosting learning algorithms for multiclass classification and multidimensional regression: Applications to object detection and classification.,01/10/2011,01/09/2013,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Postdoctorado
+25,3120132,Assistive-navigation using semantic-spatial representations of the environment and speech-based human-machine interfaces.,01/03/2012,01/03/2012,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Postdoctorado
+26,UR-11-XIII,Red Interdisciplinaria de I+D en Cine e imagen 3D,01/11/2011,01/11/2012,"V. Fajnzylber / F. del Villar, J. Ruiz del Solar, W. Astudillo, C. Basáez",Carrera de Cine y Televisión,Fondo Central de Investigación,Programa U-Redes: Línea 2 incentivo a la Consolidación de Red; Domeyko II
+27,1100909,Self-reflection in Robotics,01/03/2010,01/03/2010,J. Zagal / J. Ruiz del Solar,Centro de Neurociencias de Valparaiso CNV,FONDECYT,Regular
+28,CA 10/10,"Investigación, escritura de guión y filmación de largometraje Deseos",01/10/2010,01/10/2011,V. Fajnzylber / J. Ruiz del Solar,Carrera de Cine y Televisión,Fondo Central de Investigación,CREACION ARTISTICA DID
+29,230550,"ETHICAL
+ Promoting international debate on ethical implications of data collection, use and retention for biometric and medical apllications",01/01/2009,01/12/2010,J. Ruiz del Solar,Fraunhofer Institut IPK Berlin,Unión Europea,FP7-Coordination Actions
+30,1090250,Robust and fast vision systems for humanoid robots.,01/03/2009,01/03/2013,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+31,ANR1,De la neurophysiologie de la vision naturelle a la robotique incarnée en action,01/12/2009,01/12/2009,"E. Tanter, J. Ruiz del Solar",UVAL. Depto. de Fisiología,ANR,ANR-Francia
+32,1,Automatización y Robotización de vehículos con aplicaciones en minería,01/12/2009,01/12/2009,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Programa de Capital Humano Avanzado,Inserción Postdoctoral en la Academia
+33,10STIC-04,Arvs - Hybrid Model Based Markerless 3D Tracking For Augmented Reality And Visual Servoing,01/04/2010,01/04/2012,J. Ruiz del Solar,Universidade Federal de Pernambuco,Cooperación Internacional: Multilateral y vinculación,Programa Regional TIC-AMSUD
+34,FB0809,Centro de Tecnología para la minería (AMTC),01/12/2008,01/12/2021,"J. Ruiz del Solar / J. Rutllant, R. Charrier, Y. Niño, K. Deckart, M. Orchard, M. Farías, J. Silva, L. Pinto, R. Castro, J. Ortiz, J. Mc Phee, R. Garreaud, R. Boroschek, C. Pérez, P. Estévez, D. Comte, M. Pardo, B. Townley, M. Rivara",Departamento de Ingeniería Eléctrica,Programa Financiamiento Basal,Basal
+35,08PDTE-7085,"Difusión de tecnología RFID en sectores claves de la economía chilena
+
+",01/12/2008,01/12/2011,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,INNOVA,Difusión Tecnológica
+36,DO8I1152,Robot autónomo ligero de inspección,01/12/2008,01/12/2008,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDEF,Investigación y Desarrollo (I+D)
+37,31060011,Fortalecimiento del área de instrumentación astronómica en el Doctorado en Ingeniería Eléctrica de la Universidad de Chile,01/12/2006,01/12/2009,J. Ruiz del Solar / C. Pérez,Departamento de Ingeniería Eléctrica,Astronomía,Fondo ALMA
+38,3060056,Quantitative provenance analysis based on pattern recognition techniques,01/12/2005,01/12/2007,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Postdoctorado
+39,FSM0601,Red Nacional de Doctorado en Ingeniería Eléctrica y Electrónica,01/08/2007,01/08/2011,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,MECESUP,MECESUP
+40,1061158,Autonomía y Colaboración en Robótica Móvil: Sistema de Visión de Propósito General para Robots Móviles basado en Descriptores Locales de Imágenes,01/03/2006,01/03/2009,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+41,1050333,"Autonomía, aprendizaje y colaboración en robots móviles",01/06/2005,01/06/2005,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+42,ENL05/03,"Autonomía, aprendizaje y colaboración con robots móviles",01/04/2005,01/04/2006,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Fondo Central de Investigación,Enlace con FONDECYT
+43,D04I1256,"Biometría para vigilancia inteligente por video: detección, seguimiento, identificación y determinaciónde comportamiento",01/12/2004,01/12/2006,"C. Pérez / C. Held, P. Estévez, J. Ruiz del Solar",Departamento de Ingeniería Eléctrica,FONDEF Investigación y Desarrollo,FONDEF XII-ID
+44,2003146,Interacción afectiva y colaborativa Hombre-Máquina mediante interfaces multimodales,01/01/2004,01/01/2006,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/BMBF-Alemania
+45,1030500,Reconocimiento de caras en ambientes no controlados,01/03/2003,01/03/2005,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+46,1020814,Diseño y construcción de un sistema robótico capaz de detectar y reconocer rostros humanos,01/06/2002,01/06/2002,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+47,D02I1081,Nuevas Tecnologías para sensores y actuadores piezoeléctricos inteligentes orientadas al mercado de process and control instrument (PCI),01/12/2002,01/12/2002,J. Ruiz del Solar,"Centro de Investigación, Desarrollo e Innovación de Estructuras y Materiales (IDIEM)",FONDEF,Investigación y Desarrollo (I+D)
+48,P01-059F,Centro de Investigación de la web (CIW),01/01/2002,01/12/2007,"G. Navarro / J. Ruiz del Solar, C. Gutiérrez, R. Baeza, J. Piquer",Departamento de Ciencias de la Computación,Iniciativa científica Milenio,Núcleos Milenio
+49,AULA21-3,Procesamiento avanzado de imágenes a través de Internet,01/12/1999,01/12/2000,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,Aula 21,Aula 21
+50,1990595,"Bases de datos de texturas: análisis, búsqueda y síntesis de texturas utilizando redes neuronales y lógica difusa",01/03/1999,01/03/2001,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+51,1990597,Algorithms for equalization of non linear telecomunications channels: development for the implementation in specialized integrated circuits,01/03/1999,01/03/2000,J. Ruiz del Solar,Departamento de Ingeniería Eléctrica,FONDECYT,Regular

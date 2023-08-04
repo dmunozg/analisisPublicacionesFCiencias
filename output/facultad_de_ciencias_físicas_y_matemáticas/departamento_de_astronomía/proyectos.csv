@@ -1,0 +1,457 @@
+,codigo,titulo,fecha_inicio,fecha_fin,investigadores,institucion,programa,fuente
+0,3240201,Solving the Abundance Discrepancy Problem using IFU Observations of Local Volume HII Regions,01/06/2023,01/06/2023,G. Blanc,Departamento de Astronomía,FONDECYT,Postdoctorado
+1,3220598,Assembling and Exploiting the Largest Catalog of Ionized Nebulae in Nearby Galaxies to Study the Small-scale Physics of the Interstellar Medium,01/04/2022,01/04/2025,G. Blanc,Departamento de Astronomía,FONDECYT,Postdoctorado
+2,3210585,Assembling and Exploiting the Largest Database of Ionized Nebulae in Nearby Galaxies using Bayesian and Machine Learning Methods,01/08/2020,01/08/2020,G. Blanc,Departamento de Astronomía,FONDECYT,Postdoctorado
+3,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+4,3200723,H II Regions as Drivers of Galaxy Evolution,01/01/2020,01/01/2020,G. Blanc,Departamento de Astronomía,FONDECYT,Postdoctorado
+5,31190024,Testing Feedback and Star Formation Models with PHANGS-ALMA and PHANGS-MUSE,01/06/2019,01/06/2019,G. Blanc,Departamento de Astronomía,Astronomía,Fondo ALMA
+6,3190912,Quantifying star formation timescales for galaxies in the PHANGS ALMA and MUSE Large Programs,01/10/2018,01/10/2018,G. Blanc,Departamento de Astronomía,FONDECYT,Postdoctorado
+7,3170302,Understanding the effects of gas dynamics on the star formation efficiency: Connecting cloud scale physics with galaxy scale processes,01/08/2016,01/08/2016,G. Blanc,Departamento de Astronomía,FONDECYT,Postdoctorado
+8,3160049,The evolution of the star formation rate - metallicity - stellar mass relation of galaxies,01/11/2015,01/11/2018,G. Blanc,Departamento de Astronomía,FONDECYT,Postdoctorado
+9,11150220,Star formation and ISM physics across different envrionments: Dissecting nearby galaxies with 3D Multi-wavelength spectroscopy,01/11/2015,01/11/2018,G. Blanc,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+10,1150185,A 3D multi-wavelenght study of star formation and the multiphase interstellar medium in nearby galaxies,01/03/2015,01/03/2015,G. Blanc,Departamento de Astronomía,FONDECYT,Regular
+11,EQM220009,"Mejorando la instrumentación astronómica y desarrollo aeroespacial nacional: un analizador vectorial de redes con capacidad de medir en la banda W extendida (67 a 116 GHz), y posibilidad de extensión hasta 1.1 THz",01/06/2022,01/06/2022,L. Bronfman,Departamento de Astronomía,FONDEQUIP,Concurso de Equipamiento Científico
+12,3220162,Investigating the complexity of Massive star formation in the Milky Way,01/04/2022,01/04/2025,L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+13,1221662,Instrumentation for the Astronomical Radio Transients Experiment (ARTE),01/04/2022,01/04/2025,"R. Finger / W. Max-Moerbeck, L. Bronfman",Departamento de Astronomía,FONDECYT,Regular
+14,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+15,ID21I10359,An ultra-wideband radio astronomy ALMA-compatible receiver for single dish and VLBI observations,01/01/2022,01/01/2024,R. Finger / L. Bronfman,Departamento de Astronomía,FONDEF,IDEA
+16,3200394,Exploring the Galactic Center Ecosystem,01/01/2020,01/01/2020,L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+17,3190119,Probing the early phases of massive star formation,01/10/2018,01/10/2018,L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+18,1191693,New developments on Real-Time Digital Signal Processing: Digital Orthomode Transducers and Smart Antennas,01/08/2018,01/08/2018,R. Finger / L. Bronfman,Departamento de Astronomía,FONDECYT,Regular
+19,EQM180070,"Analizador vectorial de redes, habilitando investigación y desarrollo en el espectro milimétrico",01/07/2018,01/07/2018,"N. Reyes / C. Estévez, C. Azurdia, S. Cespedes, R. Finger, L. Bronfman, M. Díaz, R. Rondanelli, F. Mena",Departamento de Ingeniería Eléctrica,FONDEQUIP,Concurso de Equipamiento Científico
+20,1181640,Ultra-pure digital detection of polarization for radio astronomy applications: Implementation at sub-millimeter wavelengths,01/08/2017,01/08/2017,R. Finger / L. Bronfman,Departamento de Astronomía,FONDECYT,Regular
+21,AFB170002,Center for Astrophysics and Associated Technologies,01/11/2017,01/11/2017,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+22,AFB170002,Centro de Astrofísica y Tecnologías Afines,01/01/2018,01/01/2021,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+23,31170017,Comparative study of high-mass star formation processes in the southern inner and outer Galaxy,01/06/2017,01/06/2017,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+24,1170358,Developing technology for efficient mapping of molecular lines in the southern sky,01/09/2016,01/09/2016,"F. Mena / N. Reyes, L. Bronfman",Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+25,31170016,Digital Signal Processing For Radio Astronomy: New developments and implementation of demonstrated technology,01/07/2017,01/07/2017,R. Finger / L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+26,3170326,Investigation of IR bubbles with SEDIGISM/APEX survey,01/08/2016,01/08/2016,L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+27,31170013,Receiver upgrade of the U. Chile 1.2m Radio Telescope for astronomical surveys,01/07/2017,01/07/2017,N. Reyes / L. Bronfman,Departamento de Ingeniería Eléctrica,Astronomía,Fondo ALMA
+28,PAI79160080,Astrofísica e Instrumentación Astronómica,01/10/2016,01/10/2019,L. Bronfman,Departamento de Astronomía,Programa de Capital Humano Avanzado,Inserción de Capital Humano en la Academia
+29,1150851,New technology for molecular line mapping of the southern sky in the W band,01/03/2015,01/03/2015,F. Mena / L. Bronfman,Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+30,3150570,The accretion shaped hyper-compact HII regions,01/11/2014,01/11/2017,L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+31,EQM140023,Prototipadora láser,01/11/2014,01/11/2015,"F. Mena / R. Finger, C. Estévez, L. Bronfman, C. Azurdia, M. Díaz, N. Reyes",Departamento de Ingeniería Eléctrica,FONDEQUIP,Concurso de Equipamiento Científico
+32,314-017,Preparing for ALMA Band 1 complex organic molecules science,01/10/2013,01/10/2013,L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+33,ESO_14_01,Construction of an optical system and integration of a HEMT-based prototype receiver for Band 2+3 of ALMA,01/09/2014,01/09/2017,L. Bronfman,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+34,3130540,"The role of stellar feedback in interstellar turbulence, molecular cloud structures and stellar initial mass function",01/10/2012,01/10/2015,L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+35,32120004,Engineering optimization of the 1.2 m mm-wave Telescope,01/12/2012,01/12/2014,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo GEMINI
+36,ANM-32,Núcleo milenio en instrumentación radioastronómica,01/01/2013,01/01/2013,"F. Mena / L. Bronfman, M. Díaz",Departamento de Ingeniería Eléctrica,Iniciativa científica Milenio,Núcleos Milenio
+37,1120195,Unveiling the physical properties of the interstellar medium in low surface brightness galaxies,01/03/2012,01/03/2016,L. Bronfman,PUC. Depto. de Astronomía y Astrofísica,FONDECYT,Regular
+38,31120005,Extending the Frequency Coverage of ALMA Band 1: Development of Key Components,01/12/2012,01/12/2014,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+39,12IDL1-13168,Desarrollo de amplificadores de bajo ruido para uso de astronomía y comunicaciones,01/12/2012,01/06/2013,L. Bronfman,Departamento de Astronomía,INNOVA,Innova
+40,AIC-27,"Instrumentación astronómica de frontera: nuevas capacidades para la innovación tecnológica
+",01/12/2011,01/12/2012,L. Bronfman,Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo Infraestructura Cientifica de Centros
+41,32100003,Upgrading a 1.2 m mm-wave Telescope: training and research in astronomy and engineering,01/12/2010,01/12/2012,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo GEMINI
+42,IM-1o,Instituto Milenio de Instrumentación Astronómica,01/12/2009,01/12/2009,"J. Maza, L. Bronfman, S. López, M. Díaz, F. Mena",PUC. Depto. de Astronomía y Astrofísica,Iniciativa científica Milenio,Institutos Milenios
+43,32090003,A 1.2-m mm-wave Telescope for Scientific Training at Cerro Calan,01/12/2009,01/12/2010,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo GEMINI
+44,31080003,Construction of an anechoic chamber for beam pattern measurements at - 40 Ghz,01/12/2008,01/12/2009,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+45,31080004,Hiring an internationally qualified engineer for development of astronomical instrumentation,01/12/2008,01/12/2010,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+46,1085267,The impact of environment on stellar formation in low surface brightness galaxies,01/03/2008,01/03/2012,L. Bronfman,PUC. Depto. de Astronomía y Astrofísica,FONDECYT,Regular
+47,PFB06,Centro de Excelencia en Astrofísica y Tecnologías Afines,01/12/2007,01/12/2020,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+48,31060002,Laboratorio de instrumentación radioastronómica en Cerro Calán: hacia el desarrollo de alta tecnología en Chile,01/12/2006,01/12/2007,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+49,31060003,Becas de postgrado en el Departamento de Astronomía de la Universidad de Chile,01/12/2006,01/12/2008,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+50,515906,Enhancement of ALMA Early Science (ALMA ENHANCEMENT),01/01/2006,01/09/2012,L. Bronfman,Otras Instituciones,Unión Europea,FP6-Acción de Apoyo Específico
+51,31050002,Laboratorio de instrumentación radioastronómica en Cerro Calán: hacia el desarrollo de alta tecnología en Chile,01/12/2005,01/12/2006,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+52,31050003,A Chilean research support Center for ALMA: Starting up with a Postdoctoral Fellow,01/12/2005,01/12/2007,L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+53,3010037,The population of compact planetary nebulas in different galactic environments,01/03/2001,01/03/2004,S. Casassus / L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+54,1010431,Large scale distribution and physical properties of molecular clouds and regions of massive star formation in the milk way,01/03/2001,01/03/2005,L. Bronfman,Departamento de Astronomía,FONDECYT,Regular
+55,15010003,Centro Nacional de Astrofísica,01/12/2001,01/12/2011,"G. Garay / J. Maza, M. Ruiz, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,FONDAP,Programa FONDAP
+56,3000046,"The populations of ultra-compact hii regions and of compact planetary nebulae in different environments across the galaxy
+",01/03/2000,01/03/2000,S. Casassus / L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+57,8970017,Molecular Clouds and Regions of massive star formation in the Galaxy: distribution and Physical Properties,01/03/1997,01/03/2001,L. Bronfman,Departamento de Astronomía,FONDECYT,Líneas Complementarias
+58,CP-1997/3,Estudio sobre nubes moleculares y estrellas masivas jóvenes en la galaxia,01/12/1997,01/12/1999,L. Bronfman,Departamento de Astronomía,Cátedras Presidenciales,Cátedra Presidencial
+59,1950627,Millimeter-wave and infrared studies of massive star forming regions embedded in GMCs in the galaxy,01/03/1995,01/03/1998,L. Bronfman,Departamento de Astronomía,FONDECYT,Regular
+60,1950570,Estudios de nubes moleculares muy distantes en la galaxia austral,01/03/1995,01/03/1998,L. Bronfman,Departamento de Astronomía,FONDECYT,Regular
+61,3180031,Large-scale structure in the young Universe,01/08/2017,01/08/2017,L. Campusano,Departamento de Astronomía,FONDECYT,Postdoctorado
+62,32180003,Increasing Solar Science Public Awareness in Chile: Startup 2019,01/10/2018,01/10/2018,L. Campusano,Departamento de Astronomía,Astronomía,Fondo GEMINI
+63,1171413,Optical Galaxy Clusters in the Local Universe: Populations and Halo Assembly Bias,01/09/2016,01/09/2016,L. Campusano,Departamento de Astronomía,FONDECYT,Regular
+64,3170232,Large-scale structure of quasars in the Young Universe (z = 1-3),01/08/2016,01/08/2016,L. Campusano,Departamento de Astronomía,FONDECYT,Postdoctorado
+65,10137,Testeando las teorías fundamentales de la naturaleza a través de nuevas observaciones cosmológicas y astrofísicas,01/10/2012,01/10/2015,"L. Campusano / R. Muñoz, G. Palma, N. Zamorano, J. Maza, N. Hitschfeld",Departamento de Astronomía,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+66,32100014,CONICYT/Gemini Astronomy Grants for Mater Students at University of Chile,01/12/2010,01/12/2011,L. Campusano,Departamento de Astronomía,Astronomía,Fondo GEMINI
+67,1040499,The large-scale structure around a sample of X-ray luminous low-z galaxy clusters with VLT weak-lensing mass distributions: clues to complex dynamics,01/03/2004,01/03/2006,L. Campusano,Departamento de Astronomía,FONDECYT,Regular
+68,1020813,Search for z>0.7 Galaxy Clusters in the direction of a z=1.3 Large Quasar Group,01/06/2002,01/06/2002,L. Campusano,Departamento de Astronomía,FONDECYT,Regular
+69,1000922,"Gravitational lensing by low-redshift clusters of galaxies
+",01/03/2000,01/03/2000,L. Campusano,Departamento de Astronomía,FONDECYT,Regular
+70,3000057,"Measurement of the curvature of the universe (??^) from lensing effects of clusters of galaxies
+",01/03/2000,01/03/2000,L. Campusano,Departamento de Astronomía,FONDECYT,Postdoctorado
+71,PD001-1999,The space distribution of quasars,01/03/1999,01/03/1999,L. Campusano,Departamento de Astronomía,FONDECYT,Postdoctorado
+72,1970735,The Chile-Uk uvx quasar survey,01/03/1997,01/03/2000,L. Campusano,Departamento de Astronomía,FONDECYT,Regular
+73,071-1995,Una superestructura de cuasares en perspectiva,01/03/1995,01/03/1995,L. Campusano,Departamento de Astronomía,FONDECYT,Regular
+74,1911194,Muestras homogéneas de cuasares II. Tres casos para el estudio de estructura en el universo,01/03/1991,01/03/1993,L. Campusano,Departamento de Astronomía,FONDECYT,Regular
+75,E2828-8812,,31/12/1988,31/12/1989,L. Campusano,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+76,1211496,Observing the Dynamics of Planet Formation,01/03/2021,01/03/2025,S. Casassus,Departamento de Astronomía,FONDECYT,Regular
+77,1212088,Image synthesis in the big data era,01/08/2020,01/08/2020,S. Casassus,Universidad De Santiago,FONDECYT,Regular
+78,IM21_11469_en,Millennium Institute for Planetary Sciences,01/03/2023,01/03/2023,"S. Casassus, N. Mujica",Departamento de Astronomía,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+79,NCN2021_080,Núcleo Milenio sobre Exoplanetas Jóvenes y sus Lunas,01/11/2021,01/10/2024,S. Casassus,Universidad De Santiago,Iniciativa científica Milenio,Núcleos Milenio
+80,1202008,Big data compression for large radio interferometers,01/08/2019,01/08/2019,S. Casassus,Universidad De Santiago,FONDECYT,Regular
+81,31180050,Revealing the dynamics of planet formation,01/07/2018,01/07/2018,S. Casassus,Departamento de Astronomía,Astronomía,Fondo ALMA
+82,31170035,Postdoctoral position on the hydrodynamics of planet formation,01/06/2017,01/06/2017,S. Casassus,Departamento de Astronomía,Astronomía,Fondo ALMA
+83,1171624,The nature of transition disks,01/04/2017,01/04/2021,S. Casassus,Departamento de Astronomía,FONDECYT,Regular
+84,3170657,The aftermath of spectacular observations: Investigating the physics in protoplanetary disks,01/04/2017,01/04/2020,S. Casassus,Departamento de Astronomía,FONDECYT,Postdoctorado
+85,1171841,Efficient algorithms for compressed sensing image synthesis,01/04/2017,01/04/2020,S. Casassus,USACH. Depto. de Ing. Informatica,FONDECYT,Regular
+86,3160750,Radio/submm continuum emission from the ISM,01/11/2015,01/11/2018,S. Casassus,Departamento de Astronomía,FONDECYT,Postdoctorado
+87,3160181,The role of magnetic fields In the evolution of planetary systems,01/06/2015,01/06/2015,S. Casassus,Departamento de Astronomía,FONDECYT,Postdoctorado
+88,3150643,Multi-wavelength observations of planet forming systems,01/11/2014,01/11/2017,S. Casassus,Departamento de Astronomía,FONDECYT,Postdoctorado
+89,EQM140101,Servidores,01/11/2014,01/11/2015,S. Casassus,Departamento de Astronomía,FONDEQUIP,Concurso de Equipamiento Científico
+90,3140601,Observations of on-going Planet Formation,01/11/2013,01/11/2016,S. Casassus,Departamento de Astronomía,FONDECYT,Postdoctorado
+91,3140634,Efficient Bayesian image synthesis for statistical assessment,01/11/2013,01/11/2016,S. Casassus,Departamento de Astronomía,FONDECYT,Postdoctorado
+92,1130949,Observations of planet-forming systems,01/03/2013,01/03/2017,S. Casassus,Departamento de Astronomía,FONDECYT,Regular
+93,32130007,Research fellowship in Protoplanetary Disks,01/12/2013,01/12/2018,S. Casassus,Departamento de Astronomía,Astronomía,Fondo GEMINI
+94,3130716,Protoplanetary and Protolunar Disk Observations: Formation and Dynamic Evolution,01/10/2012,01/10/2012,S. Casassus,Departamento de Astronomía,FONDECYT,Postdoctorado
+95,31120006,Bayesian image synthesis for ALMA,01/12/2012,01/12/2014,S. Casassus,Departamento de Astronomía,Astronomía,Fondo ALMA
+96,1100221,Centimetre-wave continuum radiation from molecular clouds,01/03/2010,01/03/2013,S. Casassus,Departamento de Astronomía,FONDECYT,Regular
+97,8-2010,Núcleo Milenio Discos Protoplanetarios en Alma Early Science,01/03/2011,01/03/2017,S. Casassus,Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+98,1090587,Centimetre-wave continuum radiation from molecular clouds.,01/03/2009,01/03/2009,S. Casassus,Departamento de Astronomía,FONDECYT,Regular
+99,236176,cmwaveclouds Cm-wave continuum emission from molecular clouds,01/09/2009,01/08/2010,S. Casassus,Observatoire de Paris-Meudon,Unión Europea,FP7-PEOPLE-IRSES
+100,1060827,Stardust and the structure of the interstellar medium,01/03/2006,01/03/2009,S. Casassus,Departamento de Astronomía,FONDECYT,Regular
+101,32070008,Apoyo financiero para la conferencia Gemini Science 2007,01/01/2007,01/01/2008,S. Casassus,Departamento de Astronomía,Astronomía,Fondo GEMINI
+102,1030805,Radio emission mechanism in the interstellar medium,01/03/2003,01/03/2006,S. Casassus,Departamento de Astronomía,FONDECYT,Regular
+103,3010037,The population of compact planetary nebulas in different galactic environments,01/03/2001,01/03/2004,S. Casassus / L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+104,3000046,"The populations of ultra-compact hii regions and of compact planetary nebulae in different environments across the galaxy
+",01/03/2000,01/03/2000,S. Casassus / L. Bronfman,Departamento de Astronomía,FONDECYT,Postdoctorado
+105,1240049,Fundamental Astrophysics from a Speckle and spectroscopic follow-up of tight binary systems,01/07/2023,01/07/2023,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+106,1230208,Fundamental Astrophysics from a Speckle and spectroscopic follow-up of tight binary systems,01/07/2022,01/07/2022,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+107,1190038,Fundamental Astrophysics from a Speckle Survey of Binary Stars,01/04/2019,01/04/2023,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+108,1110100,Insights on the proPerties and origin of the local (orion) spiral arm,01/03/2011,01/03/2015,E. Costa / R. Méndez,Departamento de Astronomía,FONDECYT,Regular
+109,A-27,Cúmulos estelares jóvenes en ambientes diferentes,01/12/2009,01/12/2009,M. Rubio,Departamento de Astronomía,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+110,1070312,"Constraining the orbits of nearby galaxies: Accurate absolute proper motions for the Carina, Fornax, Sculptor dwarf spheroidal galaxies",01/03/2007,01/03/2011,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+111,1050718,The absolute proper motions and star formation history of the magellanic clouds,01/03/2005,01/03/2009,E. Costa / R. Méndez,Departamento de Astronomía,FONDECYT,Regular
+112,1010137,In search of nearby starts: A parallax program for the southern sky,01/03/2001,01/03/2005,E. Costa / R. Méndez,Departamento de Astronomía,FONDECYT,Regular
+113,1000949,"Identification and Astrometry of faint compact extragalactic radio sources
+",01/03/2000,01/03/2000,E. Costa,Departamento de Astronomía,FONDECYT,Regular
+114,1970767,Ccd Astrometry Of Faint Benchmark Extragalactic Radio Sources,01/03/1997,01/03/2000,E. Costa,Departamento de Astronomía,FONDECYT,Regular
+115,1911193,Astrometría óptica de radiofuentes extragalácticas y radioestrellas,01/03/1991,01/03/1993,E. Costa,Departamento de Astronomía,FONDECYT,Regular
+116,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+117,1181663,Key problems in the formation and evolution of massive black holes: a preparation to the era of gravitational wave astronomy,01/03/2018,01/03/2022,A. Escala,Departamento de Astronomía,FONDECYT,Regular
+118,1170997,Key problems in the formation and evolution of massive black holes: a preparation to the era of gravitational wave astronomy,01/09/2016,01/09/2016,A. Escala,Departamento de Astronomía,FONDECYT,Regular
+119,3160161,From star-forming clouds to planetary scales: Computational modeling of disks in the era of ALMA,01/11/2015,01/11/2018,A. Escala,Departamento de Astronomía,FONDECYT,Postdoctorado
+120,3160127,Multi-scaling view of the black hole growth and their effects in galaxies through hydrodynamical simulations,01/06/2015,01/06/2015,A. Escala,Departamento de Astronomía,FONDECYT,Postdoctorado
+121,1130458,"Zoom into the physics of galaxy mergers: black Hole mergers, gas accretion and star-cluster formation",01/03/2013,01/03/2017,A. Escala,Departamento de Astronomía,FONDECYT,Regular
+122,3130653,Simulating gas dynamics in major galaxy mergers: Feeding supermassive black holes,01/10/2012,01/10/2015,A. Escala,Centro de Estudios Espaciales,FONDECYT,Postdoctorado
+123,ANM-53,Millenium nucleus of protostellar Jets,01/01/2013,01/01/2013,"D. Mardones / A. Escala, J. Maza",Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+124,ACT-1101,Estableciendo el Rol de las Fusiones en el Crecimiento de Agujeros Negros y la Evolución Galáctica,01/10/2012,01/10/2015,A. Escala,Universidad De Concepcion,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+125,I 09/04-2,Problemas en el crecimiento y evolución de los agujeros negros masivos,01/03/2009,01/03/2009,A. Escala,Departamento de Astronomía,Fondo Central de Investigación,INICIACION
+126,11090216,Problems in the growth and evolution of massive black holes,01/10/2009,01/10/2012,A. Escala,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+127,11080070,Key problems in the growth of massive black holes.,01/10/2008,01/10/2008,A. Escala,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+128,1221662,Instrumentation for the Astronomical Radio Transients Experiment (ARTE),01/04/2022,01/04/2025,"R. Finger / W. Max-Moerbeck, L. Bronfman",Departamento de Astronomía,FONDECYT,Regular
+129,1211866,New developments on Real-Time Digital Signal Processing: Ultra-Wideband Digital Orthomode Transducers,01/08/2020,01/08/2020,R. Finger,Departamento de Astronomía,FONDECYT,Regular
+130,ID21I10359,An ultra-wideband radio astronomy ALMA-compatible receiver for single dish and VLBI observations,01/01/2022,01/01/2024,R. Finger / L. Bronfman,Departamento de Astronomía,FONDEF,IDEA
+131,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+132,1200505,New developments on Real-Time Digital Signal Processing: Digital Orthomode Transducers and Smart Antenna Arrays,01/08/2019,01/08/2019,R. Finger,Departamento de Astronomía,FONDECYT,Regular
+133,EQY200026,Satellite communication system for current and future space missions,01/11/2020,01/11/2020,"M. Díaz / S. Cespedes, C. Azurdia, C. Fuentes, R. Finger, R. Rondanelli, C. Falcón",Departamento de Ingeniería Eléctrica,FONDEQUIP,Concursos de Equipamiento Tecnológico Mayor
+134,1191693,New developments on Real-Time Digital Signal Processing: Digital Orthomode Transducers and Smart Antennas,01/08/2018,01/08/2018,R. Finger / L. Bronfman,Departamento de Astronomía,FONDECYT,Regular
+135,ENL31/18,Ultra-pure digital detection of polarization for radio astronomy applications: implementation at sub-milimeter wavelengths,01/07/2018,01/07/2018,R. Finger,Departamento de Astronomía,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+136,31180005,Digital Signal Processing For Radio Astronomy: New developments and implementation of demonstrated technology,01/12/2018,01/12/2020,R. Finger,Departamento de Astronomía,Astronomía,Fondo ALMA
+137,EQM180070,"Analizador vectorial de redes, habilitando investigación y desarrollo en el espectro milimétrico",01/07/2018,01/07/2018,"N. Reyes / C. Estévez, C. Azurdia, S. Cespedes, R. Finger, L. Bronfman, M. Díaz, R. Rondanelli, F. Mena",Departamento de Ingeniería Eléctrica,FONDEQUIP,Concurso de Equipamiento Científico
+138,REDES180007,Joining Chile and The Netherlands through technology for astronomy,01/10/2018,01/10/2020,"F. Mena / N. Reyes, R. Finger",Departamento de Ingeniería Eléctrica,Cooperación Internacional: Multilateral y vinculación,Apoyo a la Formación de Redes Internacionales_Centros
+139,1181640,Ultra-pure digital detection of polarization for radio astronomy applications: Implementation at sub-millimeter wavelengths,01/08/2017,01/08/2017,R. Finger / L. Bronfman,Departamento de Astronomía,FONDECYT,Regular
+140,31170016,Digital Signal Processing For Radio Astronomy: New developments and implementation of demonstrated technology,01/07/2017,01/07/2017,R. Finger / L. Bronfman,Departamento de Astronomía,Astronomía,Fondo ALMA
+141,3170902,"Next generation radio-astronomical receivers: A ultra-high bandwidth, high sensitivity, millimeter wave detector ",01/08/2016,01/08/2016,R. Finger,Departamento de Astronomía,FONDECYT,Postdoctorado
+142,IT16I10062,Combinando antenas inteligentes y radios definidas por Software en un sistema de comunicación flexible para pequeños satélites,01/03/2017,01/03/2017,M. Díaz / R. Finger,Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+143,3160176,"Design, construction and testing of an ultra broadband millimeter receiver for the 67-116 GHz frequency band",01/06/2015,01/06/2015,R. Finger,Departamento de Astronomía,FONDECYT,Postdoctorado
+144,31150012,New Developments in Digital Signal Processing for Radio Astronomy: Digital Sideband Separation and Polarization Detection at Millimeter Wavelengths,01/12/2015,01/12/2016,R. Finger,Departamento de Astronomía,Astronomía,Fondo ALMA
+145,IT15I10041,Implementación de herramientas y procesos del observatorio virtual chileno,01/08/2015,01/08/2017,"R. Finger, D. Mardones",UTFSM,FONDEF,IDEA
+146,EQM140023,Prototipadora láser,01/11/2014,01/11/2015,"F. Mena / R. Finger, C. Estévez, L. Bronfman, C. Azurdia, M. Díaz, N. Reyes",Departamento de Ingeniería Eléctrica,FONDEQUIP,Concurso de Equipamiento Científico
+147,11140428,Ultra-pure digital detection of polarization for radio astronomy applications,01/12/2014,01/12/2017,R. Finger,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+148,1231877,Machine learning tools for a multi-messenger astronomical alert broker system,01/03/2023,01/03/2027,F. Forster,UCO. Depto. de Ingeniería Mecánica,FONDECYT,Regular
+149,1220829,Self-supervised learning methods for representation learning and anomaly detection in time series: Applications to astronomy and electroencephalography,01/04/2022,01/04/2026,"P. Estévez / F. Forster, C. Pérez, P. Peirano",Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+150,1210826,"Advances in outlier/novelty detection methods, and time series analysis and forecasting based on deep learning and information theory: Applications to astronomy and electroencephalography",01/08/2020,01/08/2020,"P. Estévez / F. Forster, C. Pérez, P. Peirano",Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+151,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+152,EQY200002,Renovación Infraestructura del Laboratorio Nacional de Supercomputación,01/11/2020,01/11/2020,"J. San Martín / M. Rojas, L. Gallardo, M. Allende, J. Ortega, F. Forster",Centro de Modelamiento Matemático,FONDEQUIP,Concursos de Equipamiento Tecnológico Mayor
+153,1200710,Alert brokers in the era of large etendue telescopes: a new tool to understand the variable Universe,01/03/2020,01/03/2024,F. Forster / P. Estévez,Centro de Modelamiento Matemático,FONDECYT,Regular
+154,EQM200058,Mejora del Sistema de Almacenamiento del NLHPC,01/10/2020,01/04/2024,"J. San Martín, A. Maass, L. Gallardo, F. Forster, J. Ortega",Centro de Modelamiento Matemático,FONDEQUIP,Concurso de Equipamiento Científico
+155,1191656,Alert brokers in the era of large etendue telescopes: a new tool to understand the variable Universe,01/08/2018,01/08/2018,F. Forster / P. Estévez,Centro de Modelamiento Matemático,FONDECYT,Regular
+156,EQM180190,ALeRCE Almacenamiento Distribuido para la clasificación de alertas,01/07/2018,01/07/2018,"F. Forster, P. Estévez, J. San Martín",Centro de Modelamiento Matemático,FONDEQUIP,Concurso de Equipamiento Científico
+157,ESO_2017_02,The Harvard Chile Data Science School: an innovative learning experience,01/10/2017,01/10/2019,F. Forster,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+158,ESO_15_01,Exploring the time and spectral domains in the era of Big Data Astronomy,01/10/2015,01/10/2017,F. Forster,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+159,QUIMAL140003,Hierarchical Storage Management System for Big Data Astronomical Research,01/11/2014,01/11/2015,F. Forster,Departamento de Astronomía,Astronomía,Fondo Quimal
+160,11130228,Understanding supernova progenitors using next generation synoptic surveys,01/11/2013,01/11/2017,F. Forster,Centro de Modelamiento Matemático,FONDECYT,Iniciación en Investigación
+161,3110042,Understanding supernova progenitors: connecting theory and observations whits a robotic telescope,01/10/2010,01/09/2013,F. Forster,Departamento de Astronomía,FONDECYT,Postdoctorado
+162,3100121,Using a rootic telescope to understand supernova progenitors science.,01/03/2010,01/03/2010,F. Forster / J. Maza,Departamento de Astronomía,FONDECYT,Postdoctorado
+163,1240530,AI for the Solar System,01/07/2023,01/07/2023,C. Fuentes,Departamento de Astronomía,FONDECYT,Regular
+164,3230673,Detecting and characterizing exoplanets via gravitational microlensing,01/03/2023,01/03/2023,C. Fuentes,Departamento de Astronomía,FONDECYT,Postdoctorado
+165,1231732,AI for the Solar System,01/08/2022,01/08/2022,C. Fuentes,Departamento de Astronomía,FONDECYT,Regular
+166,1221110,AI for the Solar System,01/09/2021,01/09/2021,C. Fuentes,Departamento de Astronomía,FONDECYT,Regular
+167,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+168,3210229,Dating of collisional asteroid families in the main belt in the Gaia era,01/03/2021,01/03/2024,C. Fuentes,Departamento de Astronomía,FONDECYT,Postdoctorado
+169,EQY200026,Satellite communication system for current and future space missions,01/11/2020,01/11/2020,"M. Díaz / S. Cespedes, C. Azurdia, C. Fuentes, R. Finger, R. Rondanelli, C. Falcón",Departamento de Ingeniería Eléctrica,FONDEQUIP,Concursos de Equipamiento Tecnológico Mayor
+170,1202005,"Mining the WIDE, DEEP astro data for Planet Formation",01/08/2019,01/08/2019,C. Fuentes,Departamento de Astronomía,FONDECYT,Regular
+171,IT19I0129,Desarrollo e implementación de un sistema de monitoreo en-línea de la seguridad dinámica del sistema eléctrico,01/06/2020,01/10/2022,"R. Palma / C. Ahumada, C. Fuentes, C. Rahmann",Departamento de Ingeniería Eléctrica,FONDEF,IDEA
+172,1181092,Beyond the Break: getting the collisional story of the Solar System right,01/07/2017,01/07/2017,C. Fuentes,Departamento de Astronomía,FONDECYT,Regular
+173,3180743,Characterization of Centaur objects and TNOs,01/03/2018,01/03/2021,C. Fuentes,Departamento de Astronomía,FONDECYT,Postdoctorado
+174,1171888,Targeted search for planet 9 on wide field data,01/09/2016,01/09/2016,C. Fuentes,Departamento de Astronomía,FONDECYT,Regular
+175,11150594,"Near and Far Solar System Objects with DECam, the dawn of LSST science",01/06/2015,01/06/2015,C. Fuentes,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+176,UI-001,"Near and far solar system objects with DECam, the dawn of LSST science",01/04/2015,01/04/2017,C. Fuentes,Departamento de Astronomía,Fondo Central de Investigación,U-INICIA
+177,1151500,"Near and Far Solar System Objects with DECam, the dawn of LSST science",01/03/2015,01/03/2015,C. Fuentes,Departamento de Astronomía,FONDECYT,Regular
+178,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+179,3200312,Structure and evolution of the bipolar molecular outflows and protostellar jets,01/01/2020,01/01/2020,G. Garay,Departamento de Astronomía,FONDECYT,Postdoctorado
+180,AFB170002,Centro de Astrofísica y Tecnologías Afines,01/01/2018,01/01/2021,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+181,31170010,Disk Accretion within Hypercompact Ionized Regions,01/07/2017,01/07/2017,G. Garay,Departamento de Astronomía,Astronomía,Fondo ALMA
+182,AFB170002,Center for Astrophysics and Associated Technologies,01/11/2017,01/11/2017,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+183,3170568,The Carina Nebula Complex: A unique laboratory to study feedback of massive star formation in incredible detail possible for the first time,01/04/2017,01/04/2020,G. Garay,Departamento de Astronomía,FONDECYT,Postdoctorado
+184,3170360,Towards the understanding of high-mass star formation ,01/04/2017,01/04/2020,G. Garay,Departamento de Astronomía,FONDECYT,Postdoctorado
+185,3160557,"Massive star formation: Filaments, velocity fields and chemistry",01/06/2015,01/06/2015,G. Garay,Departamento de Astronomía,FONDECYT,Postdoctorado
+186,32140021,Conference on Massive Star Formation 2015,01/12/2014,01/12/2015,G. Garay,Departamento de Astronomía,Astronomía,Fondo GEMINI
+187,238857,InterStar,01/01/2008,01/01/2008,G. Garay,Departamento de Astronomía,Unión Europea,FP7-PEOPLE-IRSES
+188,PFB06,Centro de Excelencia en Astrofísica y Tecnologías Afines,01/12/2007,01/12/2020,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+189,32070022,Postdoctorados para la consolidación de proyectos claves,01/01/2007,01/01/2009,G. Garay,Departamento de Astronomía,Astronomía,Fondo GEMINI
+190,1010531,The formation of massive stars,01/03/2001,01/03/2005,G. Garay,Departamento de Astronomía,FONDECYT,Regular
+191,15010003,Centro Nacional de Astrofísica,01/12/2001,01/12/2011,"G. Garay / J. Maza, M. Ruiz, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,FONDAP,Programa FONDAP
+192,S/N 0027,"Astronomía: Enseñanza, capacitación y divulgación",01/12/2000,01/12/2000,J. Maza / G. Garay,Departamento de Astronomía,FONDEF,Investigación y Desarrollo (I+D)
+193,I21-98/2,La función inicial de masa en la nube de Chamaleon I,01/06/1998,01/06/2000,D. Mardones / G. Garay,Departamento de Astronomía,Fondo Central de Investigación,INICIACION
+194,1980660,The chemistry of bipolar outflows,01/03/1998,01/03/2001,G. Garay,Departamento de Astronomía,FONDECYT,Regular
+195,CP-1996/2,Estudio sobre Formación de Estrellas,01/12/1996,01/12/1998,G. Garay,Departamento de Astronomía,Cátedras Presidenciales,Cátedra Presidencial
+196,1950524,The nature of irregular ultracompact regions of ionized gas,01/03/1995,01/03/1998,G. Garay,Departamento de Astronomía,FONDECYT,Regular
+197,1221310,The Role of the Brightest Galaxies in the Epoch of Reionization,01/04/2022,01/04/2026,V. González,Departamento de Astronomía,FONDECYT,Regular
+198,1211678,The Role of the Brightest Galaxies in the Epoch of Reionization,01/08/2020,01/08/2020,V. González,Departamento de Astronomía,FONDECYT,Regular
+199,ENL16/21,El Rol de las Galaxias más brillantes en la Época de la Reionización,01/09/2021,01/09/2022,V. González,Departamento de Astronomía,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+200,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+201,3200521,Ppectral properties of primeval galaxies,01/01/2020,01/01/2020,V. González,Departamento de Astronomía,FONDECYT,Postdoctorado
+202,3180029,La relación Masa-Metalicidad en regiones masivas de formación estelar,01/08/2017,01/08/2017,V. González,Departamento de Astronomía,FONDECYT,Postdoctorado
+203,11160832 ,High redshift galaxy evolution: Robust stellar masses and the role of nebular emission lines,01/10/2016,01/10/2019,V. González,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+204,UI-13/2016,High dedshift galaxy evolution: Robust stellar masses and the role of nebular emission lines,01/12/2016,01/12/2018,V. González,Departamento de Astronomía,Fondo Central de Investigación,U-INICIA
+205,11150045,A New SED Fitting Tool to Explore the Nature of Strong Emission Lines in High-z Galaxies,01/06/2015,01/06/2015,V. González,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+206,3240365,The CaFe Project: Building a cosmic clock and standardizing the quasar radius-luminosity relation for Cosmology,01/06/2023,01/06/2023,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+207,1240875,A Multi-Prong Study of AGN,01/07/2023,01/07/2023,P. Lira,Departamento de Astronomía,FONDECYT,Regular
+208,3220652,On the connexion between components of the active galactic nuclei,01/09/2021,01/09/2021,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+209,1201748,"Active Galactic Nuclei, New Approaches",01/03/2020,01/03/2024,P. Lira,Departamento de Astronomía,FONDECYT,Regular
+210,3190448,Study of Ultra-Compact Jets and the Innermost Regions in AGN,01/10/2018,01/10/2018,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+211,NCN19_058,Nucleo Milenio en Tecnología e Investigación Transversal para explorar Agujeros Negros Supermasivos (TITANES),01/09/2020,01/09/2023,P. Lira,Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+212,3190382,Unveiling the Active Galactic Nuclei engine interaction with their environment,01/10/2018,01/10/2018,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+213,32180012,Star chasers: Astronomy workshops for high school girls,01/10/2018,01/10/2018,P. Lira,Departamento de Astronomía,Astronomía,Fondo GEMINI
+214,ESO_2017_01,Jornadas de astronomía para mujeres de enseñanza media,01/09/2017,01/09/2018,P. Lira,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+215,3170915,Multiwavelenght photometric and spectroscopic study of the central engine of flat spectrum radio quasars,01/08/2016,01/08/2016,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+216,1161184,The physics of active galactic nuclei,01/04/2016,01/04/2020,P. Lira,Departamento de Astronomía,FONDECYT,Regular
+217,3160448,Investigating AGNs using high spatial resolution techniques: From seyfert galaxies to QSOs,01/06/2015,01/06/2015,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+218,3160334,Probing the circumgalactic medium and outflows in high redshift AGN,01/06/2015,01/06/2015,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+219,3150656,An Investigation into the Variable Nature of Active Galaxies,01/11/2014,01/11/2014,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+220,3140518,Understanding the structure of AGNs,01/11/2013,01/11/2016,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+221,1120328,Variability in active galactic nuclei,01/03/2012,01/03/2016,P. Lira,Departamento de Astronomía,FONDECYT,Regular
+222,32120018,CONICYT/Gemini Astronomy Grants for Master students at Universidad de Chile,01/12/2012,01/12/2014,P. Lira,Departamento de Astronomía,Astronomía,Fondo GEMINI
+223,ANM-33,Núcleo milenio de cuasares y el universo lejano,01/01/2013,01/01/2013,S. López / P. Lira,Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+224,31120019,CONICYT/ALMA Astronomy Grants for PhD students at U. de Chile,01/12/2012,01/12/2013,P. Lira,Departamento de Astronomía,Astronomía,Fondo ALMA
+225,3110033,Structure of the Broad Line Region Active Galactic Nuclei,01/10/2010,01/09/2013,P. Lira,Departamento de Astronomía,FONDECYT,Postdoctorado
+226,31110010,CONICYT/ALMA Astronomy Grants for PhD students at University of Chile,01/11/2011,01/11/2013,P. Lira,Departamento de Astronomía,Astronomía,Fondo ALMA
+227,32110015,CONICYT/Gemini Astronomy Grants for Master students at University of Chile,01/11/2011,01/11/2013,P. Lira,Departamento de Astronomía,Astronomía,Fondo GEMINI
+228,31100017,CONICYT/ALMA Astronomy Grants for Ph.D. Students at Universidad de Chile,01/12/2010,01/12/2011,P. Lira,Departamento de Astronomía,Astronomía,Fondo ALMA
+229,A-12,Entendiendo el universo de las galaxias,01/12/2009,01/12/2009,P. Lira / S. López,Departamento de Astronomía,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+230,1080603,The central engine of active Galactic nuclei,01/03/2008,01/03/2012,P. Lira,Departamento de Astronomía,FONDECYT,Regular
+231,1040719,Obscured AGN,01/03/2004,01/03/2008,P. Lira,Departamento de Astronomía,FONDECYT,Regular
+232,INI-02-1,,31/12/2001,31/12/2003,P. Lira,,Fundacion Andes,Inicio F. Andes
+233,C-T,Calán-Tololo ,01/01/1989,01/01/1996,"P. Lira, J. Maza",Otras Instituciones,Otros,Otros
+234,1231187,Tomography of the gaseous universe using gravitational lenses,01/03/2023,01/03/2027,S. López,Departamento de Física,FONDECYT,Regular
+235,NM21CS_14,Núcleo Milenio de Halos de Galaxias,01/05/2021,01/05/2021,S. López,Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+236,3200058,Bringing theoretical framework to citcumgalactic medium studies in Chile,01/01/2020,01/01/2020,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+237,ESO_2020_01,Postdoctoral position on Circumgalactic Medium research,01/04/2020,01/04/2022,S. López,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+238,1191232,Witnessing the baryon cycle of galaxies through gravitational-arc tomography,01/04/2019,01/04/2023,S. López,Departamento de Astronomía,FONDECYT,Regular
+239,3190064,Role of gas in galaxy evolution: tracing the gas flows in the circum and inter-galactic environment,01/10/2018,01/10/2018,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+240,1181852,A new tomographic technique to probe the structure of the circum-galactic medium against gravitational arcs,01/07/2017,01/07/2017,S. López,Departamento de Astronomía,FONDECYT,Regular
+241,3180016,Interplay between Quasars and the Intergalactic Medium,01/08/2017,01/08/2017,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+242,ENL18/18,A new tomographic technique to probe the structure of the circum-galactic medium against gravitational arcs,01/07/2018,01/07/2019,S. López,Departamento de Astronomía,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+243,31180004,Postdoctoral position on Circum-galactic Medium research,01/07/2018,01/07/2018,S. López,Departamento de Astronomía,Astronomía,Fondo ALMA
+244,3170055,A ghosty damped Lyman-alpha systems survey - Quasars behind clusters,01/08/2016,01/08/2016,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+245,3170054,The interplay between quasars and the intergalactic medium ,01/08/2016,01/08/2016,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+246,3170056,Hunting for the Galaxies seen in Absorption,01/08/2016,01/08/2016,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+247,1160799,Studying clusters and galaxies through gravitational lensing,01/08/2015,01/08/2015,S. López,PUC. Depto. de Astronomía y Astrofísica,FONDECYT,Regular
+248,3160159,Absorption systems towards QSO and GRB lines of sight as cosmological probes,01/06/2015,01/06/2015,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+249,3160145,High-redshift Lyman-alpha in emission and absorption: Exploiting total quasar eclipses to reveal the central monster,01/06/2015,01/06/2015,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+250,314-059,Characterizing accretion disk winds in quasars,01/10/2013,01/10/2013,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+251,1140838,Probing the gaseous environments of high-redshift galaxies with qso and grb afterglow absorption systems,01/03/2014,01/03/2018,S. López,Departamento de Astronomía,FONDECYT,Regular
+252,ANM-33,Núcleo milenio de cuasares y el universo lejano,01/01/2013,01/01/2013,S. López / P. Lira,Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+253,1100214,Fresh clues to galaxy formation: high-redshift baryons toward quasars and gamma-ray bursts,01/03/2010,01/03/2014,S. López,Departamento de Astronomía,FONDECYT,Regular
+254,3100023,A new research area for Chilean astronomy: Gravitational Lensing in the UCh-PUC Quasars behind Clusters Survey,01/03/2010,01/03/2010,S. López,Departamento de Astronomía,FONDECYT,Postdoctorado
+255,A-12,Entendiendo el universo de las galaxias,01/12/2009,01/12/2009,P. Lira / S. López,Departamento de Astronomía,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+256,IM-1o,Instituto Milenio de Instrumentación Astronómica,01/12/2009,01/12/2009,"J. Maza, L. Bronfman, S. López, M. Díaz, F. Mena",PUC. Depto. de Astronomía y Astrofísica,Iniciativa científica Milenio,Institutos Milenios
+257,32080013,Becas de Postgrado Gemini-Universidad de Chile,01/12/2008,01/12/2009,S. López,Departamento de Astronomía,Astronomía,Fondo GEMINI
+258,1085286,Probing the Universe with Galaxy Clusters,01/03/2008,01/03/2012,S. López,PUC. Depto. de Astronomía y Astrofísica,FONDECYT,Regular
+259,32070020,Becas doctorales Gemini-Universidad de Chile,01/01/2007,01/01/2009,S. López,Departamento de Astronomía,Astronomía,Fondo GEMINI
+260,1060823,Quasar absorption line systems as a probe of high-redshift galaxies,01/03/2006,01/03/2010,S. López,Departamento de Astronomía,FONDECYT,Regular
+261,CSIC-12/04,Estudio de la luminosidad de Cásares a alto redshift,01/01/2005,01/12/2006,J. Maza / S. López,Departamento de Astronomía,Fondo Central de Investigación,CSIC/U. DE CHILE
+262,1030491,The evolution of heavy elements in the Universe from reionization to z=0,01/03/2003,01/03/2006,S. López,Departamento de Astronomía,FONDECYT,Regular
+263,3000001,"The intergalactic medium from Quasar absortion line systems: metal abundances, sizes, and the ionizing background",01/04/2000,01/04/2003,S. López / J. Maza,Departamento de Astronomía,FONDECYT,Postdoctorado
+264,1231678,Astrochemical Pathways to Complex Organic Molecules: The Gas-Grain Interplay,01/08/2022,01/08/2022,D. Mardones,UAUT. Instituto de Ciencias Químicas Aplicadas (ICQA),FONDECYT,Regular
+265,1220432,Astrochemical pathways to complex organic molecules: The Gas-Grain Interplay,01/08/2021,01/08/2021,D. Mardones,UAUT. Facultad de Ingeniería,FONDECYT,Regular
+266,1210933,Astrochemical Pathways to Complex Organic Molecules: The Gas-Grain Interplay,01/08/2020,01/08/2020,D. Mardones,UAUT. Facultad de Ingeniería,FONDECYT,Regular
+267,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+268,3170768,Exploring gas-grain chemistry in space,01/04/2017,01/04/2020,D. Mardones,Departamento de Astronomía,FONDECYT,Postdoctorado
+269,3170803,The accretion process in massive young stellar objects,01/08/2016,01/08/2016,D. Mardones,Departamento de Astronomía,FONDECYT,Postdoctorado
+270,3160608,The impact of dynamics and chemistry in massive cores and hot molecular cores associated with molecular outflows,01/06/2015,01/06/2015,D. Mardones,Departamento de Astronomía,FONDECYT,Postdoctorado
+271,IT15I10041,Implementación de herramientas y procesos del observatorio virtual chileno,01/08/2015,01/08/2017,"R. Finger, D. Mardones",UTFSM,FONDEF,IDEA
+272,31140015,"International Conference on ¿The Soul of Massive Star Formation¿ Puerto Varas, March 2015",01/11/2014,01/11/2015,D. Mardones,Departamento de Astronomía,Astronomía,Fondo ALMA
+273,314-097,Mapping Out the Distribution of Nearby Star-Forming Regions,01/10/2013,01/10/2013,D. Mardones,Departamento de Astronomía,FONDECYT,Postdoctorado
+274,3130520,"Identification of Nearby, Low-Mass Star Systems in the Late Stages
+of Planet Formation",01/10/2012,01/10/2015,D. Mardones,Departamento de Astronomía,FONDECYT,Postdoctorado
+275,ANM-53,Millenium nucleus of protostellar Jets,01/01/2013,01/01/2013,"D. Mardones / A. Escala, J. Maza",Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+276,32110017,Taller de instrucción en astronomía para profesores,01/12/2011,01/12/2013,D. Mardones,Departamento de Astronomía,Astronomía,Fondo GEMINI
+277,ED16/021,Talleres de astronomía: el cielo en tus manos,01/12/2011,01/12/2012,J. Maza / D. Mardones,Departamento de Astronomía,Explora,Divulgación y Valoración de CTI
+278,D11I1060,Desarrollo de una plataforma astroinformática para la administración y análisis inteligente de datos a gran escala,01/12/2012,01/05/2015,D. Mardones,UTFSM,FONDEF,Investigación y Desarrollo (I+D)
+279,ED16/022,Proyecto Carina: el cielo desde Los Andes,01/12/2011,01/12/2012,J. Maza / D. Mardones,Departamento de Astronomía,Explora,Divulgación y Valoración de CTI
+280,AIC-3,Procesamiento masivos de datos de ALMA en Chile,01/12/2011,01/12/2011,D. Mardones,Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo Infraestructura Cientifica de Centros
+281,31110012,Establishing a Chilean ALMA Regional Center,01/11/2011,01/11/2013,D. Mardones / E. Vera,Departamento de Astronomía,Astronomía,Fondo ALMA
+282,31100018,Chilean Network Coordination for an ALMA Regional Center,01/12/2010,01/12/2012,D. Mardones,Departamento de Astronomía,Astronomía,Fondo ALMA
+283,1020799,The Initial Conditions of Star Formation ,01/06/2002,01/06/2002,D. Mardones,Departamento de Astronomía,FONDECYT,Regular
+284,15010003,Centro Nacional de Astrofísica,01/12/2001,01/12/2011,"G. Garay / J. Maza, M. Ruiz, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,FONDAP,Programa FONDAP
+285,1990632,Dense gas Kinematic in star forming molecular clouds cores,01/03/1999,01/03/2001,D. Mardones,Departamento de Astronomía,FONDECYT,Regular
+286,I21-98/2,La función inicial de masa en la nube de Chamaleon I,01/06/1998,01/06/2000,D. Mardones / G. Garay,Departamento de Astronomía,Fondo Central de Investigación,INICIACION
+287,3230533,Multi-waveband variability and correlation studies of blazar sources,01/03/2023,01/03/2023,W. Max-Moerbeck,Departamento de Astronomía,FONDECYT,Postdoctorado
+288,3230631,A multi-wavelength investigation of emission processes in Fermi detected sources,01/03/2023,01/03/2026,W. Max-Moerbeck,Departamento de Astronomía,FONDECYT,Postdoctorado
+289,1221662,Instrumentation for the Astronomical Radio Transients Experiment (ARTE),01/04/2022,01/04/2025,"R. Finger / W. Max-Moerbeck, L. Bronfman",Departamento de Astronomía,FONDECYT,Regular
+290,ASTRO21-0010,High performance receiver for multi-line observations of dense gas tracers in Galactic GMCs,01/12/2021,01/12/2024,W. Max-Moerbeck,Departamento de Astronomía,Astronomía,Fondo Quimal
+291,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+292,ESO_2020_02,Concentrating Solar Power Plants as Radio Telescopes: Characterization and Feasibility Study,01/04/2020,01/04/2022,W. Max-Moerbeck,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+293,11190853,Blazar variability studies in preparation for CTA,01/10/2019,01/10/2022,W. Max-Moerbeck,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+294,31180008,Journey across the Universe,01/07/2018,01/07/2018,J. Maza,Departamento de Astronomía,Astronomía,Fondo ALMA
+295,AFB170002,Centro de Astrofísica y Tecnologías Afines,01/01/2018,01/01/2021,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+296,AFB170002,Center for Astrophysics and Associated Technologies,01/11/2017,01/11/2017,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+297,1170625,Mirando las estrellas desde el Sur del Mundo: el Observatorio Astronómico Nacional de Chile (1852-1927),01/04/2017,01/04/2021,C. Sanhueza / J. Maza,Departamento de Ciencias Históricas,FONDECYT,Regular
+298,1161187,Mirando las estrellas desde el sur del mundo: el Observatorio Astronómico Nacional de Chile (1852-1927),01/06/2015,01/06/2015,C. Sanhueza / J. Maza,Departamento de Ciencias Históricas,FONDECYT,Regular
+299,ESO_2016_01,Talleres de astronomía,01/10/2016,01/10/2017,J. Maza,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+300,ESO_2015_02,Talleres de Astronomía para profesores de enseñanza básica,01/10/2015,01/08/2016,J. Maza,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+301,676543,ALEXANDRIA,01/01/2015,01/01/2015,J. Maza,Departamento de Astronomía,Unión Europea,FP7-SMSF Research Project
+302,ED190104,Fortalecimiento de la astronomía en educación básica,01/03/2015,01/03/2015,J. Maza,Departamento de Astronomía,Explora,Divulgación y Valoración de CTI
+303,32140024,Tours Program at the Observatorio Astronómico Nacional (OAN),01/12/2014,01/12/2015,J. Maza,Departamento de Astronomía,Astronomía,Fondo GEMINI
+304,ANM-53,Millenium nucleus of protostellar Jets,01/01/2013,01/01/2013,"D. Mardones / A. Escala, J. Maza",Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+305,ED16/022,Proyecto Carina: el cielo desde Los Andes,01/12/2011,01/12/2012,J. Maza / D. Mardones,Departamento de Astronomía,Explora,Divulgación y Valoración de CTI
+306,10137,Testeando las teorías fundamentales de la naturaleza a través de nuevas observaciones cosmológicas y astrofísicas,01/10/2012,01/10/2015,"L. Campusano / R. Muñoz, G. Palma, N. Zamorano, J. Maza, N. Hitschfeld",Departamento de Astronomía,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+307,ED16/021,Talleres de astronomía: el cielo en tus manos,01/12/2011,01/12/2012,J. Maza / D. Mardones,Departamento de Astronomía,Explora,Divulgación y Valoración de CTI
+308,283783,"GLORIA GLObal Robotic-telescopes Intelligent Array
+",01/10/2011,01/09/2014,J. Maza,Universidad Politécnica de Madrid,Unión Europea,FP7-Coordination Actions
+309,3100121,Using a rootic telescope to understand supernova progenitors science.,01/03/2010,01/03/2010,F. Forster / J. Maza,Departamento de Astronomía,FONDECYT,Postdoctorado
+310,EQM-2,Laboratorio Nacional de Computación de Alto Rendimiento (NL-HPC),01/12/2010,01/12/2020,"E. Vera / J. Maza, R. Jofré, S. Martínez",Departamento de Ciencias de la Computación,Programa de Investigación Asociativa,I Concurso para Centros de Equipamiento Científico
+311,261644,"GLORIA
+",01/01/2009,01/01/2009,J. Maza,Departamento de Astronomía,Unión Europea,FP7-Acciones de apoyo
+312,IM-1o,Instituto Milenio de Instrumentación Astronómica,01/12/2009,01/12/2009,"J. Maza, L. Bronfman, S. López, M. Díaz, F. Mena",PUC. Depto. de Astronomía y Astrofísica,Iniciativa científica Milenio,Institutos Milenios
+313,31070014,The Old Book Collection of Chile's National Astronomical Observatory: their restoration and public presentation,01/12/2007,01/12/2008,J. Maza,Departamento de Astronomía,Astronomía,Fondo ALMA
+314,PFB06,Centro de Excelencia en Astrofísica y Tecnologías Afines,01/12/2007,01/12/2020,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+315,3070034,Supernovae: from the discovery to the cosmology passing trough the physics,01/03/2007,01/03/2009,J. Maza,Escuela de Postgrado,FONDECYT,Postdoctorado
+316,3060004,Optical variability properties and reverberation mapping of Southern-Sky active galactic nuclei,01/03/2006,01/03/2006,J. Maza,Departamento de Astronomía,FONDECYT,Postdoctorado
+317,P06-045-P,Centro Mileno para la Ciencia Supernova,01/08/2007,01/10/2014,J. Maza,Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+318,CSIC-01/06,Estudio de supernovas en el Dark Energy Survey,01/03/2006,01/03/2006,J. Maza,Departamento de Astronomía,Fondo Central de Investigación,CSIC/U. DE CHILE
+319,CSIC-12/04,Estudio de la luminosidad de Cásares a alto redshift,01/01/2005,01/12/2006,J. Maza / S. López,Departamento de Astronomía,Fondo Central de Investigación,CSIC/U. DE CHILE
+320,1020798,New Calán-Tololo Quasar survey,01/06/2002,01/06/2002,J. Maza,Departamento de Astronomía,FONDECYT,Regular
+321,15010003,Centro Nacional de Astrofísica,01/12/2001,01/12/2011,"G. Garay / J. Maza, M. Ruiz, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,FONDAP,Programa FONDAP
+322,3000001,"The intergalactic medium from Quasar absortion line systems: metal abundances, sizes, and the ionizing background",01/04/2000,01/04/2003,S. López / J. Maza,Departamento de Astronomía,FONDECYT,Postdoctorado
+323,S/N 0027,"Astronomía: Enseñanza, capacitación y divulgación",01/12/2000,01/12/2000,J. Maza / G. Garay,Departamento de Astronomía,FONDEF,Investigación y Desarrollo (I+D)
+324,1980172,Search for and study of type Ia supernovae,01/03/1998,01/03/2001,J. Maza,Departamento de Astronomía,FONDECYT,Regular
+325,1950573,Búsqueda de cuasares de corrimiento al rojo grande,01/03/1995,01/03/1998,J. Maza,Departamento de Astronomía,FONDECYT,Regular
+326,CP-1995/4,Supernovas,01/12/1995,01/12/1998,J. Maza,Departamento de Astronomía,Cátedras Presidenciales,Cátedra Presidencial
+327,E18-9412,Morfología y dinámica de las galaxias espirales con y sin núcleo activo,01/12/1994,01/12/1996,J. Maza,Departamento de Astronomía,Fondo Central de Investigación,CSIC/U. DE CHILE
+328,1920312,SEARCH FOR SUPERNOVAE,01/03/1992,01/03/1995,J. Maza,Otras Instituciones,FONDECYT,Regular
+329,1900727,CURVA LUZ DE LA SUPERNOVA 1987A,01/03/1990,01/03/1991,J. Maza,Otras Instituciones,FONDECYT,Regular
+330,C-T,Calán-Tololo ,01/01/1989,01/01/1996,"P. Lira, J. Maza",Otras Instituciones,Otros,Otros
+331,E2829-8815,,31/12/1988,31/12/1993,J. Maza,,CONCURSOS ESPECIFICOS DE INVESTIGACION,DTI
+332,1221695,Measuring the Mass of the Milky Way with RR Lyrae,01/04/2022,01/04/2025,R. Muñoz,Departamento de Astronomía,FONDECYT,Regular
+333,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+334,1170364,Searching for the elusive edges of the Magellanic Clouds with the DECAM ¿Survey of the MAgellanic Stellar History¿ (SMASH) ,01/04/2017,01/04/2021,R. Muñoz,Departamento de Astronomía,FONDECYT,Regular
+335,1161109,"Searching for the elusive edges of the Magellanic clouds with the DECAM ""Survey of the Magellanic stellar history"" (SMASH)",01/06/2015,01/06/2015,R. Muñoz,Departamento de Astronomía,FONDECYT,Regular
+336,ENL001/16,"Searching for the elusive edges of the magellanic clouds with the decam ""survey of the magellanic stellar history"" (Smash)",01/08/2016,01/08/2017,R. Muñoz,Departamento de Astronomía,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+337,3150536,The formation of the Milky Way halo as revealed by its globular cluster system,01/11/2014,01/11/2014,R. Muñoz,Departamento de Astronomía,FONDECYT,Postdoctorado
+338,32140023,GEMINI/CONICYT Astronomy Grants for Ph.D. Students at Universidad de Chile,01/12/2014,01/12/2015,R. Muñoz,Departamento de Astronomía,Astronomía,Fondo GEMINI
+339,314-105,The inter-comparison of the chemical properties of old globular clusters in the outer halo of the Milky Way and their counterparts associated with the Large Magellanic Cloud,01/10/2013,01/10/2013,R. Muñoz,Departamento de Astronomía,FONDECYT,Postdoctorado
+340,3140582,Exploring the outer Galactic globular clusters: origin and structure,01/11/2013,01/11/2013,R. Muñoz,Departamento de Astronomía,FONDECYT,Postdoctorado
+341,1120013,Canvassing the milky way neighborhood: A deep photometric survey of the new ultra-faint dwarfs and other outer halo satellites,01/03/2012,01/03/2016,R. Muñoz,Departamento de Astronomía,FONDECYT,Regular
+342,UINICIA-2011-6298,Explorando el Vecindario de la Vía Láctea: El Primer Estudio Fotométrico Profundo y de Campo Amplio  de las Recientemente Encontradas Galaxias Enanas de Ultra-Baja Luminosidad y Otros Satélites en el Halo.Explorando el Vecindario de la Vía Láctea: El Primer Estudio Fotométrico Profundo y de Campo Amplio  de las Recientemente Encontradas Galaxias Enanas de Ultra-Baja Luminosidad y Otros Satélites en el Halo.,01/06/2012,01/06/2012,R. Muñoz,Departamento de Astronomía,Fondo Central de Investigación,U-INICIA
+343,10137,Testeando las teorías fundamentales de la naturaleza a través de nuevas observaciones cosmológicas y astrofísicas,01/10/2012,01/10/2015,"L. Campusano / R. Muñoz, G. Palma, N. Zamorano, J. Maza, N. Hitschfeld",Departamento de Astronomía,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+344,1240049,Fundamental Astrophysics from a Speckle and spectroscopic follow-up of tight binary systems,01/07/2023,01/07/2023,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+345,1240214,Space situational awareness from Chile: Enhancing the FALCON network,01/07/2023,01/07/2023,R. Méndez,,FONDECYT,Regular
+346,1230325,Space situational awareness from Chile: Enhancing the FALCON network,01/07/2022,01/07/2022,R. Méndez,Universidad de Atacama,FONDECYT,Regular
+347,1230208,Fundamental Astrophysics from a Speckle and spectroscopic follow-up of tight binary systems,01/07/2022,01/07/2022,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+348,ENL02/23,La relación masa-luminosidad de la Población Galáctica II vía sistemas binarios compactos,01/06/2023,01/06/2024,R. Méndez,Departamento de Astronomía,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+349,1220478,Improved astrometric tracking for orbit determination of GEO space satellites and debris,01/08/2021,01/08/2021,R. Méndez,Universidad de Atacama,FONDECYT,Regular
+350,3220351,Desafíos en astrofísica de sistemas binarios y múltiples: Parámetros estelares fundamentales y comparación con resultados de la misión Gaia,01/09/2021,01/09/2021,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+351,IM21_11468_en,Millennium Institute for Space Exploration,01/03/2023,01/03/2023,"P. Moya, R. Méndez, M. Riquelme, J. Valdivia",Departamento de Física,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+352,3200041,Estudio de Estrellas Binarias y Sistemas Múltiples en la era de Gaia: Paralajes Orbitales y Dinámicas,01/12/2019,01/12/2019,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+353,1190038,Fundamental Astrophysics from a Speckle Survey of Binary Stars,01/04/2019,01/04/2023,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+354,3180101,A Speckle Follow-up of Southern Hipparcos Visual Doubles and Geneva-Copenhagen Spectroscopic Binaries,01/08/2017,01/08/2017,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+355, 3170032,A speckle follow-up of southern hipparcos visual doubles and geneva-copenhagen spectroscopic binaries,01/08/2016,01/08/2016,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+356,1170854,Topics on Information and Decision with Applications to Coding and Inverse Problems in Astronomy,01/04/2017,01/04/2021,"J. Silva / M. Orchard, R. Méndez",Departamento de Ingeniería Eléctrica,FONDECYT,Regular
+357,1151213,Information and decision theory applied to the measurement of quantities of astronomical interest: The case of ground- and space-based astrometry and photometry,01/03/2015,01/03/2018,"R. Méndez / M. Orchard, J. Silva",Departamento de Astronomía,FONDECYT,Regular
+358,314-099,Understanding the role of planet formation in dissipating disks around young stars,01/10/2013,01/10/2013,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+359,114-033,"Topic i: kinematical properties of tidal streams and overdensities in the galactic halo from absolute proper-motions in kapteyn¿s selected areas & Topic ii: theoretical limits on astrometric precision
+",01/03/2014,01/03/2014,R. Méndez / J. Silva,Departamento de Astronomía,FONDECYT,Regular
+360,3140393,Protoplanetary disks around Brown Dwarves,01/11/2013,01/11/2016,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+361,3130595,Protoplanetary disks around Brown Dwarfs,01/10/2012,01/10/2012,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+362,ANM-04,Núcleo milenio en sistemas de información y decisión,01/01/2013,01/01/2013,"J. Silva / R. Méndez, M. Orchard, R. Rondanelli, J. Ortiz, M. Díaz",Departamento de Ingeniería Eléctrica,Iniciativa científica Milenio,Núcleos Milenio
+363,1110100,Insights on the proPerties and origin of the local (orion) spiral arm,01/03/2011,01/03/2015,E. Costa / R. Méndez,Departamento de Astronomía,FONDECYT,Regular
+364,3110133,"Nearby White  Dwafars and their close low mass companions: Searching of Planetary Companions to White Dwarfs with Debris Disks, and the caracterization of post-common envelope low mass companions among White Dwarfs.",01/03/2011,01/03/2011,R. Méndez,Departamento de Astronomía,FONDECYT,Postdoctorado
+365,1070312,"Constraining the orbits of nearby galaxies: Accurate absolute proper motions for the Carina, Fornax, Sculptor dwarf spheroidal galaxies",01/03/2007,01/03/2011,R. Méndez / E. Costa,Departamento de Astronomía,FONDECYT,Regular
+366,1050718,The absolute proper motions and star formation history of the magellanic clouds,01/03/2005,01/03/2009,E. Costa / R. Méndez,Departamento de Astronomía,FONDECYT,Regular
+367,1010137,In search of nearby starts: A parallax program for the southern sky,01/03/2001,01/03/2005,E. Costa / R. Méndez,Departamento de Astronomía,FONDECYT,Regular
+368,113,"In search of nearby stars: a parallax program for the southern sky
+",01/03/2000,01/03/2000,R. Méndez,Observatorio Cerro Tololo,FONDECYT,Regular
+369,1221442,Young Planets and Planet-forming Disks,01/04/2022,01/04/2026,L. Pérez,Departamento de Astronomía,FONDECYT,Regular
+370,3220495,The first stages towards the birth of planets,01/04/2022,01/04/2024,L. Pérez,Departamento de Astronomía,FONDECYT,Postdoctorado
+371,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+372,IM21_11479_en,"Millennium Institute for Astronomical and Technological Advances in Star and Planet
+Formation",01/03/2023,01/03/2023,L. Pérez,Departamento de Ingeniería Eléctrica,Iniciativa Científica Milenio,Institutos Milenios en Ciencias Exactas y Naturales
+373,3210520,Understanding the dust properties and chemical diversity in Class I protostars,01/03/2021,01/03/2024,L. Pérez,Departamento de Astronomía,FONDECYT,Postdoctorado
+374,3210548,The Growth of Solids: Early Stages of Planet Formation,01/08/2020,01/08/2020,L. Pérez,Departamento de Astronomía,FONDECYT,Postdoctorado
+375,ECOS200049,Upgrading theVLT/SPHEREInstrument toImage Planet-FormingRegions,01/04/2021,01/04/2024,L. Pérez,Departamento de Astronomía,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+376,3190662,The Role of Protoplanetary Disk Substructures in the Planetary Formation Process,01/03/2019,01/03/2022,L. Pérez,Departamento de Astronomía,FONDECYT,Postdoctorado
+377,UI_2018_15,Substructures in Protoplanetary Disks:What is their Role in the Planet Formation Process?,01/07/2018,01/07/2020,L. Pérez,Departamento de Astronomía,Fondo Central de Investigación,U-INICIA
+378,31180052,Studying the Dawn of Planets in the Era of ALMA,01/12/2018,01/12/2020,L. Pérez,Departamento de Astronomía,Astronomía,Fondo ALMA
+379,11181068,Substructures in Protoplanetary Disks: What is their Role in the Planet Formation Process?,01/11/2018,01/11/2021,L. Pérez,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+380,1241673,Time-Varying Phenomena and Techniques in Planetary Sciences: Insights from Ground-Based Observations,01/08/2023,01/08/2023,P. Rojo,Departamento de Astronomía,FONDECYT,Regular
+381,1191284,"Chile en la creación y transformación de las redes globales de observatorios astronómicos soviéticos Pulkovo y estaciones de rastreo satelital estadounidense NASA desde la Arquitectura, el diseño y el urbanismo (1957-1989)",01/04/2019,01/04/2022,P. Rojo,Universidad Católica de Chile,FONDECYT,Regular
+382,1190961,Alien Atmospheres from the Ground,01/08/2018,01/08/2018,P. Rojo,Departamento de Astronomía,FONDECYT,Regular
+383,31180015,Conference ¿Python in Astronomy 2019¿,01/07/2018,01/07/2018,P. Rojo,Departamento de Astronomía,Astronomía,Fondo ALMA
+384,1181894,Alien Atmospheres from the Ground,01/07/2017,01/07/2017,P. Rojo,Departamento de Astronomía,FONDECYT,Regular
+385,1180060,"Chile en la creación y transformación de las redes globales de observatorios astronómicos soviéticos Pulkovo y estaciones de rastreo satelital estadounidense NASA desde la arquitectura, el diseño y el urbanismo (1957-1989)",01/07/2017,01/07/2017,P. Rojo,Escuela de Arquitectura,FONDECYT,Regular
+386,3170584,The systematic search for empirical evidence of atmospheric variation in hot-Jupiter exoplanets,01/08/2016,01/08/2016,P. Rojo,Departamento de Astronomía,FONDECYT,Postdoctorado
+387,1170691,"¿Chile en la creación y transformación de la redes globales de observatorios astronómicos soviéticos Pulkovo y estaciones de rastreo satelital estadounidenses NASA desde la arquitectura, el diseño y el urbanismo (1957-1989)¿ ",01/09/2016,01/09/2016,P. Rojo,Escuela de Arquitectura,FONDECYT,Regular
+388,1171074,Characterization of Alien Atmospheres from Ground-based Observations,01/09/2016,01/09/2016,P. Rojo,Departamento de Astronomía,FONDECYT,Regular
+389,ENL013/16,Alien atmospheres characterized from the ground,01/08/2016,01/08/2017,P. Rojo,Departamento de Astronomía,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+390,ESO_2016_04,"Astrobiology 2017, Official Meeting of the IAU commission F3",01/10/2016,01/10/2017,P. Rojo,Departamento de Astronomía,ESO-Ministerio de Relaciones Internacionales,Comité Mixto ESO-Gobierno de Chile
+391,3160713,Transmission spectroscopy of transiting exoplanetary atmospheres using ground-based telescopes,01/06/2015,01/06/2015,P. Rojo,Departamento de Astronomía,FONDECYT,Postdoctorado
+392,1161471,Alien atmospheres characterized from the ground,01/06/2015,01/06/2015,P. Rojo,Departamento de Astronomía,FONDECYT,Regular
+393,ANM-44,Núcleo milenio de astrobiología,01/01/2013,01/01/2013,"P. Rojo / M. Reich, J. Asenjo de Leuze, D. Morata",Departamento de Astronomía,Iniciativa científica Milenio,Núcleos Milenio
+394,1120299,Search and characterization of extrasolar from ground-based telescopes,01/03/2012,01/03/2016,P. Rojo,Departamento de Astronomía,FONDECYT,Regular
+395,10264,Centro para la investigación multidisplinaria en procesamiento de señales,01/10/2012,01/10/2015,"N. Becerra / P. Rojo, W. Kracht, M. Adams",Departamento de Ingeniería Eléctrica,Programa de Investigación Asociativa,Concurso Anillos en Ciencia y Tecnologia
+396,G_19-11,Primeros pasos para nueva prueba de sitio en Antártica Oeste: en búsqueda del mejor sitio para observaciones astronómicas en nuestro planeta,01/11/2011,01/11/2013,P. Rojo,Departamento de Astronomía,INACH,Inst. Nacional Antártico de Chile
+397,3100063,The calan-hertforshire extrasolar planet search (cheps): Detailed analysis of stellar spectra.,01/03/2010,01/03/2010,P. Rojo,Departamento de Astronomía,FONDECYT,Postdoctorado
+398,31090030,CONICYT/ALMA Astronomy Grants for Ph.D. students at University of Chile,01/12/2009,01/12/2011,P. Rojo,Departamento de Astronomía,Astronomía,Fondo ALMA
+399,32090023,CONICYT/Gemini Grants for the Master Astronomy Program at University of Chile,01/12/2009,01/12/2010,P. Rojo,Departamento de Astronomía,Astronomía,Fondo GEMINI
+400,31080027,Grants for the Ph.D. Program in Astronomy of the University of Chile,01/12/2008,01/12/2010,P. Rojo,Departamento de Astronomía,Astronomía,Fondo ALMA
+401,32080022,De la Tierra al Universo en Chile derante el Año Internacional de la Astronomía 2009,01/12/2008,01/12/2010,P. Rojo,Departamento de Astronomía,Astronomía,Fondo GEMINI
+402,11080271,Ground-based characterization of extrasolar planets and systems.,01/10/2008,01/10/2011,P. Rojo,Departamento de Astronomía,FONDECYT,Iniciación en Investigación
+403,32070025,Diurnal Outreach Program with solar telescope at Cerro Calán,01/01/2007,01/01/2008,P. Rojo,Departamento de Astronomía,Astronomía,Fondo GEMINI
+404,I2 06/06-2,"Caracterización de planetas extrasolares
+",01/07/2006,01/07/2008,P. Rojo / M. Ruiz,Departamento de Astronomía,Fondo Central de Investigación,INICIACION
+405,32070024,Organización en Chile del Año Internacional de la Astronomía 2009,01/01/2007,01/06/2009,P. Rojo,Departamento de Astronomía,Astronomía,Fondo GEMINI
+406,1240407,Physical Properties of Low Metallicity Molecular Clouds,01/07/2023,01/07/2023,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+407,1230854,Physical Properties of Low Metallicity Molecular Clouds,01/08/2022,01/08/2022,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+408,3210769,Molecular species studies of star forming regions in the Magellanic Clouds,01/08/2020,01/08/2020,M. Rubio,Departamento de Astronomía,FONDECYT,Postdoctorado
+409,FB210003,Centro de Astrofísica y Tecnologías Afines,01/11/2021,01/11/2026,"G. Garay / A. Escala, G. Blanc, V. González, R. Muñoz, R. Finger, W. Max-Moerbeck, C. Fuentes, F. Forster, L. Pérez, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+410,3200350,Study of cold molecular gas in the ISM of metal-poor galaxies,01/01/2020,01/01/2020,M. Rubio,Departamento de Astronomía,FONDECYT,Postdoctorado
+411,3190905,Study of Cold Molecular Gas in the ISM of Low Metal-Poor Galaxies,01/10/2018,01/10/2018,M. Rubio,Departamento de Astronomía,FONDECYT,Postdoctorado
+412,1190684,Study of Low Metallicity Interstellar Medium,01/04/2019,01/04/2023,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+413,31190022,The Interstellar Medium properties in Metal Poor Galaxies,01/06/2019,01/06/2019,M. Rubio,Departamento de Astronomía,Astronomía,Fondo ALMA
+414,3180491,ISM PROPERTIES IN METAL-POOR GALAXIES,01/08/2017,01/08/2017,M. Rubio,Departamento de Astronomía,FONDECYT,Postdoctorado
+415,31180035,Star Formation through time: from near to far,01/12/2018,01/12/2020,M. Rubio,Departamento de Astronomía,Astronomía,Fondo ALMA
+416,1181763,Study of Low Metallicity Interstellar Medium,01/07/2017,01/07/2017,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+417,ENL22/18,Study of Low metaicity interstellar medium,01/07/2018,01/07/2019,M. Rubio,Departamento de Astronomía,Fondo Central de Investigación,U-APOYA: Proyectos de Enlaces
+418,3160117,Resolved star formation in the magellanic clouds,01/11/2015,01/11/2018,M. Rubio,Departamento de Astronomía,FONDECYT,Postdoctorado
+419,1140839,"Dust, molecules and star formation in low metallicity systems",01/03/2014,01/03/2018,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+420,DFG-2,The dense interstellar medium in the Magallanic Clouds,01/12/2010,01/12/2010,M. Rubio,Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo a proyectos DFG-CONICYT
+421,A-27,Cúmulos estelares jóvenes en ambientes diferentes,01/12/2009,01/12/2009,M. Rubio,Departamento de Astronomía,Programa de Investigación Asociativa,III Concurso Anillos en Ciencias y Antártico
+422,1080335,Massive star forming regions in the Magellanic clouds,01/03/2008,01/03/2012,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+423,C08U03,Materia interestelar fría en las Nubes de Magallanes,01/12/2008,01/12/2011,M. Rubio,Departamento de Astronomía,Cooperación Internacional: Proyectos bilaterales,Proyectos de intercambio CONICYT/ECOS-Francia
+424,1020805,Star formation in the magellanic clouds,01/06/2002,01/06/2002,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+425,15010003,Centro Nacional de Astrofísica,01/12/2001,01/12/2011,"G. Garay / J. Maza, M. Ruiz, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,FONDAP,Programa FONDAP
+426,1990881,Molecular clouds and star forming regions in the magellanic clouds,01/03/1999,01/03/2002,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+427,1960926,Properties of molecular clouds in the magellanic clouds,01/03/1996,01/03/1999,M. Rubio,Departamento de Astronomía,FONDECYT,Regular
+428,7960008,Interestellar medium is the Magellanic clouds,01/03/1996,01/03/1997,M. Rubio,Departamento de Astronomía,FONDECYT,Cooperación Internacional
+429,ACE210002,Centro de Astrofísica y Tecnologías Afínes,01/09/2021,01/09/2021,M. Ruiz,Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+430,AFB170002,Centro de Astrofísica y Tecnologías Afines,01/01/2018,01/01/2021,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa de Investigación Asociativa,Apoyo Centros Científicos y Tecn. de Excelencia con Financ. Basal
+431,AFB170002,Center for Astrophysics and Associated Technologies,01/11/2017,01/11/2017,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+432,3110004,The Calan-Hertfordshire Extrasolar Planet Search (CHEPS): Detailed Analysis of Stellar Spectra,01/10/2010,01/09/2013,M. Ruiz,Departamento de Astronomía,FONDECYT,Postdoctorado
+433,3100098,Searching for Benchmark ultracool dwarfs,01/10/2009,01/09/2012,M. Ruiz,Departamento de Astronomía,FONDECYT,Postdoctorado
+434,PFB06,Centro de Excelencia en Astrofísica y Tecnologías Afines,01/12/2007,01/12/2020,"M. Ruiz / G. Garay, L. Bronfman, J. Maza",Departamento de Astronomía,Programa Financiamiento Basal,Basal
+435,I2 06/06-2,"Caracterización de planetas extrasolares
+",01/07/2006,01/07/2008,P. Rojo / M. Ruiz,Departamento de Astronomía,Fondo Central de Investigación,INICIACION
+436,1010404,Old stellar populations in the solar vicinity,01/03/2001,01/03/2005,M. Ruiz,Departamento de Astronomía,FONDECYT,Regular
+437,15010003,Centro Nacional de Astrofísica,01/12/2001,01/12/2011,"G. Garay / J. Maza, M. Ruiz, L. Bronfman, M. Rubio, D. Mardones",Departamento de Astronomía,FONDAP,Programa FONDAP
+438,3000056,"Suothern open cluster study: Confronting main secuence, white dwarf and brown dwarf timescales",01/03/2000,01/03/2003,M. Ruiz,Departamento de Astronomía,FONDECYT,Postdoctorado
+439,1980659,Contribution of faint stellar objects to the budget of dark matter in the galaxy,01/03/1998,01/03/2001,M. Ruiz,Departamento de Astronomía,FONDECYT,Regular
+440,CP-1996/7,Estrellas Degeneradas Frías,01/12/1996,01/12/1998,M. Ruiz,Departamento de Astronomía,Cátedras Presidenciales,Cátedra Presidencial
+441,1950588,Study of dim stellar objects in the solar vicinity,01/03/1995,01/03/1998,M. Ruiz,Departamento de Astronomía,FONDECYT,Regular
