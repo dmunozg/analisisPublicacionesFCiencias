@@ -1,8 +1,8 @@
-,0
-527,Decanato
-540,Departamento de Biología
-552,Departamento de Ciencias Ecológicas
-544,Departamento de Física
-546,Departamento de Matemáticas
-548,Departamento de Química
-532,Escuela de Pregrado
+,0,dirName
+527,Decanato,decanato
+540,Departamento de Biología,departamento_de_biología
+552,Departamento de Ciencias Ecológicas,departamento_de_ciencias_ecológicas
+544,Departamento de Física,departamento_de_física
+546,Departamento de Matemáticas,departamento_de_matemáticas
+548,Departamento de Química,departamento_de_química
+532,Escuela de Pregrado,escuela_de_pregrado

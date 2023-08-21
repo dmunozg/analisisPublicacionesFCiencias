@@ -1,63 +1,63 @@
-,0
-1515,Campus
-1422,Centro de Medicina Reproductiva y Desarrollo Integral del Adolescente
-1495,Centro de Oncología Preventiva
-1262,Decanato
-1420,Departamento Cardiovascular
-1277,Departamento de Anatomia y Medicina Legal
-1521,Departamento de Anatomía Patológica
-1315,Departamento de Anestesiología y Reanimación
-1408,Departamento de Atención Primaria y Salud Familiar
-1424,Departamento de Bioética y Humanidades Médicas
-1406,Departamento de Ciencias Neurológicas Oriente
-1369,Departamento de Cirugía Centro
-1361,Departamento de Cirugía Norte
-1365,Departamento de Cirugía Occidente
-1363,Departamento de Cirugía Oriente
-1367,Departamento de Cirugía Sur
-1281,Departamento de Dermatología
-1493,Departamento de Educación en Ciencias de la Salud
-1430,Departamento de Enfermería
-1434,Departamento de Fonoaudiología
-1438,Departamento de Kinesiología
-1359,Departamento de Medicina Interna Centro
-1345,Departamento de Medicina Interna Norte
-1349,Departamento de Medicina Interna Occidente
-1347,Departamento de Medicina Interna Oriente
-1357,Departamento de Medicina Interna Sur
-1548,Departamento de Neurociencias
-1402,Departamento de Neurología y Neurocirugía Norte
-1404,Departamento de Neurología y Neurocirugía Sur
-1279,Departamento de Nutrición
-1527,Departamento de Obstetricia y Ginecología Centro
-1371,Departamento de Obstetricia y Ginecología Norte
-1377,Departamento de Obstetricia y Ginecología Occidente
-1375,Departamento de Obstetricia y Ginecología Oriente
-1379,Departamento de Obstetricia y Ginecología Sur
-1295,Departamento de Oftalmología
-1546,Departamento de Oncología Básico _ Clínico
-1302,Departamento de Otorrinolaringología
-1391,Departamento de Pediatría y Cirugía Infantil Centro
-1382,Departamento de Pediatría y Cirugía Infantil Norte
-1387,Departamento de Pediatría y Cirugía Infantil Occidente
-1384,Departamento de Pediatría y Cirugía Infantil Oriente
-1389,Departamento de Pediatría y Cirugía Infantil Sur
-1448,Departamento de Promoción de la Salud de la Mujer y el Recién Nacido
-1393,Departamento de Psiquiatría y Salud Mental Norte
-1395,Departamento de Psiquiatría y Salud Mental Oriente
-1400,Departamento de Psiquiatría y Salud Mental Sur
-1309,Departamento de Radiología
-1452,Departamento de Tecnología Médica
-1456,Departamento de Terapia Ocupacional y Ciencia de la Ocupación
-1288,Departamento de Traumatología
-1321,Departamento de Urología
-1462,Dirección Académica
-1534,Dirección Asuntos Estudiantiles
-1556,Dirección de Pregrado
-1398,Dpto. de Psiquiatría y Salud Mental de la Infancia y la Adolescencia
-1442,Escuela de Medicina
-1445,Escuela de Nutrición y Dietética
-1460,Escuela de Postgrado
-1330,Instituto de Ciencias Biomédicas
-1411,Instituto de Investigaciones Materno - Infantil
-1544,Instituto de Salud Poblacional
+,0,dirName
+1515,Campus,campus
+1422,Centro de Medicina Reproductiva y Desarrollo Integral del Adolescente,centro_de_medicina_reproductiva_y_desarrollo_integral_del_adolescente
+1495,Centro de Oncología Preventiva,centro_de_oncología_preventiva
+1262,Decanato,decanato
+1420,Departamento Cardiovascular,departamento_cardiovascular
+1277,Departamento de Anatomia y Medicina Legal,departamento_de_anatomia_y_medicina_legal
+1521,Departamento de Anatomía Patológica,departamento_de_anatomía_patológica
+1315,Departamento de Anestesiología y Reanimación,departamento_de_anestesiología_y_reanimación
+1408,Departamento de Atención Primaria y Salud Familiar,departamento_de_atención_primaria_y_salud_familiar
+1424,Departamento de Bioética y Humanidades Médicas,departamento_de_bioética_y_humanidades_médicas
+1406,Departamento de Ciencias Neurológicas Oriente,departamento_de_ciencias_neurológicas_oriente
+1369,Departamento de Cirugía Centro,departamento_de_cirugía_centro
+1361,Departamento de Cirugía Norte,departamento_de_cirugía_norte
+1365,Departamento de Cirugía Occidente,departamento_de_cirugía_occidente
+1363,Departamento de Cirugía Oriente,departamento_de_cirugía_oriente
+1367,Departamento de Cirugía Sur,departamento_de_cirugía_sur
+1281,Departamento de Dermatología,departamento_de_dermatología
+1493,Departamento de Educación en Ciencias de la Salud,departamento_de_educación_en_ciencias_de_la_salud
+1430,Departamento de Enfermería,departamento_de_enfermería
+1434,Departamento de Fonoaudiología,departamento_de_fonoaudiología
+1438,Departamento de Kinesiología,departamento_de_kinesiología
+1359,Departamento de Medicina Interna Centro,departamento_de_medicina_interna_centro
+1345,Departamento de Medicina Interna Norte,departamento_de_medicina_interna_norte
+1349,Departamento de Medicina Interna Occidente,departamento_de_medicina_interna_occidente
+1347,Departamento de Medicina Interna Oriente,departamento_de_medicina_interna_oriente
+1357,Departamento de Medicina Interna Sur,departamento_de_medicina_interna_sur
+1548,Departamento de Neurociencias,departamento_de_neurociencias
+1402,Departamento de Neurología y Neurocirugía Norte,departamento_de_neurología_y_neurocirugía_norte
+1404,Departamento de Neurología y Neurocirugía Sur,departamento_de_neurología_y_neurocirugía_sur
+1279,Departamento de Nutrición,departamento_de_nutrición
+1527,Departamento de Obstetricia y Ginecología Centro,departamento_de_obstetricia_y_ginecología_centro
+1371,Departamento de Obstetricia y Ginecología Norte,departamento_de_obstetricia_y_ginecología_norte
+1377,Departamento de Obstetricia y Ginecología Occidente,departamento_de_obstetricia_y_ginecología_occidente
+1375,Departamento de Obstetricia y Ginecología Oriente,departamento_de_obstetricia_y_ginecología_oriente
+1379,Departamento de Obstetricia y Ginecología Sur,departamento_de_obstetricia_y_ginecología_sur
+1295,Departamento de Oftalmología,departamento_de_oftalmología
+1546,Departamento de Oncología Básico _ Clínico,departamento_de_oncología_básico_clínico
+1302,Departamento de Otorrinolaringología,departamento_de_otorrinolaringología
+1391,Departamento de Pediatría y Cirugía Infantil Centro,departamento_de_pediatría_y_cirugía_infantil_centro
+1382,Departamento de Pediatría y Cirugía Infantil Norte,departamento_de_pediatría_y_cirugía_infantil_norte
+1387,Departamento de Pediatría y Cirugía Infantil Occidente,departamento_de_pediatría_y_cirugía_infantil_occidente
+1384,Departamento de Pediatría y Cirugía Infantil Oriente,departamento_de_pediatría_y_cirugía_infantil_oriente
+1389,Departamento de Pediatría y Cirugía Infantil Sur,departamento_de_pediatría_y_cirugía_infantil_sur
+1448,Departamento de Promoción de la Salud de la Mujer y el Recién Nacido,departamento_de_promoción_de_la_salud_de_la_mujer_y_el_recién_nacido
+1393,Departamento de Psiquiatría y Salud Mental Norte,departamento_de_psiquiatría_y_salud_mental_norte
+1395,Departamento de Psiquiatría y Salud Mental Oriente,departamento_de_psiquiatría_y_salud_mental_oriente
+1400,Departamento de Psiquiatría y Salud Mental Sur,departamento_de_psiquiatría_y_salud_mental_sur
+1309,Departamento de Radiología,departamento_de_radiología
+1452,Departamento de Tecnología Médica,departamento_de_tecnología_médica
+1456,Departamento de Terapia Ocupacional y Ciencia de la Ocupación,departamento_de_terapia_ocupacional_y_ciencia_de_la_ocupación
+1288,Departamento de Traumatología,departamento_de_traumatología
+1321,Departamento de Urología,departamento_de_urología
+1462,Dirección Académica,dirección_académica
+1534,Dirección Asuntos Estudiantiles,dirección_asuntos_estudiantiles
+1556,Dirección de Pregrado,dirección_de_pregrado
+1398,Dpto. de Psiquiatría y Salud Mental de la Infancia y la Adolescencia,dpto_de_psiquiatría_y_salud_mental_de_la_infancia_y_la_adolescencia
+1442,Escuela de Medicina,escuela_de_medicina
+1445,Escuela de Nutrición y Dietética,escuela_de_nutrición_y_dietética
+1460,Escuela de Postgrado,escuela_de_postgrado
+1330,Instituto de Ciencias Biomédicas,instituto_de_ciencias_biomédicas
+1411,Instituto de Investigaciones Materno - Infantil,instituto_de_investigaciones_materno_infantil
+1544,Instituto de Salud Poblacional,instituto_de_salud_poblacional

@@ -1,7 +1,7 @@
-,0
-883,Decanato
-902,Departamento de Desarrollo en Productos Forestales
-904,Departamento de Gestión Forestal y su Medio Ambiente
-900,Departamento de Silvicultura y Conservación de la Naturaleza
-891,Escuela de Postgrado
-888,Escuela de Pregrado Ciencias Forestales
+,0,dirName
+883,Decanato,decanato
+902,Departamento de Desarrollo en Productos Forestales,departamento_de_desarrollo_en_productos_forestales
+904,Departamento de Gestión Forestal y su Medio Ambiente,departamento_de_gestión_forestal_y_su_medio_ambiente
+900,Departamento de Silvicultura y Conservación de la Naturaleza,departamento_de_silvicultura_y_conservación_de_la_naturaleza
+891,Escuela de Postgrado,escuela_de_postgrado
+888,Escuela de Pregrado Ciencias Forestales,escuela_de_pregrado_ciencias_forestales

@@ -1,7 +1,7 @@
-,0
-701,Departamento de Administración
-670,Departamento de Economía
-705,Departamento de Sistemas de Información y Auditoría
-709,Escuela de Economía y Administración
-726,"Escuela de Postgrado, Economía y Negocios"
-760,Escuelas de Pre-Grado
+,0,dirName
+701,Departamento de Administración,departamento_de_administración
+670,Departamento de Economía,departamento_de_economía
+705,Departamento de Sistemas de Información y Auditoría,departamento_de_sistemas_de_información_y_auditoría
+709,Escuela de Economía y Administración,escuela_de_economía_y_administración
+726,"Escuela de Postgrado, Economía y Negocios",escuela_de_postgrado_economía_y_negocios
+760,Escuelas de Pre-Grado,escuelas_de_pre_grado

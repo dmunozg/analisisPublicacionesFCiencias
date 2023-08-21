@@ -1,14 +1,14 @@
-,0
-626,Centro de Estudios de Zonas Áridas
-601,Departamento Agroindustria y Enología
-605,Departamento de  Ingeniería y Suelos
-589,Departamento de Ciencias Ambientales y Recursos Naturales Renovables
-603,Departamento de Gestión e Innovación Rural
-593,Departamento de Producción Agrícola
-597,Departamento de Producción Animal
-595,Departamento de Sanidad Vegetal
-607,Dirección Académica
-609,Dirección de Extensión
-634,Dirección de Investigación
-587,Escuela de Postgrado
-577,Escuela de Pregrado
+,0,dirName
+626,Centro de Estudios de Zonas Áridas,centro_de_estudios_de_zonas_áridas
+601,Departamento Agroindustria y Enología,departamento_agroindustria_y_enología
+605,Departamento de  Ingeniería y Suelos,departamento_de_ingeniería_y_suelos
+589,Departamento de Ciencias Ambientales y Recursos Naturales Renovables,departamento_de_ciencias_ambientales_y_recursos_naturales_renovables
+603,Departamento de Gestión e Innovación Rural,departamento_de_gestión_e_innovación_rural
+593,Departamento de Producción Agrícola,departamento_de_producción_agrícola
+597,Departamento de Producción Animal,departamento_de_producción_animal
+595,Departamento de Sanidad Vegetal,departamento_de_sanidad_vegetal
+607,Dirección Académica,dirección_académica
+609,Dirección de Extensión,dirección_de_extensión
+634,Dirección de Investigación,dirección_de_investigación
+587,Escuela de Postgrado,escuela_de_postgrado
+577,Escuela de Pregrado,escuela_de_pregrado

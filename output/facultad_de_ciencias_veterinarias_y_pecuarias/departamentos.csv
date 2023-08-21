@@ -1,11 +1,11 @@
-,0
-1024,Decanato
-1046,Departamento de Ciencias Biológicas Animales
-1055,Departamento de Ciencias Clínicas
-1072,Departamento de Fomento de la Producción Animal
-1064,Departamento de Medicina Preventiva Animal
-1048,Departamento de Patología Animal
-1091,Dirección de Investigación
-1044,Escuela de Postgrado
-1039,Escuela de Pregrado
-1027,Vicedecanato
+,0,dirName
+1024,Decanato,decanato
+1046,Departamento de Ciencias Biológicas Animales,departamento_de_ciencias_biológicas_animales
+1055,Departamento de Ciencias Clínicas,departamento_de_ciencias_clínicas
+1072,Departamento de Fomento de la Producción Animal,departamento_de_fomento_de_la_producción_animal
+1064,Departamento de Medicina Preventiva Animal,departamento_de_medicina_preventiva_animal
+1048,Departamento de Patología Animal,departamento_de_patología_animal
+1091,Dirección de Investigación,dirección_de_investigación
+1044,Escuela de Postgrado,escuela_de_postgrado
+1039,Escuela de Pregrado,escuela_de_pregrado
+1027,Vicedecanato,vicedecanato

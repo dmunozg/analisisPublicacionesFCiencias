@@ -1,13 +1,13 @@
-,0
-389,Centro de Proyectos Externos
-368,Departamento de Arquitectura
-399,Departamento de Diseño
-375,Departamento de Geografía
-370,Departamento de Urbanismo
-410,Dirección Extensión (DEX)
-401,Dirección de Asuntos Estudiantiles
-381,Escuela de Postgrado
-416,Escuela de Pregrado Unificada
-372,Instituto de Historia y Patrimonio
-387,Instituto de la Vivienda
-335,Vicedecanato
+,0,dirName
+389,Centro de Proyectos Externos,centro_de_proyectos_externos
+368,Departamento de Arquitectura,departamento_de_arquitectura
+399,Departamento de Diseño,departamento_de_diseño
+375,Departamento de Geografía,departamento_de_geografía
+370,Departamento de Urbanismo,departamento_de_urbanismo
+410,Dirección Extensión (DEX),dirección_extensión_dex
+401,Dirección de Asuntos Estudiantiles,dirección_de_asuntos_estudiantiles
+381,Escuela de Postgrado,escuela_de_postgrado
+416,Escuela de Pregrado Unificada,escuela_de_pregrado_unificada
+372,Instituto de Historia y Patrimonio,instituto_de_historia_y_patrimonio
+387,Instituto de la Vivienda,instituto_de_la_vivienda
+335,Vicedecanato,vicedecanato

@@ -1,8 +1,8 @@
-,0
-1808,Administración
-1804,Dirección
-1813,Secretarías
-1840,Área Alimentos y Biotecnología
-1835,Área Nutrición Básica
-1827,Área Nutrición Humana y Clínica
-1820,Área Nutrición Pública
+,0,dirName
+1808,Administración,administración
+1804,Dirección,dirección
+1813,Secretarías,secretarías
+1840,Área Alimentos y Biotecnología,área_alimentos_y_biotecnología
+1835,Área Nutrición Básica,área_nutrición_básica
+1827,Área Nutrición Humana y Clínica,área_nutrición_humana_y_clínica
+1820,Área Nutrición Pública,área_nutrición_pública

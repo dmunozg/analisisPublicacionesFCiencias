@@ -1,10 +1,10 @@
-,0
-916,Decanato
-929,Departamento de Bioquímica y Biología Molecular
-931,Departamento de Ciencia de los Alimentos y Tecnología Química
-927,Departamento de Ciencias y Tecnología Farmacéutica
-933,Departamento de Química Farmacológica y Toxicológica
-925,Departamento de Química Inorgánica y Analítica
-923,Departamento de Química Orgánica y Físico Química
-937,Escuela de Postgrado
-935,"Escuela de Química, Farmacia y Bioquímica"
+,0,dirName
+916,Decanato,decanato
+929,Departamento de Bioquímica y Biología Molecular,departamento_de_bioquímica_y_biología_molecular
+931,Departamento de Ciencia de los Alimentos y Tecnología Química,departamento_de_ciencia_de_los_alimentos_y_tecnología_química
+927,Departamento de Ciencias y Tecnología Farmacéutica,departamento_de_ciencias_y_tecnología_farmacéutica
+933,Departamento de Química Farmacológica y Toxicológica,departamento_de_química_farmacológica_y_toxicológica
+925,Departamento de Química Inorgánica y Analítica,departamento_de_química_inorgánica_y_analítica
+923,Departamento de Química Orgánica y Físico Química,departamento_de_química_orgánica_y_físico_química
+937,Escuela de Postgrado,escuela_de_postgrado
+935,"Escuela de Química, Farmacia y Bioquímica",escuela_de_química_farmacia_y_bioquímica

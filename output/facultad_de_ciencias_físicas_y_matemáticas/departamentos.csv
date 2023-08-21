@@ -1,21 +1,21 @@
-,0
-874,Centro Avanzado de Tecnología para la Minería
-878,Centro NIC Chile
-2684,Centro de Aceleración Sostenible de Electromovilidad (CASE)
-872,Centro de Energía
-860,Centro de Modelamiento Matemático
-789,Decanato
-803,Departamento de Astronomía
-830,Departamento de Ciencias de la Computación
-805,Departamento de Física
-809,Departamento de Geofísica
-807,Departamento de Geología
-814,Departamento de Ingeniería Civil
-816,Departamento de Ingeniería Eléctrica
-818,Departamento de Ingeniería Industrial
-828,Departamento de Ingeniería Matemática
-820,Departamento de Ingeniería Mecánica
-880,"Departamento de Ingeniería Química, Biotecnología y Materiales"
-822,Departamento de Ingeniería de Minas
-801,Escuela de Ingeniería y Ciencias
-850,Escuela de Postgrado
+,0,dirName
+874,Centro Avanzado de Tecnología para la Minería,centro_avanzado_de_tecnología_para_la_minería
+878,Centro NIC Chile,centro_nic_chile
+2684,Centro de Aceleración Sostenible de Electromovilidad (CASE),centro_de_aceleración_sostenible_de_electromovilidad_case
+872,Centro de Energía,centro_de_energía
+860,Centro de Modelamiento Matemático,centro_de_modelamiento_matemático
+789,Decanato,decanato
+803,Departamento de Astronomía,departamento_de_astronomía
+830,Departamento de Ciencias de la Computación,departamento_de_ciencias_de_la_computación
+805,Departamento de Física,departamento_de_física
+809,Departamento de Geofísica,departamento_de_geofísica
+807,Departamento de Geología,departamento_de_geología
+814,Departamento de Ingeniería Civil,departamento_de_ingeniería_civil
+816,Departamento de Ingeniería Eléctrica,departamento_de_ingeniería_eléctrica
+818,Departamento de Ingeniería Industrial,departamento_de_ingeniería_industrial
+828,Departamento de Ingeniería Matemática,departamento_de_ingeniería_matemática
+820,Departamento de Ingeniería Mecánica,departamento_de_ingeniería_mecánica
+880,"Departamento de Ingeniería Química, Biotecnología y Materiales",departamento_de_ingeniería_química_biotecnología_y_materiales
+822,Departamento de Ingeniería de Minas,departamento_de_ingeniería_de_minas
+801,Escuela de Ingeniería y Ciencias,escuela_de_ingeniería_y_ciencias
+850,Escuela de Postgrado,escuela_de_postgrado

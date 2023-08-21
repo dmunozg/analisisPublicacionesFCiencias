@@ -1,14 +1,14 @@
-,0
-2164,Centro de Diagnóstico
-2159,Departamento Cardiovascular
-2106,Departamento de Anestesiología y Reanimación
-2108,Departamento de Cirugía
-2112,Departamento de Medicina
-2147,Departamento de Obstetricia y Ginecología
-2059,Dirección
-2251,Dirección Académica
-2104,Dirección Médica
-2224,Gerencia de Negocios Corporativos
-2260,Servicio de Pediatría
-2187,Servicios de Apoyo
-2256,Unidad de Apoyo a la Investigación Científica
+,0,dirName
+2164,Centro de Diagnóstico,centro_de_diagnóstico
+2159,Departamento Cardiovascular,departamento_cardiovascular
+2106,Departamento de Anestesiología y Reanimación,departamento_de_anestesiología_y_reanimación
+2108,Departamento de Cirugía,departamento_de_cirugía
+2112,Departamento de Medicina,departamento_de_medicina
+2147,Departamento de Obstetricia y Ginecología,departamento_de_obstetricia_y_ginecología
+2059,Dirección,dirección
+2251,Dirección Académica,dirección_académica
+2104,Dirección Médica,dirección_médica
+2224,Gerencia de Negocios Corporativos,gerencia_de_negocios_corporativos
+2260,Servicio de Pediatría,servicio_de_pediatría
+2187,Servicios de Apoyo,servicios_de_apoyo
+2256,Unidad de Apoyo a la Investigación Científica,unidad_de_apoyo_a_la_investigación_científica

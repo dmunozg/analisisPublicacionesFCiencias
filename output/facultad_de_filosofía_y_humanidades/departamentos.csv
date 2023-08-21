@@ -1,10 +1,10 @@
-,0
-1233,Centro de Estudios Árabes
-1221,Ciencias Históricas
-1239,Departamento de Estudios Pedagógicos
-1245,Escuela de Postgrado
-1219,Escuela de Pregrado
-1229,Estudios Culturales Regionales
-1223,Filosofía
-1225,Lingüística
-1227,Literatura
+,0,dirName
+1233,Centro de Estudios Árabes,centro_de_estudios_árabes
+1221,Ciencias Históricas,ciencias_históricas
+1239,Departamento de Estudios Pedagógicos,departamento_de_estudios_pedagógicos
+1245,Escuela de Postgrado,escuela_de_postgrado
+1219,Escuela de Pregrado,escuela_de_pregrado
+1229,Estudios Culturales Regionales,estudios_culturales_regionales
+1223,Filosofía,filosofía
+1225,Lingüística,lingüística
+1227,Literatura,literatura

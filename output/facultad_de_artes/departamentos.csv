@@ -1,11 +1,11 @@
-,0
-421,Decanato
-451,Departamento de Artes Visuales
-455,Departamento de Danza
-448,Departamento de Música
-524,Departamento de Sonido
-441,Departamento de Teatro
-445,Departamento de Teoría de las Artes
-432,Dirección Estudiantil
-457,Escuela de Artes
-459,Escuela de Postgrado
+,0,dirName
+421,Decanato,decanato
+451,Departamento de Artes Visuales,departamento_de_artes_visuales
+455,Departamento de Danza,departamento_de_danza
+448,Departamento de Música,departamento_de_música
+524,Departamento de Sonido,departamento_de_sonido
+441,Departamento de Teatro,departamento_de_teatro
+445,Departamento de Teoría de las Artes,departamento_de_teoría_de_las_artes
+432,Dirección Estudiantil,dirección_estudiantil
+457,Escuela de Artes,escuela_de_artes
+459,Escuela de Postgrado,escuela_de_postgrado
